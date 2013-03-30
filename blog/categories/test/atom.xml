@@ -4,7 +4,7 @@
   <title><![CDATA[Category: test | Magnil的博客]]></title>
   <link href="http://Magnil.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://Magnil.github.com/"/>
-  <updated>2013-03-30T16:20:37+08:00</updated>
+  <updated>2013-03-30T17:01:30+08:00</updated>
   <id>http://Magnil.github.com/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
@@ -335,7 +335,8 @@ title: Blogging Like a Hacker
 <p>注册账号什么的就不提了，Disqus支持很多的博客平台，参见下图：
 <img src="/images/githubpages/disqus-site.jpg" alt="Disqus sites" /></p>
 
-<p>我们选择最下面的<code>Universal Code</code>就好，然后会看到一个介绍页面，把下面这段代码复制到你的模板里面，可以只复制到显示文章的模板中：</p>
+<p>我们选择最下面的<code>Universal Code</code>就好，然后会看到一个介绍页面，把下面这段代码复制到你的模板里面，可以只复制到显示文章的模板中：
+``` html</p>
 
 <pre><code>&lt;div id="disqus_thread"&gt;&lt;/div&gt;
 &lt;script type="text/javascript"&gt;
@@ -353,7 +354,8 @@ title: Blogging Like a Hacker
 &lt;a href="http://disqus.com" class="dsq-brlink"&gt;blog comments powered by &lt;span class="logo-disqus"&gt;Disqus&lt;/span&gt;&lt;/a&gt;
 </code></pre>
 
-<p>配置完之后，你也可以做一些异步加载的处理，提高性能，比如我就在最开始页面打开的时候不显示评论，当你想看评论的时候，点击“显示评论”再加载Disqus的模块。代码很简单，你可以参考我的写法。</p>
+<p>```
+配置完之后，你也可以做一些异步加载的处理，提高性能，比如我就在最开始页面打开的时候不显示评论，当你想看评论的时候，点击“显示评论”再加载Disqus的模块。代码很简单，你可以参考我的写法。</p>
 
 <pre><code>$('#disqus_container .comment').on('click',function(){
         $(this).html('加载中...');
