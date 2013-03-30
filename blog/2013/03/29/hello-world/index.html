@@ -508,7 +508,7 @@ sudo gem sources -a http://ruby.taobao.org/
 <p>如果你跟着这篇不那么详尽的教程，成功搭建了自己的博客，恭喜你！剩下的就是保持热情的去写自己的文章吧。</p>
 </div>
 
-<div class="post-index"></div>
+
 
   <footer>
     <p class="meta">
@@ -616,37 +616,12 @@ sudo gem sources -a http://ruby.taobao.org/
       $('.post-index').append(tmp);
   });
 </script>
-<section>
-  <h1>最新文章</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/03/29/hello-world/">Hello World</a>
-      </li>
-    
-  </ul>
-</section>
 
   
 </aside>
 
 
-<script type="text/javascript">
-  tmp = '<div><a href="#">CONTENTS</a></div>';
-  $('.post-index').append(tmp);
-  $.each($('h3, h4'), function(index, item){
-      item.id = 'menuindex'+index;
-      tmpText = $(item).text();
-      if(item.tagName.toLowerCase() == 'h3'){
-        tmpClass = 'menuindexh3';
-      }else{
-        tmpClass = 'menuindexh4';
-      }
-      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
-            '">' + tmpText + '</a></div>';
-      $('.post-index').append(tmp);
-  });
-</script>
+
 
 
     </div>
