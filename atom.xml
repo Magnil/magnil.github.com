@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[xiaoxy的博客]]></title>
+  <title><![CDATA[magnil的博客]]></title>
   <link href="http://Magnil.github.com/atom.xml" rel="self"/>
   <link href="http://Magnil.github.com/"/>
-  <updated>2013-03-30T09:17:36+08:00</updated>
+  <updated>2013-03-30T09:32:41+08:00</updated>
   <id>http://Magnil.github.com/</id>
   <author>
-    <name><![CDATA[xiaoxy]]></name>
+    <name><![CDATA[magnil]]></name>
     <email><![CDATA[lovcrimson@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
