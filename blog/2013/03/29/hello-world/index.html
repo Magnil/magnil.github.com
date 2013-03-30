@@ -598,6 +598,24 @@ sudo gem sources -a http://ruby.taobao.org/
   除非另有声明，本网站所有作品均采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>授权。
   </p>
 </section>
+<div class="post-index"></div>
+
+<script type="text/javascript">
+  tmp = '<div><a href="#">CONTENTS</a></div>';
+  $('.post-index').append(tmp);
+  $.each($('h3, h4'), function(index, item){
+      item.id = 'menuindex'+index;
+      tmpText = $(item).text();
+      if(item.tagName.toLowerCase() == 'h3'){
+        tmpClass = 'menuindexh3';
+      }else{
+        tmpClass = 'menuindexh4';
+      }
+      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
+            '">' + tmpText + '</a></div>';
+      $('.post-index').append(tmp);
+  });
+</script>
 <section>
   <h1>最新文章</h1>
   <ul id="recent_posts">
