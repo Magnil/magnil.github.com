@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[分类: test | Magnil的博客]]></title>
+  <title><![CDATA[Category: test | Magnil的博客]]></title>
   <link href="http://Magnil.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://Magnil.github.com/"/>
-  <updated>2013-03-31T15:54:20+08:00</updated>
+  <updated>2013-03-31T18:29:01+08:00</updated>
   <id>http://Magnil.github.com/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
@@ -20,7 +20,7 @@
     <id>http://Magnil.github.com/blog/2013/03/29/hello-world</id>
     <content type="html"><![CDATA[<p>Hello World!</p>
 
-<p>This is my first blog.</p>
+<p>This is my first blog. 点击阅读更多。</p>
 
 <!-- more -->
 
