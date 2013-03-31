@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: test | Magnil的博客]]></title>
+  <title><![CDATA[分类: test | Magnil的博客]]></title>
   <link href="http://Magnil.github.com/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://Magnil.github.com/"/>
   <updated>2013-03-31T15:54:20+08:00</updated>
