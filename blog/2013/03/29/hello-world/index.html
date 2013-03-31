@@ -567,13 +567,13 @@ sudo gem sources -a http://ruby.taobao.org/
 <script type="text/javascript">
   tmp = '<div><a href="#">目录</a></div>';
   $('.post-index').append(tmp);
-  $.each($('h3, h4'), function(index, item){
+  $.each($('h2, h3'), function(index, item){
       item.id = 'menuindex'+index;
       tmpText = $(item).text();
-      if(item.tagName.toLowerCase() == 'h3'){
-        tmpClass = 'menuindexh3';
+      if(item.tagName.toLowerCase() == 'h2'){
+        tmpClass = 'menuindexh2';
       }else{
-        tmpClass = 'menuindexh4';
+        tmpClass = 'menuindexh3';
       }
       tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
             '">' + tmpText + '</a></div>';
