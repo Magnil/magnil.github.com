@@ -4,7 +4,7 @@
   <title><![CDATA[Magnil的博客]]></title>
   <link href="http://Magnil.github.com/atom.xml" rel="self"/>
   <link href="http://Magnil.github.com/"/>
-  <updated>2013-04-14T19:24:56+08:00</updated>
+  <updated>2013-04-14T21:30:03+08:00</updated>
   <id>http://Magnil.github.com/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
@@ -18,18 +18,42 @@
     <link href="http://Magnil.github.com/blog/2013/04/14/everything-is-a-remix/"/>
     <updated>2013-04-14T14:42:00+08:00</updated>
     <id>http://Magnil.github.com/blog/2013/04/14/everything-is-a-remix</id>
-    <content type="html"><![CDATA[<h2>第一部：旧调重弹</h2>
+    <content type="html"><![CDATA[<h2>前言</h2>
+
+<p><em>我们的创造力源于外部，而非内部。我们并非通过自身努力就能成功。我们需要相互依赖，并且承认这一点并不意味着拥抱平庸和模仿他人，而是能把我们从误解中解放出来。这还会促使我们不要从自己身上期望太多，鼓励我们轻装上阵。—— Kirby Ferguson</em></p>
+
+<p>知识产权在国内网络环境中仿佛一个不能触碰的敏感话题，凡是对其有任何异议，都会被打入“窃贼”的行列，现实社会里大众的版权漠视心态更是助长了这一观念的滋生，戾气颇重。</p>
+
+<p>而另一方面，掌握着话语权的媒体大肆宣传国内的“山寨”行径，一时之间仿佛山寨成为了国人的劣根性，殊不知这是全世界共通的人的天性。或出于心理上的自卑感，或出于对被山寨作品的愧疚，大众对知识产权的认识反而到了矫枉过正的地步——凡是<em>我</em>觉得相似的，不管思想是否存在撞车的可能，不管技术上是否达到侵权标准，不在乎相关法律的规定和业界规则，只要我认定是，那必定是抄袭。</p>
+
+<p>我说的是国内许多 IT 企业所面临的莫须有的山寨指责（当然，也有很多是应得的）；我说是文艺作品里常常被我们误指作抄袭的电影、小说、电视剧、音乐等等；我说是同人圈里有些人对抄袭的认定已经到了姿势都不能一样的地步，对于自己的同人创作视为禁脔，却很少有人在自己的同人作品里标注<em>权利归原作所有</em>。</p>
+
+<p>这些都是相当危险的想法，这表示我们对于创作的本源和自身的模仿天性，已经忽视到了无可附加的地步。所以我决定翻译这个视频，给大家提供另外一个视角。</p>
+
+<!-- more -->
+
+
+<p>遗憾是，该纪录片只是提出了创造力的真相，对于知识产权的部分的探讨并不够深入，对此部分可以参考 Ted 上 Creative Common 创始人 Larry Lessig 的演讲——<a href="http://www.ted.com/talks/larry_lessig_says_the_law_is_strangling_creativity.html">法律如何扼杀创造力</a>。国内观众如果缓冲太慢，请点击此处<a href="http://v.youku.com/v_show/id_XNDkwNTA5OTgw.html">优酷版</a>。</p>
+
+<p>为了避免被误解或是被滥用，需要特别申明的是，无论是视频原作者还是我，持这样的观点并不是彻头彻底的反版权人士，亦不是为盗版行为辩护——而是我们需要重新正视知识版权法的原本初衷，在创作的自由和法律的公平之间，寻求一个平衡点。</p>
+
+<p>正如 Larry Lessig 所说：<em>“我们看到的是比反抗（版权制度）更危险的东西，冲突双方都陷入了极端主义的怪圈。在这次争端中，法律和新兴技术互不相让……（中略）……一方的极端主义会使另一方效仿，这是我们早该认清不知道多少次的事实。这一冲突中的两个极端都是错误的，而我所要争取的一个平衡点。”</em></p>
+
+<p>视频开始：</p>
+
+<div><object id='sinaplayer' width='640' height='480' ><param name='allowScriptAccess' value='always' /><embed pluginspage='http://www.macromedia.com/go/getflashplayer' src='http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101599617_1804531244_PxixHCU5XmXK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SzfCclD9noLHcwydP4n0hQkbqtf/s.swf' type='application/x-shockwave-flash' name='sinaplayer' allowFullScreen='true' allowScriptAccess='always' width='640' height='480'></embed></object></div>
+
+
+<p>为方便无法观看视频的读者，以下是经过重新润色后的文字整理版。</p>
+
+<h2>第一部：旧调重弹</h2>
 
 <h3>早期的 remix</h3>
 
 <p>Remix，是指将现有的素材组合或编辑，创作出新的作品。这个说法始出于音乐界，并随着上世纪末的 hip-hop 浪潮而兴起。Remix 也是第一个从现有录音中采样的音乐形式。</p>
 
-<p>早期案例：糖山帮（the Sugarhill Gang）从 Chic 乐队的 Good Times 采样了贝斯 riff，并用在自己1979 年的热门单曲 Rapper&#8217;s Delight 中。之后这段贝斯被多次使用于各个作品中。</p>
-
-<!-- more -->
-
-
-<p>注：Rapper&#8217;s Delight 被认为是将 hip-hop 概念推向大众的第一首歌。</p>
+<p>早期案例：糖山帮（the Sugarhill Gang）从 Chic 乐队的 Good Times 采样了贝斯 riff，并用在自己1979 年的热门单曲 Rapper&#8217;s Delight 中。之后这段贝斯被多次使用于各个作品中。
+<em>注：Rapper&#8217;s Delight 被认为是将 hip-hop 概念推向大众的第一首歌。</em></p>
 
 <p>时至今日，任何人可以 remix 任何东西——音乐、视频、照片，随你高兴——并且瞬间散布到全世界。你不需要昂贵的工具，不需要批发商，甚至都不需要什么技巧。Remix 是平民艺术，任何人都能做到。</p>
 
@@ -100,9 +124,8 @@
 
 <p>即使放到现在，《星球大战》依然是极富想象力的作品。但它的许多元素如 remix 中的采样一般清晰可辨：</p>
 
-<p>星战的根基来自于约瑟夫·坎贝尔，他在《千面英雄》一书中普及了神话体系。星战的大纲使用的就是该书中的“单一神话”模式。这个模式包含了很多阶段，如历险的召唤、超自然的助力、鲸鱼之腹、试炼之路、与女神相会等等，还有很多。</p>
-
-<p>注：Monomyth（单一神话），指神话中英雄冒险故事具有相似的圆环结构。最基本的三部分为“启程—启蒙—回归”。</p>
+<p>星战的根基来自于约瑟夫·坎贝尔，他在《千面英雄》一书中普及了神话体系。星战的大纲使用的就是该书中的“单一神话”模式。这个模式包含了很多阶段，如历险的召唤、超自然的助力、鲸鱼之腹、试炼之路、与女神相会等等，还有很多。
+<em>注：Monomyth（单一神话），指神话中英雄冒险故事具有相似的圆环结构。最基本的三部分为“启程—启蒙—回归”。</em></p>
 
 <p>星战受到另一个重大影响是 30 年代的《飞侠哥顿》系列和日本导演黑泽明。《星球大战》很像《飞侠哥顿》的升级版，连过场效果和开头字幕都一样；而从黑泽明的影片中，我们看到了许多同样的元素，如武士道精神、低级的打闹、过场效果、地板下的藏身处、坏蛋手臂被斩断，等等。</p>
 
@@ -122,9 +145,8 @@
 
 <p>乔治·鲁卡斯收集了这些素材，并将它们组合、转化。没有这些影片在先，就不会有《星球大战》。创造需要先被影响。我们创造的一切，都是既有创造物、我们的生活以及其他人的生活的 remix。</p>
 
-<p>正如牛顿所言 : “我们站在巨人的肩上。”他这么说其实就是在实践这一道理，因为这句话是从柏纳德那里改编过来的。</p>
-
-<p>注：法国哲学家伯纳德的说法是，“我们都像坐在巨人肩膀上的矮子。”</p>
+<p>正如牛顿所言 : “我们站在巨人的肩上。”他这么说其实就是在实践这一道理，因为这句话是从柏纳德那里改编过来的。
+<em>注：法国哲学家伯纳德的说法是，“我们都像坐在巨人肩膀上的矮子。”</em></p>
 
 <p>在第三部里，我们将深入讨论这个概念，并在原创与非原创之间画下模糊的界线。</p>
 
@@ -140,7 +162,7 @@
 
 <p>想要知道《杀死比尔》还参考了哪些影片？请查看以下视频。</p>
 
-<div><object id="ssss" width="640" height="480" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=74755807_1628893803_bhq1TyU7Bm7K+l1lHz2stqlF+6xCpv2xhGuyuVqsLA1RVQ+YJMXNb9oD5yzTCM9F5yoUEJU4cfkj0hUtbw/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="480" height="370"></embed></object></div>
+<div><object id="ssss" width="640" height="480" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=74755807_1628893803_bhq1TyU7Bm7K+l1lHz2stqlF+6xCpv2xhGuyuVqsLA1RVQ+YJMXNb9oD5yzTCM9F5yoUEJU4cfkj0hUtbw/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="640" height="480"></embed></object></div>
 
 
 <h2>第三部：创造之元</h2>
@@ -245,9 +267,8 @@
 
 <h3>基因和模因</h3>
 
-<p>我们身体里的基因，可以追溯到三十五亿年前的一个生命体：LUCA，<strong>最后的共同祖先</strong>（the Last Universal Common Ancestor）</p>
-
-<p>注：LUCA是一个定义在逻辑上的生物，是现存所有生物的共同祖先。该术语来自于生命起源的问题中，使用反演法提出的假说。</p>
+<p>我们身体里的基因，可以追溯到三十五亿年前的一个生命体：LUCA，<strong>最后的共同祖先</strong>（the Last Universal Common Ancestor）
+_注：LUCA是一个定义在逻辑上的生物，是现存所有生物的共同祖先。该术语来自于生命起源的问题中，使用反演法提出的假说。</p>
 
 <p>当 LUCA 繁衍的时候，它的基因一直不断地被<strong>复制</strong>，偶尔会出现差错，于是得到<strong>转化</strong>。久而久之便演变成今日地球上数十亿种的生物类型。其中有些物种进行有性生殖，<strong>结合</strong>了不同个体的基因。总而言之，适者生存。这就是进化的过程，<strong>复制</strong>、<strong>转化</strong>、<strong>结合</strong>。</p>
 
@@ -305,10 +326,6 @@
 
 <p>最有名的样本鬼就是 Bridgeport Music 音乐公司，他们提告的官司超过几百件。2005年他们在法庭上起诉 N.W.A 在 100 Miles and Runnin&#8217; 中使用了2秒的采样，获得胜利。仅仅就两2秒，不光采样很短，而且还很难辨识。这个判决基本上使得任何种类的取样，不管多小，都侵犯了著作权。Hip-hop黄金时代使用大量采样的音乐拼贴，而这种行为放到现在，就变得异常昂贵。</p>
 
-<p>注：这三张专辑都是 Hip Hop 黄金时代末期的代表作品。91年 De La Soul 因歌曲 Transimitting Live from Mars 中12秒采样被判赔偿 170 万美元，成为 Hip-hop历史上第一起因采样而大额赔偿的案例。也因此导致Hip Hop的发展走向了另外一个方向。
-Fear of a Black Planet 和 Paul&#8217;s Boutique 采样频率相当高，也被认为是将采样艺术发挥到极致的两张专辑。而这样的专辑在现今已经不可能再存在。
-2012年5月3日 Beastie Boys 因专辑 Paul&#8217;s Boutique 中的采样被起诉。而此时离该专辑发布已经过去23年。</p>
-
 <p>现在专利鬼在软件界随处可见，而最让人无法理解的是 Paul Allen 的案例。他是微软的创办人之一，是位亿万富翁，是位受人尊敬的慈善家，发誓要将大部份的财产捐献出来；而他宣称一些基本的网络功能像是相关链接、警告以及建议等等，是由他早已废弃的公司所发明。所以这位自称“点子王”的人，在 2010 年时几乎控告了所有硅谷的公司。尽管他不缺钱也不缺名声，他还是这么干了。</p>
 
 <p>所以整理一下，整件事是这样的。我们相信想法是财产的一种。当我们感觉这个财产是我们的时候，我们开始产生极端的领域意识。我们的法律纵容我们这个偏执的想法，以漫无边界的保护机制和奖赏来鼓励这个机制，同时巨额的法律支出鼓励被告花钱消灾、在庭外和解，这实在是个让人沮丧的状况。</p>
@@ -329,8 +346,21 @@ Fear of a Black Planet 和 Paul&#8217;s Boutique 采样频率相当高，也被�
 
 <p><strong>责任在于我们自己。</strong></p>
 
-<p>关于该影片的参考资料、采样出处和相关购买链接
-请访问 EverythingisaRemix.info</p>
+<h2>后记</h2>
+
+<p>前三部分由于没有官方翻译，而 Amara 上的繁体版字幕无论是时间轴还是翻译质量都不尽如人意，于是我重新翻译了。第四部分有官方繁体字幕，我在此基础上进行了一些修订，修改了一些错误，部分外来词汇改为大陆的习惯用语，以及统一了整个系列的说法。时间仓促加上水平有限，如有遗漏请见谅。</p>
+
+<p>你可以随意传播我翻译/压制的视频，也请随意分享此文章。我并不拥有它们。当然，前提是你不声称这是你自己的作品。</p>
+
+<h2>相关链接及拓展阅读</h2>
+
+<p>作者 Kirby Ferguson@vimeo：<a href="http://vimeo.com/kirbyferguson">http://vimeo.com/kirbyferguson</a>
+影片官网：<a href="http://EverythingisaRemix.info">http://EverythingisaRemix.info</a>
+Everything is a Remix:the Matrix：<a href="http://video.sina.com.cn/v/b/74758503-1628893803.html">http://video.sina.com.cn/v/b/74758503-1628893803.html</a>
+Everything is a Remix:Kill Bill:<a href="http://video.sina.com.cn/v/b/74755807-1628893803.html">http://video.sina.com.cn/v/b/74755807-1628893803.html</a>
+模因（meme）学的概念：<a href="http://zh.wikipedia.org/zh-cn/%E6%A8%A1%E5%9B%A0">http://zh.wikipedia.org/zh-cn/%E6%A8%A1%E5%9B%A0</a>
+Creative Common:<a href="http://zh.wikipedia.org/wiki/%E5%88%9B%E4%BD%9C%E5%85%B1%E7%94%A8">http://zh.wikipedia.org/wiki/%E5%88%9B%E4%BD%9C%E5%85%B1%E7%94%A8</a>
+《采样，嘻哈与法律》：<a href="http://site.douban.com/dryfish/widget/notes/3141885/note/155784863/">http://site.douban.com/dryfish/widget/notes/3141885/note/155784863/</a></p>
 ]]></content>
   </entry>
   
