@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://Magnil.github.com/blog/2013/03/29/hello-world/</loc>
+        <loc>http://Magnil.github.io/blog/2013/03/29/hello-world/</loc>
         <lastmod>2013-04-14T21:40:22+08:00</lastmod>
     </url>
     <url>
-        <loc>http://Magnil.github.com/blog/2013/04/14/everything-is-a-remix/</loc>
+        <loc>http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix/</loc>
         <lastmod>2013-04-14T21:45:10+08:00</lastmod>
     </url>
     <url>
-        <loc>http://Magnil.github.com/</loc>
+        <loc>http://Magnil.github.io/</loc>
         <lastmod>2013-04-14T21:45:10+08:00</lastmod>
     </url>
     <url>
-        <loc>http://Magnil.github.com/robots.txt</loc>
+        <loc>http://Magnil.github.io/robots.txt</loc>
         <lastmod>2013-03-31T18:09:35+08:00</lastmod>
     </url>
     <url>
-        <loc>http://Magnil.github.com/blog/archives/</loc>
+        <loc>http://Magnil.github.io/blog/archives/</loc>
         <lastmod>2013-04-14T21:45:10+08:00</lastmod>
     </url>
 </urlset>
