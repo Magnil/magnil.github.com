@@ -4,7 +4,7 @@
   <title><![CDATA[Magnil的博客]]></title>
   <link href="http://Magnil.github.io/atom.xml" rel="self"/>
   <link href="http://Magnil.github.io/"/>
-  <updated>2013-04-19T20:22:48+08:00</updated>
+  <updated>2013-04-19T20:30:41+08:00</updated>
   <id>http://Magnil.github.io/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Pop Music All Sounds The Same]]></title>
+    <link href="http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/"/>
+    <updated>2013-04-19T20:28:00+08:00</updated>
+    <id>http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[音乐可能被穷尽吗？]]></title>
@@ -51,11 +60,15 @@
 
 <p>这一思想在流行文化中占据了相当大的重量，频繁出现在各个影视剧、漫画、绘图小说中。国内著名的科幻小说《诗云》就是这一概念的引申。《银河系搭车客指南》也提到了该定理，并且对概率开了一个小玩笑：</p>
 
-<p><em>“阿瑟！”他说，“这太神奇了！我们居然被一艘无限非概率驱动的飞船救了起来！真是不可思议！我以前听说过这样的传闻！但所有传闻都遭到了官方否认，现在他们肯定是完成了！他们实现了非概率驱动！阿瑟，这是……阿瑟？发生什么了？”</em>
-<em>阿瑟正全力顶在卧室的舱门上，试图把它关严，但总是做不到。一大堆细长的小手从门缝中拼命挤进来，手指都沾着墨水；细微的声音在外面疯狂地喋喋不休。</em>
-<em>阿瑟抬起头。</em>
-<em>“福特！”他说，“外面有无数只猴子想要进来和咱们讨论他们创作的剧本《哈姆雷特》。”</em>
-<em>——《银河系漫游指南》第 9 章，道格拉斯·亚当斯著，徐百柯译</em></p>
+<p><em>“阿瑟！”他说，“这太神奇了！我们居然被一艘无限非概率驱动的飞船救了起来！真是不可思议！我以前听说过这样的传闻！但所有传闻都遭到了官方否认，现在他们肯定是完成了！他们实现了非概率驱动！阿瑟，这是……阿瑟？发生什么了？”</em></p>
+
+<p><em>阿瑟正全力顶在卧室的舱门上，试图把它关严，但总是做不到。一大堆细长的小手从门缝中拼命挤进来，手指都沾着墨水；细微的声音在外面疯狂地喋喋不休。</em></p>
+
+<p><em>阿瑟抬起头。</em></p>
+
+<p><em>“福特！”他说，“外面有无数只猴子想要进来和咱们讨论他们创作的剧本《哈姆雷特》。”</em></p>
+
+<p><em>——《银河系漫游指南》第 9 章，道格拉斯·亚当斯著，徐百柯译</em></p>
 
 <p>之所以要在开始提到这个概念，是因为我们必须要澄清：无论音乐的可能性是多么大的一个数字，哪怕它已经大到超过我们人类的想象范围，但它决不是<strong>无限</strong>的。</p>
 
@@ -85,6 +98,8 @@
 
 <p>“音乐是否能穷尽”其实是个相当有趣的问题。我们大多数人在孩提时代都有过类似的想法，但很少有人将这一问题深入探究下去——因为别人告诉他们，这个问题毫无意义。事实上，我们可以发现从类似的想法可以引申出各种各样不同的问题，能够帮助你深入理解一些概念——无论是数学上的，还是乐理方面。它还可以开拓你的思维空间，甚至变成点子用在你的科幻作品中。这些都是相当有意义的。</p>
 
+<p>另外，虽然是讲音乐，但是这篇文章完全是以 Geek 的思维在写，所以分类是 Geek。下一篇，才是乐理。</p>
+
 <h2>相关链接及拓展阅读</h2>
 
 <ul>
@@ -99,6 +114,10 @@
 <li>The Giraffs Board - <a href="http://www.giraffeboards.com/showthread.php?t=3528">Music:Created or Discovered?</a></li>
 <li>eNotes - <a href="http://www.enotes.com/homework-help/did-humans-discover-music-did-humans-invent-m-406668">Did humans discover music, or did humans invent music?</a></li>
 <li>Spider Robinson - <a href="http://www.spiderrobinson.com/melancholyelephants.html">Melancholy Elephants</a></li>
+<li>Reuters - <a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">Pop music too loud and all sounds the same</a></li>
+<li>Nature - <a href="http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html">Measuring the Evolution of Contemporary Western Popular Music</a></li>
+<li>Life&#8217;s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/2714-pop-music-trends.html">Pop Music All Sounds the Same Nowadays</a></li>
+<li>Life&#8217;s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/1122-what-makes-music-enjoyable.html">What Makes Music Enjoyable?</a></li>
 </ul>
 
 ]]></content>
