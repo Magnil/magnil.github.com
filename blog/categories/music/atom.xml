@@ -1,98 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>为什么流行音乐听起来都一样？ - Magnil的博客</title>
-  <meta name="author" content="Magnil">
-
-  
-  <meta name="description" content="就“音乐相似”这一问题来说，包含如何定义“相似”，这些“相似”属于哪个方面，它们为什么会存在“相似”。虽然楼主只要求列举“巧合性”的相似，但鉴于这里举的例子中很多并非巧合，我觉得还是必要连带着聊聊“非巧合”的，以及其原因。回答比较长，希望能耐心看完。 公有领域 首先明确概念， &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><![CDATA[Category: music | Magnil的博客]]></title>
+  <link href="http://Magnil.github.io/blog/categories/music/atom.xml" rel="self"/>
+  <link href="http://Magnil.github.io/"/>
+  <updated>2013-04-19T20:52:06+08:00</updated>
+  <id>http://Magnil.github.io/</id>
+  <author>
+    <name><![CDATA[Magnil]]></name>
+    <email><![CDATA[lovcrimson@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Magnil的博客" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Magnil的博客</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:Magnil.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">首页</a></li>
-  <li><a href="/blog/archives">归档</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
-    
-      <h1 class="entry-title">为什么流行音乐听起来都一样？</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-19T20:28:00+08:00" pubdate data-updated="true">Apr 19<span>th</span>, 2013</time>
-        
-     
-      | <a href="#comments">评论</a>
-     
-      </p>
-    
-  </header>
-
-
-<div class="entry-content"><p>就“音乐相似”这一问题来说，包含如何定义“相似”，这些“相似”属于哪个方面，它们为什么会存在“相似”。虽然楼主只要求列举“巧合性”的相似，但鉴于这里举的例子中很多并非巧合，我觉得还是必要连带着聊聊“非巧合”的，以及其原因。回答比较长，希望能耐心看完。</p>
+  <entry>
+    <title type="html"><![CDATA[为什么流行音乐听起来都一样？]]></title>
+    <link href="http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/"/>
+    <updated>2013-04-19T20:28:00+08:00</updated>
+    <id>http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same</id>
+    <content type="html"><![CDATA[<p>就“音乐相似”这一问题来说，包含如何定义“相似”，这些“相似”属于哪个方面，它们为什么会存在“相似”。虽然楼主只要求列举“巧合性”的相似，但鉴于这里举的例子中很多并非巧合，我觉得还是必要连带着聊聊“非巧合”的，以及其原因。回答比较长，希望能耐心看完。</p>
 
 <h2>公有领域</h2>
 
@@ -100,7 +26,7 @@
 
 <p>OK，明确了这个概念以后，我们来举例子，正好前面有人提到了《一闪一闪亮晶晶》和《字母表》，就以此为例吧。《一闪一闪亮晶晶》原曲为18世纪中期的法国民歌《妈妈请听我说》，莫扎特根据此曲改编了《C大调变奏曲K.265》，《字母表》也是源自该曲。</p>
 
-<p>再举些现代的例子，平井坚《古老的大钟》源自Henry Clay Work的《My Grandfather&#8217;s Clock》。S.H.E的《不想长大》火过一段时间，其中副歌部分借用的是莫扎特的《g小调第40号交响曲K.550》。</p>
+<p>再举些现代的例子，平井坚《古老的大钟》源自Henry Clay Work的《My Grandfather's Clock》。S.H.E的《不想长大》火过一段时间，其中副歌部分借用的是莫扎特的《g小调第40号交响曲K.550》。</p>
 
 <h2>借鉴 or 抄袭？</h2>
 
@@ -108,7 +34,7 @@
 
 <p>而且整个二十世纪上半叶，无论是从公有领域的改编，还是对版权作品的借鉴，有相当多数量的歌曲是不署名的。例如猫王《Love Me Tender》改自公有领域的内战老歌《Aura Lee》；Ray Charles的《I Got a Woman》被认为是最早的灵歌雏形，而这首是从福音歌曲《It Must Be Jesus》借来的；Bob Dylan的歌里引用过很多爱尔兰-苏格兰地区民歌如《The Merry Month of May》、《The Parting Glass》，这些当然属于公有领域，但他同时也从不少版权作品如《The Patriot Game》借来素材。70年代还这么干的，最有名的是Led Zeppelin，借用的太多了，包括《Stairway to Heaven》，不一一列举。上面这些引用也好、改编也好，通通没有注明。</p>
 
-<p>这带来一个问题，当你回顾那些老歌的时候，你很难得知他们到底从哪里借来的素材/灵感。这种状况直到1976年George Harrison被判“潜意识抄袭”了Ronnie Mack的《He&#8217;s So Fine》赔付160万美元，这一判决对整个音乐产业的影响非常大。</p>
+<p>这带来一个问题，当你回顾那些老歌的时候，你很难得知他们到底从哪里借来的素材/灵感。这种状况直到1976年George Harrison被判“潜意识抄袭”了Ronnie Mack的《He's So Fine》赔付160万美元，这一判决对整个音乐产业的影响非常大。</p>
 
 <p>哦，顺便说一下，“潜意识抄袭”的心理学名叫Cryptomnesia，案件里叫Subconscious copying。国内在音乐侵权控诉中是不承认“潜意识抄袭”的。</p>
 
@@ -118,13 +44,13 @@
 
 <h2>采样和混编</h2>
 
-<p>依然用前面有人提到的为例吧。MC Hammer的《U Can&#8217;t Touch This》采样了《Super Freak》。在这首歌刚发布的时候，Rick James因此起诉了MC Hammer，两人庭外和解，MC Hammer赔偿并将Rick James的名字一并写入作曲栏。</p>
+<p>依然用前面有人提到的为例吧。MC Hammer的《U Can't Touch This》采样了《Super Freak》。在这首歌刚发布的时候，Rick James因此起诉了MC Hammer，两人庭外和解，MC Hammer赔偿并将Rick James的名字一并写入作曲栏。</p>
 
-<p>采样是指将现有音乐唱片里部分片段剪切，拼贴到自己的作品中。Hip-hop正是伴随着采样和混编技术崛起的。普遍认知中的第一首Hip-hop，1979年的《Rapper&#8217;s Delight》从Chic乐队的《Good Times》中采样了贝斯部分，当然，没有授权。这段相同的贝斯随后出现在十几首不同的歌曲中，在那个时代，大多数都是没经过授权的。Hip-hop黄金时代的代表作，《Fear of a Black Planet》、《Paul&#8217;s Boutique》等等，都是随意采样拼贴的大拼盘，这种行为在当今简直无法想象。现在，采样都会标注&#8221;sample from&#8230;“，支付大量金额以获得授权。</p>
+<p>采样是指将现有音乐唱片里部分片段剪切，拼贴到自己的作品中。Hip-hop正是伴随着采样和混编技术崛起的。普遍认知中的第一首Hip-hop，1979年的《Rapper's Delight》从Chic乐队的《Good Times》中采样了贝斯部分，当然，没有授权。这段相同的贝斯随后出现在十几首不同的歌曲中，在那个时代，大多数都是没经过授权的。Hip-hop黄金时代的代表作，《Fear of a Black Planet》、《Paul's Boutique》等等，都是随意采样拼贴的大拼盘，这种行为在当今简直无法想象。现在，采样都会标注"sample from...“，支付大量金额以获得授权。</p>
 
-<p>从90年代初开始，事情有些不一样了。91年De La Soul因为一段12秒的采样被判170万，这是首个侵权而大额赔偿的案例。此后一系列大金额赔偿案例，直接导致Hip-hop走向另一个方向。去年Beastie Boys因为《Paul&#8217;s Boutique》被起诉，之前他们曾经说过，那个年代太混乱了，大家都在用，谁都不知道采样的原始出处。“Fair Use”目前实际上大多数时候都保护不了Hip-hop歌手了。</p>
+<p>从90年代初开始，事情有些不一样了。91年De La Soul因为一段12秒的采样被判170万，这是首个侵权而大额赔偿的案例。此后一系列大金额赔偿案例，直接导致Hip-hop走向另一个方向。去年Beastie Boys因为《Paul's Boutique》被起诉，之前他们曾经说过，那个年代太混乱了，大家都在用，谁都不知道采样的原始出处。“Fair Use”目前实际上大多数时候都保护不了Hip-hop歌手了。</p>
 
-<p>允许我发一点牢骚。90年代后期版权法的严苛，不仅对HIp-hop产业的打击非常巨大，同时带来的是大量的投机分子——购买已经不再发售的唱片版权，靠着告人发财，在音乐界被成为“样本鬼”。2005年著名的“采样鬼”Bridgeport Music公司起诉 N.W.A的《100 Miles and Runnin&#8217;》获胜，而只是因为2秒的吉他和声。无论是过度自由还是过度严苛都不是我希望看到的，不过两者若只能选其一，我宁可选择过度自由:)</p>
+<p>允许我发一点牢骚。90年代后期版权法的严苛，不仅对HIp-hop产业的打击非常巨大，同时带来的是大量的投机分子——购买已经不再发售的唱片版权，靠着告人发财，在音乐界被成为“样本鬼”。2005年著名的“采样鬼”Bridgeport Music公司起诉 N.W.A的《100 Miles and Runnin'》获胜，而只是因为2秒的吉他和声。无论是过度自由还是过度严苛都不是我希望看到的，不过两者若只能选其一，我宁可选择过度自由:)</p>
 
 <p>所以，在两首歌相似的时候，通常我的第一反应，是否来自公有领域？是否是采样？然后是否存在被影响的可能性——无论是借鉴还是抄袭。70年代以前的原词曲作者、90年代以前的采样出处，有些可能是你在词曲作者栏或者“sample from”里看不到的，因为谁都不知道。不过这些显然都不是“巧合性”的相似，尽管有些不知道具体出处，但是你能清晰的感受到歌曲之间存在的脉络。</p>
 
@@ -159,7 +85,7 @@
 
 <p>我在这里再详细解释一下。所谓普通律，是指音节呈8-6-8-6分布，两个长句结尾押韵，两个短句也要押韵，即隔行交互押韵（a-b-a-b）。民谣律类似，但要求没这么严格，只要求短句押韵，即x-a-x-a（x为随意韵脚）。此外，长句要求为抑扬格四音步，短句要求为抑扬格三音步，这个意思是，长句8个音节分为4个音步，每个音步由一个非重读音节和一个重读音节构成，简单来说就是轻重轻重轻重轻重，如：Be-cause I could not stop for Death, / He kind-ly stopped for me（著名诗人Emily Dickinson的诗）。</p>
 
-<p>著名网漫xkcd有一篇讲这个的：http://www.xkcd.com/788/ ，他说“自从我用Gilligan&#8217;s Island的调子试着唱过这首Emily Dickinson的诗，我再也没办法正常的读出来了。“</p>
+<p>著名网漫xkcd有一篇讲这个的：http://www.xkcd.com/788/ ，他说“自从我用Gilligan's Island的调子试着唱过这首Emily Dickinson的诗，我再也没办法正常的读出来了。“</p>
 
 <p>因为普通律/民谣律的存在，有非常之多的乡村/福音/民谣摇滚可以完美的互换歌词来唱，这就是歌词中存在的相似。例子请参见我最前面那个翻译视频里提到的。</p>
 
@@ -171,9 +97,9 @@
 
 <p>先说riff好了。一小段反复演奏的riff是最常被听出相似的，这种洗脑式的效果导致你在听到一段相似riff的时候，你会马上反应过来——咦，这不是那个啥歌里面的吗？</p>
 
-<p>这样的例子大多集中在70-90年代大量吉他/贝斯riff的摇滚音乐里。例如，Nirvana的《Come as You Are》和Killing Joke的《Eighties》、Smash Mouth的《Then the morning comes》和The Animals的《It&#8217;s my life》，又比如Steriogram的《Walkie Talkie Man》、The Kinks的《Picture Book》、Green Day的《Warning》这三首的开头riff段都很相似。</p>
+<p>这样的例子大多集中在70-90年代大量吉他/贝斯riff的摇滚音乐里。例如，Nirvana的《Come as You Are》和Killing Joke的《Eighties》、Smash Mouth的《Then the morning comes》和The Animals的《It's my life》，又比如Steriogram的《Walkie Talkie Man》、The Kinks的《Picture Book》、Green Day的《Warning》这三首的开头riff段都很相似。</p>
 
-<p>再来个极端点的例子，Riot的《Swords and Tequila》、Accept的《Flash Rockin&#8217; Man》、Iron Maiden的《2 Minutes to Midnight》、Mercyful Fate的《Curse of the Pharoahs》、Raven的《Seek And Destroy》、White Spirit的《Midnight Chaser》、Rory Gallagher的《Moonchild》……我不想在列下去了，这些歌的riff其实并不相同，但是都存在听觉上强烈的相似感（如果完全一样那肯定不是采样就是抄袭了）。直观上，你可能会觉得这里存在我们在2里讲过的互相借鉴/影响的可能性，没错肯定是有的，但是也应该会存在一大批只是因为巧合。</p>
+<p>再来个极端点的例子，Riot的《Swords and Tequila》、Accept的《Flash Rockin' Man》、Iron Maiden的《2 Minutes to Midnight》、Mercyful Fate的《Curse of the Pharoahs》、Raven的《Seek And Destroy》、White Spirit的《Midnight Chaser》、Rory Gallagher的《Moonchild》……我不想在列下去了，这些歌的riff其实并不相同，但是都存在听觉上强烈的相似感（如果完全一样那肯定不是采样就是抄袭了）。直观上，你可能会觉得这里存在我们在2里讲过的互相借鉴/影响的可能性，没错肯定是有的，但是也应该会存在一大批只是因为巧合。</p>
 
 <h2>旋律</h2>
 
@@ -181,11 +107,11 @@
 
 <p>我这里并不想在乐理上做过多解释，也无意指点抄袭判断标准。用一个最有趣的例子来说明：</p>
 
-<p>08年，美国吉他大师级人物Joe Satrani起诉Coldplay在《Viva La Vida》中抄袭了他的作品《If I Could Fly》，这事在国外乐迷里掀起的风波挺大的。比较有趣的事情是从英国民谣摇滚大师Cat Stevens站出来也指责Coldpay“抄袭”他的《Foreigner Suite》开始，涉及的居然是同一段旋律，然后说不打算起诉他们。很显然，这是在英国的老家伙在搅混水护犊子。此外，还有一支不知名乐队Creaky Boards也站出来说《Viva La Vida》的那段旋律和自己的《The Songs I Didn&#8217;t Write》。这就是此事与一般相似/抄袭案例不同所在。好事者收集了12首有着这段相似旋律的例子，称其为“流行音乐中最常用的旋律”：12 Songs That Sound The Same 。下面的回复中，数量还在不断增加，其实里面很几个例子对于我来说并不算太相似，不过这取决于你的耳朵。如果你有空，不妨都听听看:)</p>
+<p>08年，美国吉他大师级人物Joe Satrani起诉Coldplay在《Viva La Vida》中抄袭了他的作品《If I Could Fly》，这事在国外乐迷里掀起的风波挺大的。比较有趣的事情是从英国民谣摇滚大师Cat Stevens站出来也指责Coldpay“抄袭”他的《Foreigner Suite》开始，涉及的居然是同一段旋律，然后说不打算起诉他们。很显然，这是在英国的老家伙在搅混水护犊子。此外，还有一支不知名乐队Creaky Boards也站出来说《Viva La Vida》的那段旋律和自己的《The Songs I Didn't Write》。这就是此事与一般相似/抄袭案例不同所在。好事者收集了12首有着这段相似旋律的例子，称其为“流行音乐中最常用的旋律”：12 Songs That Sound The Same 。下面的回复中，数量还在不断增加，其实里面很几个例子对于我来说并不算太相似，不过这取决于你的耳朵。如果你有空，不妨都听听看:)</p>
 
 <p>问题出在哪？其实《Viva La Vida》和《If I Could Fly》甚至和弦进行都不相同，即使换成同样的key，前者是IV-V-I-vi，后者是ii-V-I-vi，存在很大程度上的相似，但比起前面那些一样和弦进行的就差多了。</p>
 
-<p>主要问题还是旋律。当然还有别的，比如相同的tempo，但是我们这里不是要为Coldplay辩护，而是讨论为什么会出现那么多相似的旋律。对此，Cat Stevens的看法是：“在相似的和弦进行下，旋律自然会呈现出它应该有的走向。“【原话是：&#8221;The song ( Viva La Vida )definitely sounds like it (Foreigner Suite).It has such logical chords and the melody has to be what it is&#8230;&#8221;】这或许能够解释旋律产生相似的原因。</p>
+<p>主要问题还是旋律。当然还有别的，比如相同的tempo，但是我们这里不是要为Coldplay辩护，而是讨论为什么会出现那么多相似的旋律。对此，Cat Stevens的看法是：“在相似的和弦进行下，旋律自然会呈现出它应该有的走向。“【原话是："The song ( Viva La Vida )definitely sounds like it (Foreigner Suite).It has such logical chords and the melody has to be what it is..."】这或许能够解释旋律产生相似的原因。</p>
 
 <h2>其他</h2>
 
@@ -232,143 +158,7 @@ jaltcoh - <a href="http://jaltcoh.blogspot.com/2009/06/2-most-overused-chord-pro
 Aeoliancadence - <a href="http://aeoliancadence.co.uk/ac/Viva_La_Vida_If_I_Could_Fly_analysis.html">Viva La Vida/If I Could Fly analysis</a></p>
 
 <p>http://www.gogoqq.com/ASPX/375421344/JournalContent/44.aspx</p>
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+]]></content>
+  </entry>
   
-
-<span class="byline author vcard"><span class="fn">Magnil</span> 发表于</span>
-
-      
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-19T20:28:00+08:00" pubdate data-updated="true">Apr 19<span>th</span>, 2013</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/music/'>music</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <span>
-  <iframe
-    width="86"
-    scrolling="no"
-    height="16"
-    frameborder="0"
-    src=
-      "http://hits.sinajs.cn/A1/weiboshare.html?url=http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/&amp;type=6&amp;ralateUid=1804531244&amp;language=zh_cn" allowtransparency="true">
-  </iframe>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/blog/2013/04/15/will-we-ever-run-out-of-new-music/" title="Previous Post: 音乐可能被穷尽吗？">&laquo; 音乐可能被穷尽吗？</a>
-      
-      
-    </p>
-  </footer>
-</article>
-
-
-  <section>
-    <h1>评论</h1>
-    <div id="comments" aria-live="polite"><!-- Duoshuo Comment BEGIN -->
-<div class="ds-thread"></div>
-<script type="text/javascript">
-  var duoshuoQuery = {short_name:"magnil"};
-  (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = 'http://static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
-    || document.getElementsByTagName('body')[0]).appendChild(ds);
-  })();
-</script>
-<!-- Duoshuo Comment END -->
-</div>
-  </section>
-
-</div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>授权协议</h1>
-  <p>
-   <img class="center" alt="License" src="/images/cn-by-nc-sa.png" />
-  除非另有声明，本网站所有作品均采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>授权。
-  </p>
-</section>
-<div class="post-index"></div>
-
-<script type="text/javascript">
-  tmp = '<div><a href="#">目录</a></div>';
-  $('.post-index').append(tmp);
-  $.each($('h2, h3'), function(index, item){
-      item.id = 'menuindex'+index;
-      tmpText = $(item).text();
-      if(item.tagName.toLowerCase() == 'h2'){
-        tmpClass = 'menuindexh2';
-      }else{
-        tmpClass = 'menuindexh3';
-      }
-      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
-            '">' + tmpText + '</a></div>';
-      $('.post-index').append(tmp);
-  });
-</script>
-
-
-  
-</aside>
-
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Magnil -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
