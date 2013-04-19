@@ -4,7 +4,7 @@
   <title><![CDATA[Magnil的博客]]></title>
   <link href="http://Magnil.github.io/atom.xml" rel="self"/>
   <link href="http://Magnil.github.io/"/>
-  <updated>2013-04-19T21:00:53+08:00</updated>
+  <updated>2013-04-19T22:37:25+08:00</updated>
   <id>http://Magnil.github.io/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
@@ -230,23 +230,28 @@ Aeoliancadence - <a href="http://aeoliancadence.co.uk/ac/Viva_La_Vida_If_I_Could
 
 <p>我会站在“发现”这一边。但这也是个没有标准答案的问题，选择权在于你自己。</p>
 
-<h2>相似的概率</h2>
+<h2>音乐上的相似</h2>
 
-<p>这里其实已经不再是数学上的概率问题了，而是乐理的部分。所以我将这一部分放到下一篇文章里来说。</p>
+<p>正如 Vsauce 在最后提到的研究，我们的大脑使我们无法享受数学上旋律的巨大可能性，而是让我们更倾向于固定的模式。</p>
 
-<p>参见：<a href="http://magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/">为什么流行音乐听起来都一样？</a></p>
+<p>Reuters曾报道：<a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">流行音乐都太吵了，而且听起来都一样</a>。这不是信口开河，而是西班牙国家研究委员会旗下的一个项目组根据“百万歌曲集”（<a href="http://labrosa.ee.columbia.edu/millionsong/">the Million Song Dataset</a>） 得出的结论。</p>
+
+<p>百万歌曲集是一个可供任何人自由研究使用的、收集当代流行音乐特征和元数据的数据库。简单来说，这个数据库将音乐分解成数据以供科学研究。他们发现了音乐表达日渐趋于同质化的证据，即在过去的 50 年里，音符组合之间衔接的多样性——包括和声和旋律——在不停的减少。此外，音量竞赛在流行音乐界越发严重，虽然我们一直在说这个事，但这是第一次由大数据分析得到的证据。如果你有兴趣，请查看他们在 Nature 上发表的论文：<a href="http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html">Measuring the Evolution of Contemporary Western Popular Music</a>。</p>
+
+<p>这些都是科学方面的视角，至于从音乐本身开始分析，我将放到下一篇文章里来说。参见：<a href="http://magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/">为什么流行音乐听起来都一样？</a></p>
 
 <h2>结语</h2>
 
 <p>“音乐是否能穷尽”其实是个相当有趣的问题。我们大多数人在孩提时代都有过类似的想法，但很少有人将这一问题深入探究下去——因为别人告诉他们，这个问题毫无意义。事实上，我们可以发现从类似的想法可以引申出各种各样不同的问题，能够帮助你深入理解一些概念——无论是数学上的，还是乐理方面。它还可以开拓你的思维空间，甚至变成点子用在你的科幻作品中。这些都是相当有意义的。</p>
 
-<p>另外，虽然是讲音乐，但是这篇文章完全是以 Geek 的思维在写，所以分类是 Geek。下一篇，才是乐理。</p>
+<p>另外，虽然是讲音乐，但是这篇文章完全是以 Geek 的思维在写。下一篇，才是乐理。</p>
 
 <h2>相关链接及拓展阅读</h2>
 
 <ul>
 <li>Vsauce - <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Will We Ever Run Out of New Music?</a></li>
 <li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Infinite_monkey">Infinite monkey theorem</a></li>
+<li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Loudness_war">Loudness war</a></li>
 <li>Everything2 - <a href="http://everything2.com/title/Is+music+written+or+discovered%253F">Is music written or discovered?</a></li>
 <li>Everything2 - <a href="http://www.everything2.com/title/How+many+melodies+are+there+in+the+universe%253F">How many melodies are there in the universe?</a></li>
 <li>greenwych - <a href="http://www.greenwych.ca/how-many.htm">How many melodies can be written?</a></li>
