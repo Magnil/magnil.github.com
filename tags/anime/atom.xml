@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: nerd | Magnil的博客]]></title>
-  <link href="http://Magnil.github.io/blog/categories/nerd/atom.xml" rel="self"/>
+  <title><![CDATA[Tag: anime | Magnil的博客]]></title>
+  <link href="http://Magnil.github.io/tags/anime/atom.xml" rel="self"/>
   <link href="http://Magnil.github.io/"/>
   <updated>2013-04-28T17:04:01+08:00</updated>
   <id>http://Magnil.github.io/</id>
