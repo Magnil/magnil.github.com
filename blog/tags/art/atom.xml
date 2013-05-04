@@ -1,99 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>忧郁的大象 - Magnil的博客</title>
-  <meta name="author" content="Magnil">
-
-  
-  <meta name="description" content="忧郁的大象[1] 1983 年短篇雨果奖作品 作者：斯派德·罗宾逊
-翻译：马小褂 谨以此故事，献给维吉尼亚·海因莱因[2] 正文 她禅坐着，冥想着，直到该为预约作准备时才停下。禅坐仿佛带回了往日的宁静，一切尽在掌握之中。化妆时她的手没有颤抖，一张平静的脸从镜子中回视着她。 &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><![CDATA[Tag: art | Magnil的博客]]></title>
+  <link href="http://Magnil.github.io/blog/tags/art/atom.xml" rel="self"/>
+  <link href="http://Magnil.github.io/"/>
+  <updated>2013-05-04T19:44:16+08:00</updated>
+  <id>http://Magnil.github.io/</id>
+  <author>
+    <name><![CDATA[Magnil]]></name>
+    <email><![CDATA[lovcrimson@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://Magnil.github.io/blog/2013/04/28/melancholy-elephants">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Magnil的博客" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Magnil的博客</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:Magnil.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">首页</a></li>
-  <li><a href="/blog/archives">归档</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
-    
-      <h1 class="entry-title">忧郁的大象</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-28T20:00:00+08:00" pubdate data-updated="true">Apr 28<span>th</span>, 2013</time>
-        
-     
-      | <a href="#comments">评论</a>
-     
-      </p>
-    
-  </header>
-
-
-<div class="entry-content"><p><a href="http://www.spiderrobinson.com/melancholyelephants.html">忧郁的大象</a>[1]</p>
+  <entry>
+    <title type="html"><![CDATA[忧郁的大象]]></title>
+    <link href="http://Magnil.github.io/blog/2013/04/28/melancholy-elephants/"/>
+    <updated>2013-04-28T20:00:00+08:00</updated>
+    <id>http://Magnil.github.io/blog/2013/04/28/melancholy-elephants</id>
+    <content type="html"><![CDATA[<p><a href="http://www.spiderrobinson.com/melancholyelephants.html">忧郁的大象</a>[1]</p>
 
 <p>1983 年短篇雨果奖作品</p>
 
@@ -196,13 +121,13 @@
 
 <p>“是什么？”</p>
 
-<p>“你的目标。你们论点薄弱，缺乏说服力，而且每次向你们提出后，你们只是固执己见。我看到过很多人站定立场而没有明显的逻辑，但是只要我继续下功夫去找，总还是能看到他们的逻辑。然而就我所见，S.&#8217;896法案对于你们声称代表的群体——艺术家们——有着明显而持久的益处。你的组织里有太多与你们目标不太一致的情报。所以我不得不好奇，你<strong>到底</strong>为了什么在努力，又为什么？有一种可能性是，你想要搅和版权这件事来换取<strong>真正</strong>想要的东西。明白吗？”</p>
+<p>“你的目标。你们论点薄弱，缺乏说服力，而且每次向你们提出后，你们只是固执己见。我看到过很多人站定立场而没有明显的逻辑，但是只要我继续下功夫去找，总还是能看到他们的逻辑。然而就我所见，S.'896法案对于你们声称代表的群体——艺术家们——有着明显而持久的益处。你的组织里有太多与你们目标不太一致的情报。所以我不得不好奇，你<strong>到底</strong>为了什么在努力，又为什么？有一种可能性是，你想要搅和版权这件事来换取<strong>真正</strong>想要的东西。明白吗？”</p>
 
 <p>“参议员先生，我<strong>是</strong>为了所有的艺术家而努力。而且在更广泛的意义上——”</p>
 
 <p>他显得很为难，或者说，更为难了。“……‘为了全人类’是吗，哦，<strong>上帝</strong>。马丁夫人，饶了我吧。”</p>
 
-<p>“我<strong>知道</strong>你听过无数次了，可能也经常这么说。”听到这里他干笑了一下。“现在刚好是这句话真正该用到的罕见时机。我相信如果S.&#8217;896法案通过，我们人类将遭受重大磨难。”</p>
+<p>“我<strong>知道</strong>你听过无数次了，可能也经常这么说。”听到这里他干笑了一下。“现在刚好是这句话真正该用到的罕见时机。我相信如果S.'896法案通过，我们人类将遭受重大磨难。”</p>
 
 <p>他抬起干瘦的手臂，扯了扯自己的下嘴唇。“现在，我已经确定你的立场了，相信我能给你节省下不少钱。结束这场对话，你为了这半小时会面所付出的钱，会按剩下的比例退还给你。”</p>
 
@@ -246,7 +171,7 @@
 
 <p>“——亲切的招——啊？”</p>
 
-<p>“能告诉我你的观点吗？为什么我不应该支持&#8217;896法案？”</p>
+<p>“能告诉我你的观点吗？为什么我不应该支持'896法案？”</p>
 
 <p>她猛地眨了眨眼睛。“你刚刚还说这样既无谓又残忍。”</p>
 
@@ -292,7 +217,7 @@
 
 <p>“接着来到最近的一百五十年里，人类的种族记忆产生了飞跃。录制技术，视觉上：摄影，胶片，录像，影印，全息。听觉上：低保真，高保真，立体声，数码。然后是计算机，信息存储的极限。每种新技术都产生了新的艺术形式。而每一样都需要对版权观念的重新评估。</p>
 
-<p>“你知道的，我们现在的系统自从二十世纪中期以来从未改变。版权在持有者死亡五十年之后就不复存在了。但是人口规模自从一九〇〇年以来开始急剧增长，人均寿命也是如此。目前发达国家的平均预期寿命为一百二十岁——而你本人能活得更久。因此，S.&#8217;896实际将版权期限延长到了永久。”</p>
+<p>“你知道的，我们现在的系统自从二十世纪中期以来从未改变。版权在持有者死亡五十年之后就不复存在了。但是人口规模自从一九〇〇年以来开始急剧增长，人均寿命也是如此。目前发达国家的平均预期寿命为一百二十岁——而你本人能活得更久。因此，S.'896实际将版权期限延长到了永久。”</p>
 
 <p>“好吧，”参议员打断了她，“这有什么<strong>问题</strong>呢？难道一个人不再呼吸，作品就不再是他自己的了吗？马丁夫人，你本人将因为该法案的通过而一生富裕。你真的想放弃你亡夫留下的智慧遗产吗？”</p>
 
@@ -328,7 +253,7 @@
 
 <p>“记得？我刚搜到它了。我的公司赢了。”</p>
 
-<p>“你的公司使法庭相信哈里森从十几年前的一首《He&#8217;s So Fine》里，抄来调子用到自己的歌里[9]。之后不久，小野洋子的《You&#8217;re My Angel》[10]被指控剽窃一首三十多年前的经典曲目《Makin&#8217; Whoopee》。查克·贝里和约翰·列侬也因为《Come Together》引起纠纷[11]。然后来到八十年代末，一场蔓延的剽窃风波<strong>真的</strong>在法庭上演了。从那开始，流行音乐人被公开狩猎，直到现在依然如此。但是世纪之交时，当布林德的《Ringsong》被证明‘基本上类似’柯瑞里的一首协奏曲[12]时，事情开始变得麻烦了。</p>
+<p>“你的公司使法庭相信哈里森从十几年前的一首《He's So Fine》里，抄来调子用到自己的歌里[9]。之后不久，小野洋子的《You're My Angel》[10]被指控剽窃一首三十多年前的经典曲目《Makin' Whoopee》。查克·贝里和约翰·列侬也因为《Come Together》引起纠纷[11]。然后来到八十年代末，一场蔓延的剽窃风波<strong>真的</strong>在法庭上演了。从那开始，流行音乐人被公开狩猎，直到现在依然如此。但是世纪之交时，当布林德的《Ringsong》被证明‘基本上类似’柯瑞里的一首协奏曲[12]时，事情开始变得麻烦了。</p>
 
 <p>“一共有八十八个音符。如果你的听力足够敏锐到能分辨出四分一音的话[13]，那么则是一百七十六个。加上休止符，不同的音符时值等等。再估计一个数作为一段旋律里最多能包含的音符数量。我不知道算出来的最大旋律总数是多少——太多的变量了——但是我相信这个数非常大。</p>
 
@@ -443,9 +368,9 @@
 <li>出自美国十九世纪政治家西蒙·卡梅伦的名言：“一个诚实的政客应该做到，一旦被收买，就永远被收买。”这里稍作修改。</li>
 <li>“从长远来看，我们都死了。”约翰·梅纳德·凯恩斯的名言，用来讽刺古典经济学派的宏观经济认识，认为他们解决不了当下问题。</li>
 <li>拉斯科洞窟壁画，位于法国，是著名的石器时代洞穴壁画。根据放射性碳定年法，这些图画大致完成于一万五千年以前。</li>
-<li>1971 年哈里森《My Sweet Lord》被指控抄袭《He&#8217;s So Fine》。法庭判定哈里森“潜意识抄袭”，并判赔偿一百六十万美元。这是音乐抄袭指控第一次闹上法庭。</li>
-<li>正确歌名应为《Yes, I&#8217;m Your Angel》。这里不知为何，作者写错了歌名。双方最后庭外和解。</li>
-<li>《Come Together》被指控抄袭《You Can&#8217;t Catch Me》。双方庭外和解，并达成协议后，约翰·列侬为此专门翻唱了《You Can&#8217;t Catch Me》。</li>
+<li>1971 年哈里森《My Sweet Lord》被指控抄袭《He's So Fine》。法庭判定哈里森“潜意识抄袭”，并判赔偿一百六十万美元。这是音乐抄袭指控第一次闹上法庭。</li>
+<li>正确歌名应为《Yes, I'm Your Angel》。这里不知为何，作者写错了歌名。双方最后庭外和解。</li>
+<li>《Come Together》被指控抄袭《You Can't Catch Me》。双方庭外和解，并达成协议后，约翰·列侬为此专门翻唱了《You Can't Catch Me》。</li>
 <li>阿尔坎杰罗·科雷利，巴洛克时期最有影响力的意大利小提琴家和作曲家。布林德应为文中虚构人物。</li>
 <li>四分一音，半音音阶中，半音和半音之间的一半的音高。音程是半音的一半，全音的四分之一。在钢琴谱中以升降音记号#、b来表示。</li>
 <li>理查德·瓦格纳，德国作曲家，开启了后浪漫主义歌剧作曲潮流。《指环》指他的歌剧作品《尼伯龙根的指环》。</li>
@@ -478,152 +403,7 @@
 <p>在翻译时我曾试图联系作者本人，以获得翻译授权，遗憾的是未能获得任何回应，于是我自作主张将其翻译了。盗版这件事我不是第一次做，也不会有什么心理负担。原本打算在世界版权日或者知识产权日来发本文，也因为等待作者回音的关系而延误了几天。</p>
 
 <p>或许该小说能带给你一些知识产权与艺术创作方面的思考。:)</p>
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+]]></content>
+  </entry>
   
-
-<span class="byline author vcard"><span class="fn">Magnil</span> 发表于</span>
-
-      
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-28T20:00:00+08:00" pubdate data-updated="true">Apr 28<span>th</span>, 2013</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/sci-fi/'>sci-fi</a>, <a class='category' href='/blog/categories/translation/'>translation</a>
-  
-</span>
-
-
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/tags/art/'>art</a>, <a class='category' href='/blog/tags/copyright/'>copyright</a>, <a class='category' href='/blog/tags/creativity/'>creativity</a>, <a class='category' href='/blog/tags/infinite-monkeys/'>infinite-monkeys</a>, <a class='category' href='/blog/tags/music/'>music</a>, <a class='category' href='/blog/tags/possibilities/'>possibilities</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <span>
-  <iframe
-    width="86"
-    scrolling="no"
-    height="16"
-    frameborder="0"
-    src=
-      "http://hits.sinajs.cn/A1/weiboshare.html?url=http://Magnil.github.io/blog/2013/04/28/melancholy-elephants/&amp;type=6&amp;ralateUid=1804531244&amp;language=zh_cn" allowtransparency="true">
-  </iframe>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/blog/2013/04/19/pop-music-all-sounds-the-same/" title="Previous Post: 为什么流行音乐听起来都一样？">&laquo; 为什么流行音乐听起来都一样？</a>
-      
-      
-    </p>
-  </footer>
-</article>
-
-
-  <section>
-    <h1>评论</h1>
-    <div id="comments" aria-live="polite"><!-- Duoshuo Comment BEGIN -->
-<div class="ds-thread"></div>
-<script type="text/javascript">
-  var duoshuoQuery = {short_name:"magnil"};
-  (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = 'http://static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
-    || document.getElementsByTagName('body')[0]).appendChild(ds);
-  })();
-</script>
-<!-- Duoshuo Comment END -->
-</div>
-  </section>
-
-</div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>授权协议</h1>
-  <p>
-   <img class="center" alt="License" src="/images/cn-by-nc-sa.png" />
-  除非另有声明，本网站所有作品均采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>授权。
-  </p>
-</section>
-<div class="post-index"></div>
-
-<script type="text/javascript">
-  tmp = '<div><a href="#">目录</a></div>';
-  $('.post-index').append(tmp);
-  $.each($('h2, h3'), function(index, item){
-      item.id = 'menuindex'+index;
-      tmpText = $(item).text();
-      if(item.tagName.toLowerCase() == 'h2'){
-        tmpClass = 'menuindexh2';
-      }else{
-        tmpClass = 'menuindexh3';
-      }
-      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
-            '">' + tmpText + '</a></div>';
-      $('.post-index').append(tmp);
-  });
-</script>
-
-
-  
-</aside>
-
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Magnil -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
