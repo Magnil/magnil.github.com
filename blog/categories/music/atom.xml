@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: music | Magnil的博客]]></title>
+  <title><![CDATA[分类：music | Magnil的博客]]></title>
   <link href="http://Magnil.github.io/blog/categories/music/atom.xml" rel="self"/>
   <link href="http://Magnil.github.io/"/>
-  <updated>2013-05-04T20:32:46+08:00</updated>
+  <updated>2013-05-04T20:39:47+08:00</updated>
   <id>http://Magnil.github.io/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
