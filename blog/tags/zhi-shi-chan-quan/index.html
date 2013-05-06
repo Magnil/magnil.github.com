@@ -121,32 +121,25 @@
   </ul>
 </section>
 
-<section>
-  <h1>最新文章</h1>
-  <ul id="recent_posts">
-    
-      <li class="post">
-        <a href="/blog/2013/04/28/melancholy-elephants/">忧郁的大象</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/04/19/pop-music-all-sounds-the-same/">为什么流行音乐听起来都一样？</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/04/15/will-we-ever-run-out-of-new-music/">音乐可能被穷尽吗？</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/04/14/everything-is-a-remix/">一切都是混搭</a>
-      </li>
-    
-      <li class="post">
-        <a href="/blog/2013/03/29/hello-world/">Hello World</a>
-      </li>
-    
-  </ul>
-</section>
+<div class="post-index"></div>
+
+<script type="text/javascript">
+  tmp = '<div><a href="#">目录</a></div>';
+  $('.post-index').append(tmp);
+  $.each($('h2, h3'), function(index, item){
+      item.id = 'menuindex'+index;
+      tmpText = $(item).text();
+      if(item.tagName.toLowerCase() == 'h2'){
+        tmpClass = 'menuindexh2';
+      }else{
+        tmpClass = 'menuindexh3';
+      }
+      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
+            '">' + tmpText + '</a></div>';
+      $('.post-index').append(tmp);
+  });
+</script>
+
 
   
 </aside>
