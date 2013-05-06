@@ -4,7 +4,7 @@
   <title><![CDATA[Magnil的博客]]></title>
   <link href="http://Magnil.github.io/atom.xml" rel="self"/>
   <link href="http://Magnil.github.io/"/>
-  <updated>2013-05-06T22:14:00+08:00</updated>
+  <updated>2013-05-06T23:15:29+08:00</updated>
   <id>http://Magnil.github.io/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
@@ -18,19 +18,18 @@
     <link href="http://Magnil.github.io/blog/2013/04/28/melancholy-elephants/"/>
     <updated>2013-04-28T20:00:00+08:00</updated>
     <id>http://Magnil.github.io/blog/2013/04/28/melancholy-elephants</id>
-    <content type="html"><![CDATA[<p><a href="http://www.spiderrobinson.com/melancholyelephants.html">忧郁的大象</a>[1]</p>
+    <content type="html"><![CDATA[<p><a href="http://www.spiderrobinson.com/melancholyelephants.html">忧郁的大象</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 
 <p>1983 年短篇雨果奖作品</p>
 
 <ul>
-<li>作者：斯派德·罗宾逊</li>
-<li>翻译：马小褂</li>
+  <li>作者：斯派德·罗宾逊</li>
+  <li>翻译：马小褂</li>
 </ul>
-
 
 <p>谨以此故事，献给维吉尼亚·海因莱因[2]</p>
 
-<h2>正文</h2>
+<h2 id="section">正文</h2>
 
 <p>她禅坐着，冥想着，直到该为预约作准备时才停下。禅坐仿佛带回了往日的宁静，一切尽在掌握之中。化妆时她的手没有颤抖，一张平静的脸从镜子中回视着她。她对自己的镇静也感到一丝惊讶。这份镇静一直保持到她从车库层离开酒店电梯，一个匪徒跳出来拦道打劫。她直接杀死了劫匪，而不是把他缴械。这显然不是一个慎重的、冷静的行为——官方的小题大作和笔录可能会让她迟到。她埋怨着自己，将尸体塞到一辆崭新的西屋牌陆空两栖汽车下面——她知道车主现在在月球，然后走向自己的车。没办法，这又耽搁了她不少时间。她努力着至少恢复表面上的平静，将车开出车库，然后驶向北方。</p>
 
@@ -39,7 +38,6 @@
 <p><strong>数十年来的工作、花了数不清的钱，她想着，汇集成一场可能才半小时的谈话。所有的努力，所有的希望。当然，在摩天轮的规模面前显得微不足道……但是当你把一切筹码都压在一场半小时的谈话里，就仿佛将拾音头立于针尖之上——只需要一克左右的重量即可刺穿一颗钻石。我必须比钻石还要坚强才行。</strong></p>
 
 <!-- more -->
-
 
 <p>比起将车窗换成透明模式后看着华盛顿特区从窗外掠过，她还是更愿意打开电视看。她专注于新闻当中并试图理清它们，期望有机会能用这些最新信息来获得谈话中的主动，但是毫无进展。不久后，车子向她示意：“落地中，女士。请用瞳孔验证身份。”当车着陆后，她把窗子透明化并将其打开，向蓝衣士兵出示她的通行证和身份证，很快获得准许。在士兵的指示下，她重新把车窗换回不透明状态，并将车子的控制权交付给屋里的主机。车自己停好熄火后，她从容不迫的下了车。一个她认识的男人正等着迎接她，微笑着。</p>
 
@@ -101,7 +99,7 @@
 
 <p>他挑了挑眉毛，把头抬了起来。</p>
 
-<p>“我们还没有<strong>聊</strong>到任何事情。你不站起来是因为你不能。你的礼貌接待，花费了我三次小心积攒来的人情和一大叠现金。然而回报却是你不情不愿的接见。我知道你至少有八个情人，每一个都足以让我相形见绌。我在来这的路上掩藏了一具温热的尸体，只因我不敢迟到。我时间很紧，工作也很忙。我们能开始了吗？”</p>
+<p>“我们还没有__聊__到任何事情。你不站起来是因为你不能。你的礼貌接待，花费了我三次小心积攒来的人情和一大叠现金。然而回报却是你不情不愿的接见。我知道你至少有八个情人，每一个都足以让我相形见绌。我在来这的路上掩藏了一具温热的尸体，只因我不敢迟到。我时间很紧，工作也很忙。我们能开始了吗？”</p>
 
 <p>她屏住气，默默祈祷。所有她能了解到的参议员的信息告诉她，这是接近他的正确做法。但真是这样吗？</p>
 
@@ -121,13 +119,13 @@
 
 <p>“是什么？”</p>
 
-<p>“你的目标。你们论点薄弱，缺乏说服力，而且每次向你们提出后，你们只是固执己见。我看到过很多人站定立场而没有明显的逻辑，但是只要我继续下功夫去找，总还是能看到他们的逻辑。然而就我所见，S.&#8217;896法案对于你们声称代表的群体——艺术家们——有着明显而持久的益处。你的组织里有太多与你们目标不太一致的情报。所以我不得不好奇，你<strong>到底</strong>为了什么在努力，又为什么？有一种可能性是，你想要搅和版权这件事来换取<strong>真正</strong>想要的东西。明白吗？”</p>
+<p>“你的目标。你们论点薄弱，缺乏说服力，而且每次向你们提出后，你们只是固执己见。我看到过很多人站定立场而没有明显的逻辑，但是只要我继续下功夫去找，总还是能看到他们的逻辑。然而就我所见，S.’896法案对于你们声称代表的群体——艺术家们——有着明显而持久的益处。你的组织里有太多与你们目标不太一致的情报。所以我不得不好奇，你__到底__为了什么在努力，又为什么？有一种可能性是，你想要搅和版权这件事来换取__真正__想要的东西。明白吗？”</p>
 
-<p>“参议员先生，我<strong>是</strong>为了所有的艺术家而努力。而且在更广泛的意义上——”</p>
+<p>“参议员先生，我__是__为了所有的艺术家而努力。而且在更广泛的意义上——”</p>
 
 <p>他显得很为难，或者说，更为难了。“……‘为了全人类’是吗，哦，<strong>上帝</strong>。马丁夫人，饶了我吧。”</p>
 
-<p>“我<strong>知道</strong>你听过无数次了，可能也经常这么说。”听到这里他干笑了一下。“现在刚好是这句话真正该用到的罕见时机。我相信如果S.&#8217;896法案通过，我们人类将遭受重大磨难。”</p>
+<p>“我__知道__你听过无数次了，可能也经常这么说。”听到这里他干笑了一下。“现在刚好是这句话真正该用到的罕见时机。我相信如果S.’896法案通过，我们人类将遭受重大磨难。”</p>
 
 <p>他抬起干瘦的手臂，扯了扯自己的下嘴唇。“现在，我已经确定你的立场了，相信我能给你节省下不少钱。结束这场对话，你为了这半小时会面所付出的钱，会按剩下的比例退还给你。”</p>
 
@@ -135,7 +133,7 @@
 
 <p>“收起你的夸张演说吧，女士，这样显得既无谓又残忍。如你所见，我不能帮你。”</p>
 
-<p>她想要哭出来，但狠心忍住了。<strong>克制自己</strong>，脑海里浮现出一个声音，而另一个声音则大声叫着，他这样的男人不该轻易用“我不能”这个词。他<strong>必须</strong>是错的。也许这句话只是一种谈判策略……</p>
+<p>她想要哭出来，但狠心忍住了。<strong>克制自己</strong>，脑海里浮现出一个声音，而另一个声音则大声叫着，他这样的男人不该轻易用“我不能”这个词。他__必须__是错的。也许这句话只是一种谈判策略……</p>
 
 <p>没有流露出任何心理挣扎，她的声音依然冷静而从容。“先生，我不是来这里游说的。我只是想亲自告诉你，我们的组织打算无条件捐赠竞选资金，数额为——”</p>
 
@@ -171,7 +169,7 @@
 
 <p>“——亲切的招——啊？”</p>
 
-<p>“能告诉我你的观点吗？为什么我不应该支持&#8217;896法案？”</p>
+<p>“能告诉我你的观点吗？为什么我不应该支持’896法案？”</p>
 
 <p>她猛地眨了眨眼睛。“你刚刚还说这样既无谓又残忍。”</p>
 
@@ -201,7 +199,7 @@
 
 <p>他仔细琢磨了会她的话，然后又皱起眉头。“但你的文章和材料里可从来没提过这种可能性。”</p>
 
-<p>“这样只会提前诱发创伤。目前只有少数几个人知道，即使我的组织里也是如此。我告诉<strong>你</strong>，是因为你问了，而且我确信只有你一个人在录下这段对话。我只能赌你会擦除磁带。”</p>
+<p>“这样只会提前诱发创伤。目前只有少数几个人知道，即使我的组织里也是如此。我告诉__你__，是因为你问了，而且我确信只有你一个人在录下这段对话。我只能赌你会擦除磁带。”</p>
 
 <p>他眨了眨眼睛，一时之间忘了该说什么。“噢，噢，”他温和的说，“让我换个舒服的姿势。”他把椅背往后大幅调整，然后让下躯得到按摩。她发现他依然可以通过头顶的镜子看到她，如果他想的话。他的眼睛闭上了。“好了，请继续。”</p>
 
@@ -211,25 +209,25 @@
 
 <p>“答的好，”她说道，“请记住。那么根据当今所有的概念和假设，你应该会同意艺术大概有一万五千六百多年的历史了。这是现存最古老艺术品，拉斯科洞窟壁画[8]的年龄。毫无疑问的是，这些洞窟画家也会唱歌、跳舞，甚至会讲故事——但是这些艺术品没有留下记录，只留存在当时人们的记忆中。或许靠着讲故事的人才将他们的艺术延续下来。一代又一代人的努力下，他们制定出并标准化一个可行的乐谱方案。而直到近几个世纪，舞蹈家才学会如何给他们的艺术留下最基本的记录。</p>
 
-<p>“我们人类的种族记忆自从拉斯科的时代起就越来越长。随着书写这一最重要而简单的发明诞生，我们的记忆跨度从几代人的时间，延续到和圣经存在的时间以来一样长。我们花了巨大的努力才能维持那么久的记忆，然而誊抄手稿的速度却难及野蛮人、瘟疫或其他天灾摧毁它们的速度。印刷术合理解决了这一问题，制作并传播大量手稿或艺术作品的副本，总会有<strong>一些</strong>能从任何灾难中幸存下来。</p>
+<p>“我们人类的种族记忆自从拉斯科的时代起就越来越长。随着书写这一最重要而简单的发明诞生，我们的记忆跨度从几代人的时间，延续到和圣经存在的时间以来一样长。我们花了巨大的努力才能维持那么久的记忆，然而誊抄手稿的速度却难及野蛮人、瘟疫或其他天灾摧毁它们的速度。印刷术合理解决了这一问题，制作并传播大量手稿或艺术作品的副本，总会有__一些__能从任何灾难中幸存下来。</p>
 
 <p>“但是随着印刷这一新概念的诞生，艺术突然间面向了大众市场，自然也会有金钱交易。作者们认为他们应该拥有复制自己作品的权利。版权概念随之产生。</p>
 
 <p>“接着来到最近的一百五十年里，人类的种族记忆产生了飞跃。录制技术，视觉上：摄影，胶片，录像，影印，全息。听觉上：低保真，高保真，立体声，数码。然后是计算机，信息存储的极限。每种新技术都产生了新的艺术形式。而每一样都需要对版权观念的重新评估。</p>
 
-<p>“你知道的，我们现在的系统自从二十世纪中期以来从未改变。版权在持有者死亡五十年之后就不复存在了。但是人口规模自从一九〇〇年以来开始急剧增长，人均寿命也是如此。目前发达国家的平均预期寿命为一百二十岁——而你本人能活得更久。因此，S.&#8217;896实际将版权期限延长到了永久。”</p>
+<p>“你知道的，我们现在的系统自从二十世纪中期以来从未改变。版权在持有者死亡五十年之后就不复存在了。但是人口规模自从一九〇〇年以来开始急剧增长，人均寿命也是如此。目前发达国家的平均预期寿命为一百二十岁——而你本人能活得更久。因此，S.’896实际将版权期限延长到了永久。”</p>
 
-<p>“好吧，”参议员打断了她，“这有什么<strong>问题</strong>呢？难道一个人不再呼吸，作品就不再是他自己的了吗？马丁夫人，你本人将因为该法案的通过而一生富裕。你真的想放弃你亡夫留下的智慧遗产吗？”</p>
+<p>“好吧，”参议员打断了她，“这有什么__问题__呢？难道一个人不再呼吸，作品就不再是他自己的了吗？马丁夫人，你本人将因为该法案的通过而一生富裕。你真的想放弃你亡夫留下的智慧遗产吗？”</p>
 
 <p>她的脸上情不自禁地流露出痛苦。</p>
 
-<p>“请原谅我的直言不讳，但这就是我<strong>所能</strong>理解的你的立场。”</p>
+<p>“请原谅我的直言不讳，但这就是我__所能__理解的你的立场。”</p>
 
 <p>“参议员先生，如果我试图攥取我丈夫的智慧结晶，我可能会拖累到我们人类。你难道不明白永久版权意味着什么吗？意味着永久的种族记忆！那个法案会让我们人类拥有大象一般的记忆力。<strong>你可曾见过快乐的大象？</strong>”</p>
 
 <p>他沉默了一会，说道：“我还是不能确定我是否理解了你的问题。”</p>
 
-<p>“别沮丧，先生。这个问题在所有人眼皮底下已经<strong>至少</strong>八十年了，却几乎没有人注意到。”</p>
+<p>“别沮丧，先生。这个问题在所有人眼皮底下已经__至少__八十年了，却几乎没有人注意到。”</p>
 
 <p>“为什么会这样？”</p>
 
@@ -241,11 +239,11 @@
 
 <p>“抱歉——我不应该打断你。那是目前对宇宙中原子总数的最佳估算。请继续。”</p>
 
-<p>她挣扎着回到正轨。“好吧，在大多数人的思维中，比那个数小很多也等同于‘无限’了。百万年来我们看着大海说，‘那是无限的。它能永远接受我们的废物和垃圾。’我们看着天空说，‘那是无限的。它能承受无限的烟雾。’我们<strong>喜欢</strong>这种无限的想法。包含无限的问题总是容易解决的。污染整个无限大的地球需要多久？简单：永远。别思考了。</p>
+<p>她挣扎着回到正轨。“好吧，在大多数人的思维中，比那个数小很多也等同于‘无限’了。百万年来我们看着大海说，‘那是无限的。它能永远接受我们的废物和垃圾。’我们看着天空说，‘那是无限的。它能承受无限的烟雾。’我们__喜欢__这种无限的想法。包含无限的问题总是容易解决的。污染整个无限大的地球需要多久？简单：永远。别思考了。</p>
 
 <p>“然后，有一天我们人类的数量太多了，地球看上去不再是无限大。</p>
 
-<p>“于是我们搬到别处。太阳系里还<strong>剩下</strong>无限的资源，不是吗？我觉得你是少数足够聪明，能够意识到太阳系里并<strong>没有</strong>无限资源的人，而且又老练地在你的政策中涵盖了这种意识。”</p>
+<p>“于是我们搬到别处。太阳系里还__剩下__无限的资源，不是吗？我觉得你是少数足够聪明，能够意识到太阳系里并__没有__无限资源的人，而且又老练地在你的政策中涵盖了这种意识。”</p>
 
 <p>参议员现在看起来有些困惑了。他从麦管里啜饮着什么东西。“把这些和你的问题联系起来。”</p>
 
@@ -253,7 +251,7 @@
 
 <p>“记得？我刚搜到它了。我的公司赢了。”</p>
 
-<p>“你的公司使法庭相信哈里森从十几年前的一首《He&#8217;s So Fine》里，抄来调子用到自己的歌里[9]。之后不久，小野洋子的《You&#8217;re My Angel》[10]被指控剽窃一首三十多年前的经典曲目《Makin&#8217; Whoopee》。查克·贝里和约翰·列侬也因为《Come Together》引起纠纷[11]。然后来到八十年代末，一场蔓延的剽窃风波<strong>真的</strong>在法庭上演了。从那开始，流行音乐人被公开狩猎，直到现在依然如此。但是世纪之交时，当布林德的《Ringsong》被证明‘基本上类似’柯瑞里的一首协奏曲[12]时，事情开始变得麻烦了。</p>
+<p>“你的公司使法庭相信哈里森从十几年前的一首《He’s So Fine》里，抄来调子用到自己的歌里[9]。之后不久，小野洋子的《You’re My Angel》[10]被指控剽窃一首三十多年前的经典曲目《Makin’ Whoopee》。查克·贝里和约翰·列侬也因为《Come Together》引起纠纷[11]。然后来到八十年代末，一场蔓延的剽窃风波__真的__在法庭上演了。从那开始，流行音乐人被公开狩猎，直到现在依然如此。但是世纪之交时，当布林德的《Ringsong》被证明‘基本上类似’柯瑞里的一首协奏曲[12]时，事情开始变得麻烦了。</p>
 
 <p>“一共有八十八个音符。如果你的听力足够敏锐到能分辨出四分一音的话[13]，那么则是一百七十六个。加上休止符，不同的音符时值等等。再估计一个数作为一段旋律里最多能包含的音符数量。我不知道算出来的最大旋律总数是多少——太多的变量了——但是我相信这个数非常大。</p>
 
@@ -277,11 +275,11 @@
 
 <p>老人脸上的诧异仿佛消失了一个世纪那么久，并没有收到什么戏剧性的效果。不过，她知道已经震撼到他。“不，我不知道。”</p>
 
-<p>“你哪里会知道？谁会聊到这个？然而这却是事实。另一个事实是，考虑到创作中的作曲家数量在增长，提交到版权署的作品<strong>通过率</strong>反而在显著降低。我们拥有史上最多的作曲家，但是他们的独立创作率在减退。谁是当世最受欢迎的作曲家？”</p>
+<p>“你哪里会知道？谁会聊到这个？然而这却是事实。另一个事实是，考虑到创作中的作曲家数量在增长，提交到版权署的作品__通过率__反而在显著降低。我们拥有史上最多的作曲家，但是他们的独立创作率在减退。谁是当世最受欢迎的作曲家？”</p>
 
 <p>“呃……我觉得是瓦钱德拉那个家伙。”</p>
 
-<p>“对。他已经创作四十多年了。如果你将他写的每一个音符连续播放，十二个小时内就播完了。瓦格纳[14]写过超过六十个小时的音乐——光是《指环》就要播上二十一个小时。披头士乐队——基本上就是两个作曲家——在<strong>不到</strong>十年内，写出了超过十二小时的原创音乐。为什么昔日的巨匠更高产呢？</p>
+<p>“对。他已经创作四十多年了。如果你将他写的每一个音符连续播放，十二个小时内就播完了。瓦格纳[14]写过超过六十个小时的音乐——光是《指环》就要播上二十一个小时。披头士乐队——基本上就是两个作曲家——在__不到__十年内，写出了超过十二小时的原创音乐。为什么昔日的巨匠更高产呢？</p>
 
 <p>“<strong>因为他们拥有更多好听的八十八音符排列去寻找。</strong>”</p>
 
@@ -301,9 +299,9 @@
 
 <p>“人们试图创造新的艺术形式已经很久了，先生。几乎全部都在半途就失败了。人们就是不喜欢它们。”</p>
 
-<p>“我们会<strong>学着</strong>喜欢它们。该死的，我们必须学会。”</p>
+<p>“我们会__学着__喜欢它们。该死的，我们必须学会。”</p>
 
-<p>“是的，它们会有成效，但只是一会儿。近两个世纪以来诞生的艺术形式，要比之前的百万年里加起来还要多——尽管在过去十五年里没出现新的。香气交响曲，触觉雕塑，能动雕塑，零重力舞蹈——它们都是丰富的新领域，而它们也在产生新的版权大山。有穷的天堑。而终极的瓶颈在于：<strong>我们只能通过五感来理解艺术，这个是有穷的数字。</strong>请问，能给我杯水吗？”</p>
+<p>“是的，它们会有成效，但只是一会儿。近两个世纪以来诞生的艺术形式，要比之前的百万年里加起来还要多——尽管在过去十五年里没出现新的。香气交响曲，触觉雕塑，能动雕塑，零重力舞蹈——它们都是丰富的新领域，而它们也在产生新的版权大山。有穷的天堑。而终极的瓶颈在于：__我们只能通过五感来理解艺术，这个是有穷的数字。__请问，能给我杯水吗？”</p>
 
 <p>“当然。”老人似乎恢复了他一贯的控制，但从她椅臂里冒出的杯子中盛的是苹果汁。她忽略了这点，继续说道。</p>
 
@@ -319,7 +317,7 @@
 
 <p>她沉默了许久，参议员也没有说话。</p>
 
-<p>“‘<strong>人生短暂，艺术长久。</strong>’[19]”最后，她说道。“上千年来我们一直这样宽慰自己。但艺术是长久的，而非无限的。‘魔法消失了。’[20]有一天我们将发现<strong>用尽</strong>了它——除非有一天我们学会回收使用它，就像其他有穷资源一样。”她提高了音量。“参议员，那个法案必须失败，我必须让你来阻止它。或许我赢不了——但是我会和你抗争到底！版权期限必须不得超过五十年——之后应该从版权署的记忆库中洗去。我们必须故意去选择性的遗忘，这样才能保护艺术发现者们继续工作而免遭精神创伤。现实需要被铭记——但是梦呢？”她颤抖着。“梦在醒来时就应该被遗忘。否则会有一天，我们将再也无法入睡。鉴于八十亿艺术家的有效工作寿命已经超过一个世纪，我们不能再允许个人永久拥有自己的发现。我们必须按照人类百万年来的方式行动——通过遗忘，然后再重新发现。因为终将有一天，无限多的猴子将再没有别的事可做，<strong>除了</strong>写出莎士比亚的全集[21]。当那一天到来时，他们或许还宁愿自己不知道。”</p>
+<p>“‘<strong>人生短暂，艺术长久。</strong>’[19]”最后，她说道。“上千年来我们一直这样宽慰自己。但艺术是长久的，而非无限的。‘魔法消失了。’[20]有一天我们将发现__用尽__了它——除非有一天我们学会回收使用它，就像其他有穷资源一样。”她提高了音量。“参议员，那个法案必须失败，我必须让你来阻止它。或许我赢不了——但是我会和你抗争到底！版权期限必须不得超过五十年——之后应该从版权署的记忆库中洗去。我们必须故意去选择性的遗忘，这样才能保护艺术发现者们继续工作而免遭精神创伤。现实需要被铭记——但是梦呢？”她颤抖着。“梦在醒来时就应该被遗忘。否则会有一天，我们将再也无法入睡。鉴于八十亿艺术家的有效工作寿命已经超过一个世纪，我们不能再允许个人永久拥有自己的发现。我们必须按照人类百万年来的方式行动——通过遗忘，然后再重新发现。因为终将有一天，无限多的猴子将再没有别的事可做，__除了__写出莎士比亚的全集[21]。当那一天到来时，他们或许还宁愿自己不知道。”</p>
 
 <p>现在她讲完了，再无话可说。香气交响曲也停下了，最后一段乐旨正在空气中慢慢消散。没有时钟的滴答声，没有器物的嘈杂声。完全的寂静，持续了大概半分钟。</p>
 
@@ -327,7 +325,7 @@
 
 <p>她震惊地绷紧了身体。过了一会儿，她露出一些疲态，恢复了呼吸。如此多的情绪在争夺着主导权，她甚至都还没有时间去体会到它们的经过。她说不出话来。</p>
 
-<p>“而且，”他继续说道，“我不会告诉任何人我为什么要这么做。我的公众政治生涯将因此开始衰落，本来我从未打算过放弃政治前途，但是你使我坚信我必须这么做。我很……开心，而且——”他的脸上痛苦的紧绷着，“对于你告诉我必须这么做的原因，我<strong>深感</strong>抱歉。”</p>
+<p>“而且，”他继续说道，“我不会告诉任何人我为什么要这么做。我的公众政治生涯将因此开始衰落，本来我从未打算过放弃政治前途，但是你使我坚信我必须这么做。我很……开心，而且——”他的脸上痛苦的紧绷着，“对于你告诉我必须这么做的原因，我__深感__抱歉。”</p>
 
 <p>“我也是，先生。”她轻轻地说，声音几乎快要听不见。</p>
 
@@ -339,15 +337,15 @@
 
 <p>她就像被打到一样缩了缩。“先生？”她机械地问道。</p>
 
-<p>“<strong>别</strong>让自己垮下来！这是命令。你的神经绷得太紧了。人一旦垮下来，就再也难以恢复。”</p>
+<p>“__别__让自己垮下来！这是命令。你的神经绷得太紧了。人一旦垮下来，就再也难以恢复。”</p>
 
 <p>“所以呢？”她痛苦地问道。</p>
 
-<p>他用尽全身力气说道，声音里拥有不容置疑的力量。“所以你觉得一个我这年纪的男人还<strong>有</strong>多少朋友？该死的。你认为你这样的头脑很常见吗？从现在起我们<strong>分享</strong>这笔事务，也就是说我们是朋友了。四分之一个世纪以来，你是第一个走出这座电梯然后真正让我震惊的人。你的思考方式和我很像，我无法接受失去你。”他笑了，笑容仿佛融化了他脸上的岁月。“坚持住，多萝西，”他说，“然后我们可以凭借强大的知识来互相慰藉。好吗？”</p>
+<p>他用尽全身力气说道，声音里拥有不容置疑的力量。“所以你觉得一个我这年纪的男人还__有__多少朋友？该死的。你认为你这样的头脑很常见吗？从现在起我们__分享__这笔事务，也就是说我们是朋友了。四分之一个世纪以来，你是第一个走出这座电梯然后真正让我震惊的人。你的思考方式和我很像，我无法接受失去你。”他笑了，笑容仿佛融化了他脸上的岁月。“坚持住，多萝西，”他说，“然后我们可以凭借强大的知识来互相慰藉。好吗？”</p>
 
 <p>有那么一会儿，她专注着控制她的呼吸，缓慢地，有规律地。然后，她试探着感受自己的情绪。</p>
 
-<p>“为什么，”她有些莫名，“分享总<strong>是</strong>……更好的。”</p>
+<p>“为什么，”她有些莫名，“分享总__是__……更好的。”</p>
 
 <p>“任何事情都是。”</p>
 
@@ -357,42 +355,40 @@
 
 <p>“好的，罗伯特。[23]”</p>
 
-<h2>译注</h2>
-
+<h2 id="section-1">译注</h2>
 <ol>
-<li>大象具有惊人的记忆力，传说它们不会忘记任何事情。该标题也受到了海因莱因的影响。</li>
-<li>维吉尼亚·海因莱因是罗伯特·安森·海因莱因的第三任妻子，陪伴他走过大半人生。</li>
-<li>莎拉·德拉蒙德是作者和妻子合著的中篇科幻小说《星舞》中的角色。该作品在 1977 年同时获得雨果奖和星云奖。</li>
-<li>佛教名相，四弘誓愿。修大乘菩萨道时，首先须发四弘誓愿。这里稍作修改。</li>
-<li>Abscam，是七十年代末、八十年代初联邦调查局的诱惑侦查行动代号：为了侦缉国家机关内的渎职犯罪，由侦查人员扮成阿拉伯人商人向国会议员及政府官吏行贿。文中将 abscam 当作动词使用，这里简译为“诱惑侦查”。</li>
-<li>出自美国十九世纪政治家西蒙·卡梅伦的名言：“一个诚实的政客应该做到，一旦被收买，就永远被收买。”这里稍作修改。</li>
-<li>“从长远来看，我们都死了。”约翰·梅纳德·凯恩斯的名言，用来讽刺古典经济学派的宏观经济认识，认为他们解决不了当下问题。</li>
-<li>拉斯科洞窟壁画，位于法国，是著名的石器时代洞穴壁画。根据放射性碳定年法，这些图画大致完成于一万五千年以前。</li>
-<li>1971 年哈里森《My Sweet Lord》被指控抄袭《He&#8217;s So Fine》。法庭判定哈里森“潜意识抄袭”，并判赔偿一百六十万美元。这是音乐抄袭指控第一次闹上法庭。</li>
-<li>正确歌名应为《Yes, I&#8217;m Your Angel》。这里不知为何，作者写错了歌名。双方最后庭外和解。</li>
-<li>《Come Together》被指控抄袭《You Can&#8217;t Catch Me》。双方庭外和解，并达成协议后，约翰·列侬为此专门翻唱了《You Can&#8217;t Catch Me》。</li>
-<li>阿尔坎杰罗·科雷利，巴洛克时期最有影响力的意大利小提琴家和作曲家。布林德应为文中虚构人物。</li>
-<li>四分一音，半音音阶中，半音和半音之间的一半的音高。音程是半音的一半，全音的四分之一。</li>
-<li>理查德·瓦格纳，德国作曲家，开启了后浪漫主义歌剧作曲潮流。《指环》指他的歌剧作品《尼伯龙根的指环》。</li>
-<li>1977 年亚历克斯·哈里的小说《根》被哈罗德·库兰德起诉，认为抄袭了自己的作品《非洲》，双方庭外和解，哈里为此赔付了六十五万美金。同年，依然是《根》，被玛格丽特·沃克指控抄袭她的《狂欢》，此案被法庭驳回。三本书都是关于黑奴题材的。</li>
-<li>《异形》第一部被科幻作家范·沃格特起诉抄袭了他的作品《太空警犬之旅》，两部作品都有着类似的创意：即异形在人类内孵蛋并在孵出后把人类吃掉。编剧丹·欧班农否认该指控，双方庭外达成和解。</li>
-<li>1980 年科幻作家本·波瓦和哈兰·艾里森起诉 ABC 系列电视《未来战警》抄袭了他们的作品《碧露》。而被告方坚称该剧来源于艾伦·爱普斯坦的短篇小说，后者声称从未阅读过《碧露》。</li>
-<li>概念小说（Novel of Ideas）是哲学小说（Philosophical fiction）的子类，包含科幻小说、乌托邦和反乌托邦小说。性格小说（Novel of Character）是心理小说（Psychological novel）的另一种说法，又称心理现实主义（psychological realism）小说。</li>
-<li>出自古希腊医师希波克拉底《箴言》第一段。文章中引用的是拉丁文版：Ars longa, vita brevis。英文版为：    Life is short, art is long。</li>
-<li>拉瑞·尼文于 1976 年所著的同名奇幻小说《魔法消失了》，故事里将魔法视为一种不可再生的资源。</li>
-<li>无限猴子定理，被用来帮助理解无限、概率和时间的概念。其表述为：让一只猴子在打字机上随机地按键，当按键时间达到无限时，几乎必然能够打出任何给定的文字，比如莎士比亚的全套著作。这一思想在流行文化尤其是科幻作品中，占据了相当大的重量。</li>
-<li>出自《圣经》传道书一章九节。</li>
-<li>罗伯特指罗伯特·海因莱因，鲍勃是罗伯特的缩写昵称。此处和文首的“献给维吉尼亚·海因莱因”相呼应。</li>
+  <li>大象具有惊人的记忆力，传说它们不会忘记任何事情。该标题也受到了海因莱因的影响。</li>
+  <li>维吉尼亚·海因莱因是罗伯特·安森·海因莱因的第三任妻子，陪伴他走过大半人生。</li>
+  <li>莎拉·德拉蒙德是作者和妻子合著的中篇科幻小说《星舞》中的角色。该作品在 1977 年同时获得雨果奖和星云奖。</li>
+  <li>佛教名相，四弘誓愿。修大乘菩萨道时，首先须发四弘誓愿。这里稍作修改。</li>
+  <li>Abscam，是七十年代末、八十年代初联邦调查局的诱惑侦查行动代号：为了侦缉国家机关内的渎职犯罪，由侦查人员扮成阿拉伯人商人向国会议员及政府官吏行贿。文中将 abscam 当作动词使用，这里简译为“诱惑侦查”。</li>
+  <li>出自美国十九世纪政治家西蒙·卡梅伦的名言：“一个诚实的政客应该做到，一旦被收买，就永远被收买。”这里稍作修改。</li>
+  <li>“从长远来看，我们都死了。”约翰·梅纳德·凯恩斯的名言，用来讽刺古典经济学派的宏观经济认识，认为他们解决不了当下问题。</li>
+  <li>拉斯科洞窟壁画，位于法国，是著名的石器时代洞穴壁画。根据放射性碳定年法，这些图画大致完成于一万五千年以前。</li>
+  <li>1971 年哈里森《My Sweet Lord》被指控抄袭《He’s So Fine》。法庭判定哈里森“潜意识抄袭”，并判赔偿一百六十万美元。这是音乐抄袭指控第一次闹上法庭。</li>
+  <li>正确歌名应为《Yes, I’m Your Angel》。这里不知为何，作者写错了歌名。双方最后庭外和解。 </li>
+  <li>《Come Together》被指控抄袭《You Can’t Catch Me》。双方庭外和解，并达成协议后，约翰·列侬为此专门翻唱了《You Can’t Catch Me》。</li>
+  <li>阿尔坎杰罗·科雷利，巴洛克时期最有影响力的意大利小提琴家和作曲家。布林德应为文中虚构人物。</li>
+  <li>四分一音，半音音阶中，半音和半音之间的一半的音高。音程是半音的一半，全音的四分之一。</li>
+  <li>理查德·瓦格纳，德国作曲家，开启了后浪漫主义歌剧作曲潮流。《指环》指他的歌剧作品《尼伯龙根的指环》。</li>
+  <li>1977 年亚历克斯·哈里的小说《根》被哈罗德·库兰德起诉，认为抄袭了自己的作品《非洲》，双方庭外和解，哈里为此赔付了六十五万美金。同年，依然是《根》，被玛格丽特·沃克指控抄袭她的《狂欢》，此案被法庭驳回。三本书都是关于黑奴题材的。</li>
+  <li>《异形》第一部被科幻作家范·沃格特起诉抄袭了他的作品《太空警犬之旅》，两部作品都有着类似的创意：即异形在人类内孵蛋并在孵出后把人类吃掉。编剧丹·欧班农否认该指控，双方庭外达成和解。</li>
+  <li>1980 年科幻作家本·波瓦和哈兰·艾里森起诉 ABC 系列电视《未来战警》抄袭了他们的作品《碧露》。而被告方坚称该剧来源于艾伦·爱普斯坦的短篇小说，后者声称从未阅读过《碧露》。</li>
+  <li>概念小说（Novel of Ideas）是哲学小说（Philosophical fiction）的子类，包含科幻小说、乌托邦和反乌托邦小说。性格小说（Novel of Character）是心理小说（Psychological novel）的另一种说法，又称心理现实主义（psychological realism）小说。</li>
+  <li>出自古希腊医师希波克拉底《箴言》第一段。文章中引用的是拉丁文版：Ars longa, vita brevis。英文版为：    Life is short, art is long。</li>
+  <li>拉瑞·尼文于 1976 年所著的同名奇幻小说《魔法消失了》，故事里将魔法视为一种不可再生的资源。</li>
+  <li>无限猴子定理，被用来帮助理解无限、概率和时间的概念。其表述为：让一只猴子在打字机上随机地按键，当按键时间达到无限时，几乎必然能够打出任何给定的文字，比如莎士比亚的全套著作。这一思想在流行文化尤其是科幻作品中，占据了相当大的重量。</li>
+  <li>出自《圣经》传道书一章九节。</li>
+  <li>罗伯特指罗伯特·海因莱因，鲍勃是罗伯特的缩写昵称。此处和文首的“献给维吉尼亚·海因莱因”相呼应。</li>
 </ol>
 
-
-<h2>版权申明</h2>
+<h2 id="section-2">版权申明</h2>
 
 <p><a href="http://www.spiderrobinson.com/melancholyelephants.html">原作</a>以<a href="http://creativecommons.org/licenses/by-nc-nd/3.0/">知识共享-署名-非商业性使用-禁止演绎 3.0协议</a>发布。鉴于翻译是演绎作品的一种形式，而本人在翻译时并未获得授权，故本翻译仅作学习、交流使用，一切权利归原作者所属。</p>
 
 <p>请勿广泛转载此文或用于商业途径。如有任何需要，请直接转载<a href="http://www.spiderrobinson.com/melancholyelephants.html">原作</a>或联系<a href="http://www.spiderrobinson.com/contact.html">原作者</a>。</p>
 
-<h2>译后记</h2>
+<h2 id="section-3">译后记</h2>
 
 <p>在思考过“<a href="http://magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/">音乐是否可能被穷尽</a>”和“<a href="http://magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/">为什么流行音乐听起来都一样</a>”之后，我开始产生一些古怪的念头——例如，艺术是可以被穷尽的，是发现而非创造；又如，当未来社会中音乐已经成为人类社会中普及的能力，如同当今的文学创作一般，那么音乐会如何发展？</p>
 
@@ -403,6 +399,13 @@
 <p>在翻译时我曾试图联系作者本人，以获得翻译授权，遗憾的是未能获得任何回应，于是我自作主张将其翻译了。盗版这件事我不是第一次做，也不会有什么心理负担。原本打算在世界版权日或者知识产权日来发本文，也因为等待作者回音的关系而延误了几天。</p>
 
 <p>或许该小说能带给你一些知识产权与艺术创作方面的思考。:)</p>
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>大象具有惊人的记忆力，传说它们不会忘记任何事情。该标题也受到了海因莱因的影响。<a href="#fnref:1" rel="reference">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
 ]]></content>
   </entry>
   
@@ -411,17 +414,14 @@
     <link href="http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/"/>
     <updated>2013-04-19T20:28:00+08:00</updated>
     <id>http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same</id>
-    <content type="html"><![CDATA[<h2>前言</h2>
-
+    <content type="html"><![CDATA[<h2 id="section">前言</h2>
 <p>在上一篇，我们聊到了“<a href="http://magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/">音乐是否会被穷尽</a>”的话题，不过留下了一个小尾巴没有解决。那就是，为什么有那么多流行音乐听起来都一样？</p>
 
 <p>就“音乐相似”这一问题来说，包含如何定义“相似”，这些“相似”属于哪个方面，它们为什么会存在“相似”。</p>
 
 <!-- more -->
 
-
-<h2>一、公有领域</h2>
-
+<h2 id="section-1">一、公有领域</h2>
 <p>首先明确概念。公有领域指属于公有文化遗产、任何人可以不受限制地使用和加工的全体人类智慧结晶的集合。</p>
 
 <p>因为公有领域的存在，你可以在自己的音乐作品中使用民间流传了几百年的民谣、使用巴赫或是贝多芬的古典名曲（注意是曲谱，可以自己演奏改编，因为有些录制的版本是没过期的）、使用超过版权期限而进入公有领域的音乐作品（类似的，同上）。这个词伴随着版权制度的建立应运而生，在此之前，所有的作品均属于公有领域。</p>
@@ -429,122 +429,95 @@
 <p>OK，明确了这个概念以后，我们来举例子：</p>
 
 <ul>
-<li>《一闪一闪亮晶晶》和《字母表》，都源自于18世纪中期的法国民歌《妈妈请听我说》，莫扎特根据此曲改编了《 C 大调变奏曲 K.265》。</li>
+  <li>《一闪一闪亮晶晶》和《字母表》，都源自于18世纪中期的法国民歌《妈妈请听我说》，莫扎特根据此曲改编了《 C 大调变奏曲 K.265》。</li>
 </ul>
 
-
-<div><embed src="http://www.xiami.com/widget/0_2715706/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_2715706/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <ul>
-<li>平井坚《古老的大钟》源自 Henry Clay Work 的《My Grandfather&#8217;s Clock》。</li>
+  <li>平井坚《古老的大钟》源自 Henry Clay Work 的《My Grandfather’s Clock》。</li>
 </ul>
 
-
-<div><embed src="http://www.xiami.com/widget/0_3352612/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769629605/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_3352612/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1769629605/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <ul>
-<li>S.H.E 的《不想长大》火过一段时间，其中副歌部分借用的是莫扎特的《 g 小调第 40 号交响曲 K.550》。</li>
+  <li>S.H.E 的《不想长大》火过一段时间，其中副歌部分借用的是莫扎特的《 g 小调第 40 号交响曲 K.550》。</li>
 </ul>
 
+<div><embed src="http://www.xiami.com/widget/0_373604/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1770385747/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
-<div><embed src="http://www.xiami.com/widget/0_373604/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1770385747/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
-
-<h2>二、借鉴 or 抄袭？</h2>
-
+<h2 id="or-">二、借鉴 or 抄袭？</h2>
 <p>音乐的流派是互相影响的，音乐创意互相交织在一起。所以早期留下了大量非常相似的作品，民谣、蓝调、R&amp;R。人们从乡间听到什么小调、从教堂听到什么福音歌曲、从酒吧听到的演奏，只要觉得好听，就会用到自己的曲子里。</p>
 
 <p>而且整个二十世纪上半叶，无论是从公有领域的改编，还是对版权作品的借鉴，有相当多数量的歌曲是不署名的。举例如下：</p>
 
 <ul>
-<li>猫王《Love Me Tender》改自公有领域的内战老歌《Aura Lee》。</li>
+  <li>猫王《Love Me Tender》改自公有领域的内战老歌《Aura Lee》。</li>
 </ul>
 
-
-<div><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=84153383_2397059874_ah21SyZtCjXK+l1lHz2stqlF+6xCpv2xhGi3slWkIAdRUgiYJMXNb9UD4SzVA8dB5yoUEJU3cf8j1B4law/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=2304026_1251054023_Z0jkH3E4B2PK+l1lHz2stqlF+6xCpv2xhGu2vlOkIApZVw+YJMXNb98E4C3WAslUtzUZSZo8dfom1Rs/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object></div>
-
+<div><object id="ssss" width="360" height="231"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=84153383_2397059874_ah21SyZtCjXK+l1lHz2stqlF+6xCpv2xhGi3slWkIAdRUgiYJMXNb9UD4SzVA8dB5yoUEJU3cf8j1B4law/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="360" height="231" /></object><object id="ssss" width="360" height="231"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=2304026_1251054023_Z0jkH3E4B2PK+l1lHz2stqlF+6xCpv2xhGu2vlOkIApZVw+YJMXNb98E4C3WAslUtzUZSZo8dfom1Rs/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="360" height="231" /></object></div>
 
 <ul>
-<li>Ray Charles 的《I Got a Woman》被认为是最早的灵歌雏形，而这首是从福音歌曲《It Must Be Jesus》借来的。</li>
-<li>Bob Dylan 的歌里引用过很多爱尔兰-苏格兰地区民歌如《Nottamun Town》、《The Merry Month of May》、《The Parting Glass》，这些当然属于公有领域，但他同时也从不少版权作品如《The Patriot Game》借来素材。</li>
+  <li>Ray Charles 的《I Got a Woman》被认为是最早的灵歌雏形，而这首是从福音歌曲《It Must Be Jesus》借来的。</li>
+  <li>Bob Dylan 的歌里引用过很多爱尔兰-苏格兰地区民歌如《Nottamun Town》、《The Merry Month of May》、《The Parting Glass》，这些当然属于公有领域，但他同时也从不少版权作品如《The Patriot Game》借来素材。</li>
 </ul>
 
-
-<div><embed src="http://www.xiami.com/widget/0_1024667/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1535481/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_1024667/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1535481/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <p>70 年代还这么干的，最有名的是 Led Zeppelin。在许多主流音乐人已经开始接受知识产权概念，注意版权问题时，他们偏不，依然按照 40、50 年代的做法。他们借用素材之多令人瞠目结舌，以至于被称作“山寨乐队”（Rip-offs）。在音乐界，当我们用<strong>山寨</strong>一词时，其实已经确定两者必然是存在借用关系的，但是其属于<strong>借鉴</strong>还是<strong>抄袭</strong>，尚且存在争议。以下例子，左边是 Led Zep，右边是他们借用的素材——剧透注意，以下例子中甚至包含他们最著名的作品，《Stairway to Heaven》。</p>
 
-<div><embed src="http://www.xiami.com/widget/0_1120399/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1289599/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
-
-<div><embed src="http://www.xiami.com/widget/0_1119507/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1577492/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
-
-<div><embed src="http://www.xiami.com/widget/0_1119912/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1771114772/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
-
-<div><embed src="http://www.xiami.com/widget/0_1119918/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1439688/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_1120399/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1289599/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
+<div><embed src="http://www.xiami.com/widget/0_1119507/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1577492/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
+<div><embed src="http://www.xiami.com/widget/0_1119912/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1771114772/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
+<div><embed src="http://www.xiami.com/widget/0_1119918/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1439688/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <p>需要特别说明的是，上面这些引用也好、改编也好，通通没有注明。这带来一个问题，当你回顾那些老歌的时候，你很难得知他们到底从哪里借来的素材/灵感。</p>
 
-<p>这种状况直到 1976 年 George Harrison 被判<strong>潜意识抄袭</strong>了 Ronnie Mack 的《He&#8217;s So Fine》赔付 160 万美元，这一判决对整个音乐产业的影响非常大。哦，顺便说一下，“潜意识抄袭”的心理学名叫 Cryptomnesia，案件里叫 Subconscious copying。国内在音乐侵权控诉中是不承认“潜意识抄袭”的。</p>
+<p>这种状况直到 1976 年 George Harrison 被判<strong>潜意识抄袭</strong>了 Ronnie Mack 的《He’s So Fine》赔付 160 万美元，这一判决对整个音乐产业的影响非常大。哦，顺便说一下，“潜意识抄袭”的心理学名叫 Cryptomnesia，案件里叫 Subconscious copying。国内在音乐侵权控诉中是不承认“潜意识抄袭”的。</p>
 
-<div><embed src="http://www.xiami.com/widget/0_1037168/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769066459/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_1037168/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1769066459/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <p>可能会有些有洁癖的小朋友无法接受这一事实。但是，<strong>音乐的发展历史没有很多人想的那么干净</strong>，换句话，<strong>许多人对于创造力存在着误解</strong>。对此，我推荐你阅读我的博文：<a href="http://magnil.github.io/blog/2013/04/14/everything-is-a-remix/">一切都是混搭</a>。</p>
 
 <p>历史总是惊人的相似，当我们来到 Hip-hop 的时代，同样的一幕再次上演了。</p>
 
-<h2>三、采样和混编</h2>
+<h2 id="section-2">三、采样和混编</h2>
+<p>MC Hammer 的《U Can’t Touch This》采样了《Super Freak》，在这首歌刚发布的时候，Rick James 因此起诉了 MC Hammer。两人庭外和解，MC Hammer 赔偿并将 Rick James 的名字一并写入作曲栏。</p>
 
-<p>MC Hammer 的《U Can&#8217;t Touch This》采样了《Super Freak》，在这首歌刚发布的时候，Rick James 因此起诉了 MC Hammer。两人庭外和解，MC Hammer 赔偿并将 Rick James 的名字一并写入作曲栏。</p>
+<div><embed src="http://www.xiami.com/widget/0_1598992/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1440117/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
-<div><embed src="http://www.xiami.com/widget/0_1598992/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1440117/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+<p>采样是指将现有音乐唱片里部分片段剪切，拼贴到自己的作品中。Hip-hop 正是伴随着采样和混编技术崛起的。普遍认知中的第一首 Hip-hop，1979 年的《Rapper’s Delight》从 Chic 乐队的《Good Times》中采样了贝斯部分，当然，没有授权。这段相同的贝斯随后出现在十几首不同的歌曲中，在那个时代，大多数都是没经过授权的。Hip-hop 黄金时代的代表作，《Fear of a Black Planet》、《Paul’s Boutique》等等，都是随意采样拼贴的大拼盘，这种行为在当今简直无法想象。现在，采样都会标注”sample from…“，支付大量金额以获得授权。以下的例子，你将听到同一段贝斯在不同歌曲中反复出现，请留意<strong>贝斯</strong>部分。</p>
 
+<div><embed src="http://www.xiami.com/widget/0_1771120276/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1769039948/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_3502723/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1556896/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_2012978/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1768960579/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
-<p>采样是指将现有音乐唱片里部分片段剪切，拼贴到自己的作品中。Hip-hop 正是伴随着采样和混编技术崛起的。普遍认知中的第一首 Hip-hop，1979 年的《Rapper&#8217;s Delight》从 Chic 乐队的《Good Times》中采样了贝斯部分，当然，没有授权。这段相同的贝斯随后出现在十几首不同的歌曲中，在那个时代，大多数都是没经过授权的。Hip-hop 黄金时代的代表作，《Fear of a Black Planet》、《Paul&#8217;s Boutique》等等，都是随意采样拼贴的大拼盘，这种行为在当今简直无法想象。现在，采样都会标注&#8221;sample from&#8230;&#8221;，支付大量金额以获得授权。以下的例子，你将听到同一段贝斯在不同歌曲中反复出现，请留意<strong>贝斯</strong>部分。</p>
+<p>从90 年代初开始，事情有些不一样了。91 年 De La Soul 因为一段 12 秒的采样被判 170 万，这是首个侵权而大额赔偿的案例。此后一系列大金额赔偿案例，直接导致 Hip-hop 走向另一个方向。去年 Beastie Boys 因为《Paul’s Boutique》被起诉，之前他们曾经说过，那个年代太混乱了，大家都在用，谁都不知道采样的原始出处。”Fair Use”目前实际上大多数时候都保护不了 Hip-hop 歌手了。</p>
 
-<div><embed src="http://www.xiami.com/widget/0_1771120276/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769039948/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_3502723/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1556896/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_2012978/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1768960579/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+<div><embed src="http://www.xiami.com/widget/0_1236494/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1101950/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
+<p>允许我发一点牢骚。90 年代后期版权法的严苛，不仅对 Hip-hop 产业的打击非常巨大，同时带来的是大量的投机分子——购买已经不再发售的唱片版权，靠着告人发财，在音乐界被称为<strong>样本鬼</strong>。2005 年著名的采样鬼 Bridgeport Music 公司起诉 N.W.A 的《100 Miles and Runnin’》获胜，而只是因为 2 秒的吉他和声。无论是过度自由还是过度严苛都不是我希望看到的，不过两者若只能选其一，我宁可选择过度自由:)</p>
 
-<p>从90 年代初开始，事情有些不一样了。91 年 De La Soul 因为一段 12 秒的采样被判 170 万，这是首个侵权而大额赔偿的案例。此后一系列大金额赔偿案例，直接导致 Hip-hop 走向另一个方向。去年 Beastie Boys 因为《Paul&#8217;s Boutique》被起诉，之前他们曾经说过，那个年代太混乱了，大家都在用，谁都不知道采样的原始出处。&#8221;Fair Use&#8221;目前实际上大多数时候都保护不了 Hip-hop 歌手了。</p>
-
-<div><embed src="http://www.xiami.com/widget/0_1236494/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1101950/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
-
-<p>允许我发一点牢骚。90 年代后期版权法的严苛，不仅对 Hip-hop 产业的打击非常巨大，同时带来的是大量的投机分子——购买已经不再发售的唱片版权，靠着告人发财，在音乐界被称为<strong>样本鬼</strong>。2005 年著名的采样鬼 Bridgeport Music 公司起诉 N.W.A 的《100 Miles and Runnin&#8217;》获胜，而只是因为 2 秒的吉他和声。无论是过度自由还是过度严苛都不是我希望看到的，不过两者若只能选其一，我宁可选择过度自由:)</p>
-
-<p>所以，在两首歌相似的时候，通常我的第一反应，是否来自公有领域？是否是采样？然后是否存在被影响的可能性——无论是借鉴还是抄袭。70 年代以前的原词曲作者、90 年代以前的采样出处，有些可能是你在词曲作者栏或者&#8221;sample from&#8221;里看不到的，因为谁都不知道。不过这些显然都不是“巧合性”的相似，尽管有些不知道具体出处，但是你能清晰的感受到歌曲之间存在的脉络。</p>
+<p>所以，在两首歌相似的时候，通常我的第一反应，是否来自公有领域？是否是采样？然后是否存在被影响的可能性——无论是借鉴还是抄袭。70 年代以前的原词曲作者、90 年代以前的采样出处，有些可能是你在词曲作者栏或者”sample from”里看不到的，因为谁都不知道。不过这些显然都不是“巧合性”的相似，尽管有些不知道具体出处，但是你能清晰的感受到歌曲之间存在的脉络。</p>
 
 <p>下面聊聊“巧合性”的，好吧，其实也不是那么巧合，只是概率问题了。</p>
 
-<h2>四、和弦进行</h2>
-
+<h2 id="section-3">四、和弦进行</h2>
 <p>有关和弦进行，Youtube 有个著名的视频——the Axis of Awesome 的 4 chords，用 4 和弦唱了 30 多首歌。有很多人做过类似的视频，国内最有名的应该是《玩死曲婉婷》：</p>
 
-<div><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=64427693_1859415927_P0KyH3QwB2DK+l1lHz2stqlF+6xCpv2xhGu8vlugJAtQVwuYJMXNb9sD5CvRBsZB5yoUEJU5cfok0Bskaw/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=83117674_2789474211_ZkKyH3MwXm7K+l1lHz2stqlF+6xCpv2xhGizs1ugIgpbVA2YJMXNb9UE4SjRBshG5yoUEJU3dv8n0BsqbA/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object></div>
-
+<div><object id="ssss" width="360" height="231"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=64427693_1859415927_P0KyH3QwB2DK+l1lHz2stqlF+6xCpv2xhGu8vlugJAtQVwuYJMXNb9sD5CvRBsZB5yoUEJU5cfok0Bskaw/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="360" height="231" /></object><object id="ssss" width="360" height="231"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=83117674_2789474211_ZkKyH3MwXm7K+l1lHz2stqlF+6xCpv2xhGizs1ugIgpbVA2YJMXNb9UE4SjRBshG5yoUEJU3dv8n0BsqbA/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="360" height="231" /></object></div>
 
 <p>Axis of Awesome 用的和弦进行是 I-V-vi-IV，包括 C G Am F/G D Em C/D A Bm G 等等。虽然他演奏的是 C G Am F，不过原曲不一定都是 Key C，只是拥有相同的和弦进行（走向）。这一和弦进行有个专有名称，叫“<a href="http://en.wikipedia.org/wiki/Pop-punk_chord_progression">流行-朋克和弦进行</a>”。</p>
 
 <p>这种现象不仅限于狭义上的流行歌曲，实际上广义上的近现代流行音乐，甚至包括古典音乐，同样的和弦进行是非常之常见的。</p>
 
 <ul>
-<li>爵士中最常见的ii-V-I：《Satin Doll》、《Autumn Leaves》、《Blue Bossa》。</li>
-<li>50 年代最常见的I-vi-IV-V：Ben E.King《Stand By Me》、the Police《Every Breath You Take》、一大堆 50 年代 doowop，甚至还为此有个专有名字叫“50年代和弦进行”（50s progression）。哦对了，Beatles 最喜欢玩这个。</li>
-<li>12 小节布鲁斯I-I-I-I-IV-IV-I-I-V-V-I-I，这是原始的，还有许多变化如最后变成V-IV-I-I，V-IV-I-V。这种实在太多。蓝调和早期R&amp;R里一大堆。懒得举。</li>
-<li>如果这里碰巧有 Jpop 爱好者的话，我也顺带说一下 Jpop 最常用的，是 IV-V-iii-vi（尤其是 Fmaj7 G7 Em7 Am），日本人把这个叫“王道进行”，Jpop 的核心部分，也是被用烂了的存在。这一和弦进行其实来源于 80 年代的欧陆节拍（Eurobeat），日本继承了它并将其作为 Jpop 最重要的组成部分之一。正是这个东西，让 Jpop 听起来和欧美当代流行音乐大不相同。关于这个和弦进行可以引申出 Jpop 的发展过程，下次有机会单独拿出来讲。</li>
-<li>还有个好玩的，帕式卡农和弦进行，哦卡农，谁都听过，但是你绝对没想过你随时随地都在听卡农。有个调侃卡农进行的著名单口音乐喜剧：我恨帕式卡农！</li>
+  <li>爵士中最常见的ii-V-I：《Satin Doll》、《Autumn Leaves》、《Blue Bossa》。</li>
+  <li>50 年代最常见的I-vi-IV-V：Ben E.King《Stand By Me》、the Police《Every Breath You Take》、一大堆 50 年代 doowop，甚至还为此有个专有名字叫“50年代和弦进行”（50s progression）。哦对了，Beatles 最喜欢玩这个。</li>
+  <li>12 小节布鲁斯I-I-I-I-IV-IV-I-I-V-V-I-I，这是原始的，还有许多变化如最后变成V-IV-I-I，V-IV-I-V。这种实在太多。蓝调和早期R&amp;R里一大堆。懒得举。</li>
+  <li>如果这里碰巧有 Jpop 爱好者的话，我也顺带说一下 Jpop 最常用的，是 IV-V-iii-vi（尤其是 Fmaj7 G7 Em7 Am），日本人把这个叫“王道进行”，Jpop 的核心部分，也是被用烂了的存在。这一和弦进行其实来源于 80 年代的欧陆节拍（Eurobeat），日本继承了它并将其作为 Jpop 最重要的组成部分之一。正是这个东西，让 Jpop 听起来和欧美当代流行音乐大不相同。关于这个和弦进行可以引申出 Jpop 的发展过程，下次有机会单独拿出来讲。</li>
+  <li>还有个好玩的，帕式卡农和弦进行，哦卡农，谁都听过，但是你绝对没想过你随时随地都在听卡农。有个调侃卡农进行的著名单口音乐喜剧：我恨帕式卡农！</li>
 </ul>
 
-
-<div><object id="ssss" width="480" height="370" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=93857407_3040417422_ZkOzGituDmPK+l1lHz2stqlF+6xCpv2xhGm0v1KgJAldVw6YJMXNb9QE6CzRBM9F5yoUEJU2dvYj0Bktbw/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="480" height="370"></embed></object></div>
-
+<div><object id="ssss" width="480" height="370"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=93857407_3040417422_ZkOzGituDmPK+l1lHz2stqlF+6xCpv2xhGm0v1KgJAldVw6YJMXNb9QE6CzRBM9F5yoUEJU2dvYj0Bktbw/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="480" height="370" /></object></div>
 
 <p>我不在这里详细解释乐理问题。如果这部分让你觉得困惑的话，没关系，反正你只需要知道他们用着相似的和弦就够了。</p>
 
@@ -552,22 +525,20 @@
 
 <p>和弦进行的相似是普遍存在的，大多数人在听流行音乐的时候感觉不出来，不过光听伴奏就会比较明显了，比如说在 KTV 的时候就会感觉到可以用一首歌的伴奏来唱另一首，或者将两首歌重叠在一起的时候。我们对歌曲相似的判断，主要还是来自于旋律和歌词。</p>
 
-<h2>五、歌词的格律</h2>
-
+<h2 id="section-4">五、歌词的格律</h2>
 <p>歌词也会存在相似？当然。如果你看了我前一篇文章里的翻译视频，就应该知道英文歌中普遍存在的普通律（common meter）和民谣律（ballad meter）。</p>
 
 <p>我在这里再详细解释一下。所谓普通律，是指音节呈 8-6-8-6 分布，两个长句结尾押韵，两个短句也要押韵，即隔行交互押韵（a-b-a-b）。民谣律类似，但要求没这么严格，只要求短句押韵，即 x-a-x-a（x 为随意韵脚）。此外，长句要求为抑扬格四音步，短句要求为抑扬格三音步，这个意思是，长句 8 个音节分为 4 个音步，每个音步由一个非重读音节和一个重读音节构成，简单来说就是“轻重轻重轻重轻重”，如：Be-<strong>cause</strong> I <strong>could</strong> not <strong>stop</strong> for <strong>Death</strong>, / He <strong>kind</strong>-ly <strong>stopped</strong> for <strong>me</strong>（著名诗人 Emily Dickinson 的诗）。</p>
 
-<p>著名网漫 <a href="http://xkcd.com/788/">xkcd</a> 有一篇讲这个的。他说“自从我用 Gilligan&#8217;s Island 的调子试着唱过这首 Emily Dickinson 的诗，我再也没办法正常的读出来了。”</p>
+<p>著名网漫 <a href="http://xkcd.com/788/">xkcd</a> 有一篇讲这个的。他说“自从我用 Gilligan’s Island 的调子试着唱过这首 Emily Dickinson 的诗，我再也没办法正常的读出来了。”</p>
 
-<p><img src="http://imgs.xkcd.com/comics/the_carriage.png" title="I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally." alt="Alt text" /></p>
+<p><img src="http://imgs.xkcd.com/comics/the_carriage.png" alt="Alt text" title="I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally." /></p>
 
 <p>因为普通律/民谣律的存在，有非常之多的乡村/福音/民谣摇滚可以完美的互换歌词来唱，这就是歌词中存在的相似。例子请参见我最前面那个翻译视频里提到的。</p>
 
 <p>在中文流行音乐中，歌词当然也存在着一定的格式，比如 3-3-5，3-3-7 或者全篇每句都是 7 字之类的句式，有那么几段可以互换，但是我很少会遇到整篇歌词都完美契合的例子。</p>
 
-<h2>六、你最无法忽视的 Riff</h2>
-
+<h2 id="riff">六、你最无法忽视的 Riff</h2>
 <p>重头戏来了。绝大多数听众，对于和弦也好、采样也好（如果不是很长的话而且使用不频繁的情况下）、歌词韵律也好，都没有那么敏感，所以重中之重还是调子。允许我这里用不严谨的“调子”而不是旋律，因为要聊及歌曲中反复演奏的 riff 片段，大部分包含一小段旋律，但功能上有些又属于和声，取决于你如何用它，如吉他/贝斯 riff。而我们人在听歌时，留下印象最深刻的，往往就是主旋律和 riff。</p>
 
 <p>先说 riff 好了。一小段反复演奏的 riff 是最常被听出相似的，尤其是当它们出现在开头时。这种洗脑式的效果导致你在听到一段相似 riff 的时候，你会马上反应过来——咦，这不是那个啥歌里面的吗？</p>
@@ -575,47 +546,40 @@
 <p>这样的例子大多集中在 70-90 年代大量吉他/贝斯 riff 的摇滚音乐里。例如：</p>
 
 <ul>
-<li>Nirvana 的《Come as You Are》和 Killing Joke 的《Eighties》；</li>
+  <li>Nirvana 的《Come as You Are》和 Killing Joke 的《Eighties》；</li>
 </ul>
 
-
-<div><embed src="http://www.xiami.com/widget/0_1239162/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1768967814/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_1239162/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1768967814/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <ul>
-<li>Smash Mouth 的《Then the morning comes》和 The Animals 的《It&#8217;s my life》；</li>
+  <li>Smash Mouth 的《Then the morning comes》和 The Animals 的《It’s my life》；</li>
 </ul>
 
-
-<div><embed src="http://www.xiami.com/widget/0_1762771/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1001833/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_1762771/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1001833/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <ul>
-<li>Steriogram 的《Walkie Talkie Man》、The Kinks 的《Picture Book》、Green Day 的《Warning》这三首的开头 riff 段都很相似。</li>
+  <li>Steriogram 的《Walkie Talkie Man》、The Kinks 的《Picture Book》、Green Day 的《Warning》这三首的开头 riff 段都很相似。</li>
 </ul>
 
+<div><embed src="http://www.xiami.com/widget/0_3350652/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1104493/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1035315/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
-<div><embed src="http://www.xiami.com/widget/0_3350652/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1104493/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1035315/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+<p>再来个极端点的例子，Riot 的《Swords and Tequila》、Accept 的《Flash Rockin’ Man》、Iron Maiden《2 Minutes to Midnight》、Mercyful Fate 的《Curse of the Pharoahs》、Raven 的《Seek And Destroy》、White Spirit 的《Midnight Chaser》、Rory Gallagher 的《Moonchild》……我不想在列下去了。你只需要听他们的 intro 部里的 riff 就足够了。</p>
 
-
-<p>再来个极端点的例子，Riot 的《Swords and Tequila》、Accept 的《Flash Rockin&#8217; Man》、Iron Maiden《2 Minutes to Midnight》、Mercyful Fate 的《Curse of the Pharoahs》、Raven 的《Seek And Destroy》、White Spirit 的《Midnight Chaser》、Rory Gallagher 的《Moonchild》……我不想在列下去了。你只需要听他们的 intro 部里的 riff 就足够了。</p>
-
-<div><embed src="http://www.xiami.com/widget/0_1661110/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1504014/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1041769/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769071279/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1846374/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1770900644/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
-
+<div><embed src="http://www.xiami.com/widget/0_1661110/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1504014/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1041769/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1769071279/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1846374/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /><embed src="http://www.xiami.com/widget/0_1770900644/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent" /></div>
 
 <p>这些歌的 riff 其实并不相同，但是都存在听觉上强烈的相似感——如果完全一样那肯定不是采样就是抄袭了。直观上，你可能会觉得这里存在我们在 2 里讲过的互相借鉴/影响的可能性，没错肯定是有的，但是也应该会存在一大批只是因为巧合。</p>
 
-<h2>七、最巧的巧合，旋律</h2>
-
+<h2 id="section-5">七、最巧的巧合，旋律</h2>
 <p>抛开 riff 来说主旋律，主要是人声唱词部分的旋律。这方面，我主推荐两个网站收集的例子作为参考。欧美方面，<a href="http://www.thatsongsoundslike.com/">That Song Sounds Like</a> 收集了不少，当然不全是旋律，也有各个方面的；国内方面，前几年有个<a href="http://kaliumcat.ycool.com/">龙抄手博客</a>整理了华语乐坛里的，大概 500 多首，不过他将这些相似都简单归咎于抄袭，显然是不对的；Jpop 方面，有个在日娱圈子里不受欢迎的用户收集了相当多<a href="http://i.youku.com/u/UMTI5Mzc4MTA0/playlists">相似的例子</a>，不受欢迎的原因和龙抄手一样——对乐理太过无知，甚至将常见“王道进行”当作剽窃，但是无论如何，他收集的这些资料相当有趣。</p>
 
 <p>如果你看了我最前面的视频，自然会有一个疑问——为什么我们有那么多的旋律可以写，但是写出来的旋律存在如此多的相似？抄袭，还是真的只是巧合？</p>
 
 <p>我这里并不想在乐理上做过多解释，也无意指点抄袭判断标准。用一个最有趣的例子来说明：</p>
 
-<p>08 年，美国吉他大师级人物 Joe Satrani 起诉 Coldplay 在《Viva La Vida》中抄袭了他的作品《If I Could Fly》，这事在国外乐迷里掀起的风波挺大的。比较有趣的事情是从英国民谣摇滚大师 Cat Stevens 站出来也指责 Coldpay “抄袭”他的《Foreigner Suite》开始，涉及的居然是同一段旋律，然后说不打算起诉他们。很显然，这是在英国的老家伙在搅混水护犊子。此外，还有一支不知名乐队 Creaky Boards 也站出来说《Viva La Vida》的那段旋律和自己的《The Songs I Didn&#8217;t Write》。这就是此事与一般相似/抄袭案例不同所在。好事者收集了 12 首有着这段相似旋律的例子，称其为“<a href="http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj">流行音乐中最常用的旋律</a>”。下面的回复中，数量还在不断增加，其实里面很几个例子对于我来说并不算太相似，不过这取决于你的耳朵。如果你有空，不妨挨个听听看:</p>
+<p>08 年，美国吉他大师级人物 Joe Satrani 起诉 Coldplay 在《Viva La Vida》中抄袭了他的作品《If I Could Fly》，这事在国外乐迷里掀起的风波挺大的。比较有趣的事情是从英国民谣摇滚大师 Cat Stevens 站出来也指责 Coldpay “抄袭”他的《Foreigner Suite》开始，涉及的居然是同一段旋律，然后说不打算起诉他们。很显然，这是在英国的老家伙在搅混水护犊子。此外，还有一支不知名乐队 Creaky Boards 也站出来说《Viva La Vida》的那段旋律和自己的《The Songs I Didn’t Write》。这就是此事与一般相似/抄袭案例不同所在。好事者收集了 12 首有着这段相似旋律的例子，称其为“<a href="http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj">流行音乐中最常用的旋律</a>”。下面的回复中，数量还在不断增加，其实里面很几个例子对于我来说并不算太相似，不过这取决于你的耳朵。如果你有空，不妨挨个听听看:</p>
 
-<p><embed src="http://player.youku.com/player.php/sid/XNTQ1OTcyMzgw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
+<embed src="http://player.youku.com/player.php/sid/XNTQ1OTcyMzgw/v.swf" allowfullscreen="true" quality="high" width="480" height="400" align="middle" allowscriptaccess="always" type="application/x-shockwave-flash" />
+<p>&lt;/embed&gt;</p>
 
 <p>问题出在哪？其实《Viva La Vida》和《If I Could Fly》甚至和弦进行都不相同，即使换成同样的 key，前者是 IV-V-I-vi，后者是 ii-V-I-vi，存在很大程度上的相似，但比起前面那些一样和弦进行的就差多了。</p>
 
@@ -623,7 +587,7 @@
 
 <p>这，或许能够解释旋律产生相似的原因。</p>
 
-<h2>八、其他</h2>
+<h2 id="section-6">八、其他</h2>
 
 <p>当我们说到其他，这里的其他指的是流行音乐中所有不太引人注意的元素。比如相同的风格，比如 key，比如 beat，比如 tempo，比如电流音效等等等等。任何一样单独拿出来，肯定不会有人觉得他们相似，但相似处构成一个整体，你就会发现，好像真的有点像？</p>
 
@@ -631,13 +595,11 @@
 
 <p>为此，你可以调整 tempo 后将《California Gurls》和《Tik Tok》同时播放，你将发现简直是完美契合。不会没关系，已经有人做了，未剪辑过的，只调整tempo。还有人将两首 mashup 到一起，形成一首新歌。左为同步播放版，右为混音版：</p>
 
-<div><embed src="http://player.youku.com/player.php/sid/XMzAzMTg4MDE2/v.swf" allowFullScreen="true" quality="high" width="360" height="300" align="center" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><embed src="http://player.youku.com/player.php/sid/XMTc0MjM3NDUy/v.swf" allowFullScreen="true" quality="high" width="360" height="300" align="center" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></div>
-
+<div><embed src="http://player.youku.com/player.php/sid/XMzAzMTg4MDE2/v.swf" allowfullscreen="true" quality="high" width="360" height="300" align="center" allowscriptaccess="always" type="application/x-shockwave-flash" /><embed src="http://player.youku.com/player.php/sid/XMTc0MjM3NDUy/v.swf" allowfullscreen="true" quality="high" width="360" height="300" align="center" allowscriptaccess="always" type="application/x-shockwave-flash" /></div>
 
 <p>类似的例子还有很多，同样是举不完的。</p>
 
-<h2>结语</h2>
-
+<h2 id="section-7">结语</h2>
 <p>到这里，我想我已经把存在相似的方面都已经讲完了。在最后，我说一下对歌曲相似的两种极端看法：一，粗暴的将歌曲相似归结于音乐产业的创意匮乏，例如前面提到的龙抄手博客；二，粗暴的将歌曲相似归结于抄袭，嗯，这种事太多我也不提了。无疑都是非常错误的认知。</p>
 
 <p>对于其一，我要指出无论何种音乐，都是一脉相承的，而人们大多数也都倾向于自己熟悉的模式，音乐产业固然存在模式化、流水线式的生产方式，但买单的是听众。如果你一定要埋怨这点，不如从改变自己的音乐习惯开始。少听一些 C G Am F 爱来爱去的流行口水歌，少听一些只知道琢磨什么摇滚精神卖弄歌词缺少技法上创新的乐队（猜猜我指的是谁？），多试着接触新的流派和新的领域，甚至包括微分音乐，都是很不错的选择。</p>
@@ -646,23 +608,23 @@
 
 <p>最后附上一个有意思的网站：<a href="http://www.whosampled.com/">WhoSampled</a>。这个网站是寻找音乐脉络的好去处。不足的是网站并不是根据 credits 或是技术上判定，而是比较主观的方式，把所有的相似都简单粗暴的归为“采样”（sample）。我曾经看到有人把这个网站当作根据官方信息整理的采样数据库，这是不对的。</p>
 
-<h2>相关链接及拓展阅读</h2>
+<h2 id="section-8">相关链接及拓展阅读</h2>
 
 <ul>
-<li><a href="http://soundsjustlike.com/">Soundsjustlike.com</a></li>
-<li><a href="http://thatsongsoundslike.com/">Thatsongsoundslike.com</a></li>
-<li><a href="http://www.whosampled.com/">WhoSampled</a></li>
-<li><a href="http://kaliumcat.ycool.com/">龙抄手博客</a></li>
-<li>estephenchan - <a href="http://i.youku.com/u/UMTI5Mzc4MTA0/playlists">J-pop 盗作大全</a></li>
-<li>BuzzFeed - <a href="http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj">12 Songs That Sound The Same</a></li>
-<li>BuzzFeed - <a href="http://www.buzzfeed.com/expresident/13-songs-that-sound-a-little-bit-too-much-like-oth">13 Songs That Sound Suspiciously Like Other Songs</a></li>
-<li>BuzzFeed - <a href="http://www.buzzfeed.com/codydobie/15-songs-that-are-blatant-rip-offs-of-other-songs-3q4g">15 songs that are blatant rip offs of other songs</a></li>
-<li>Complex - <a href="http://www.complex.com/music/2013/01/57-songs-that-sound-the-same/">57 Songs That Sound The Same</a></li>
-<li>Urlesque - <a href="http://www.urlesque.com/2010/09/10/songs-sound-the-same/">15 Plus Infinity Songs That Sound the Same</a></li>
-<li>ONTD - <a href="http://ohnotheydidnt.livejournal.com/49811102.html">Top 10 Songs That Sound Exactly The Same!</a></li>
-<li>PulseMusicBoard - <a href="http://pulsemusic.proboards.com/index.cgi?board=opinion&amp;action=display&amp;thread=28718">Songs That Sound Alike</a></li>
-<li>Hooktheory - <a href="http://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/">I analyzed the chords of 1300 popular songs for patterns.</a></li>
-<li>Hooktheory - <a href="http://www.hooktheory.com/trends">Songs With The Same Chords</a></li>
+  <li><a href="http://soundsjustlike.com/">Soundsjustlike.com</a></li>
+  <li><a href="http://thatsongsoundslike.com/">Thatsongsoundslike.com</a></li>
+  <li><a href="http://www.whosampled.com/">WhoSampled</a></li>
+  <li><a href="http://kaliumcat.ycool.com/">龙抄手博客</a></li>
+  <li>estephenchan - <a href="http://i.youku.com/u/UMTI5Mzc4MTA0/playlists">J-pop 盗作大全</a></li>
+  <li>BuzzFeed - <a href="http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj">12 Songs That Sound The Same</a></li>
+  <li>BuzzFeed - <a href="http://www.buzzfeed.com/expresident/13-songs-that-sound-a-little-bit-too-much-like-oth">13 Songs That Sound Suspiciously Like Other Songs</a></li>
+  <li>BuzzFeed - <a href="http://www.buzzfeed.com/codydobie/15-songs-that-are-blatant-rip-offs-of-other-songs-3q4g">15 songs that are blatant rip offs of other songs</a></li>
+  <li>Complex - <a href="http://www.complex.com/music/2013/01/57-songs-that-sound-the-same/">57 Songs That Sound The Same</a></li>
+  <li>Urlesque - <a href="http://www.urlesque.com/2010/09/10/songs-sound-the-same/">15 Plus Infinity Songs That Sound the Same</a></li>
+  <li>ONTD - <a href="http://ohnotheydidnt.livejournal.com/49811102.html">Top 10 Songs That Sound Exactly The Same!</a></li>
+  <li>PulseMusicBoard - <a href="http://pulsemusic.proboards.com/index.cgi?board=opinion&amp;action=display&amp;thread=28718">Songs That Sound Alike</a></li>
+  <li>Hooktheory - <a href="http://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/">I analyzed the chords of 1300 popular songs for patterns.</a></li>
+  <li>Hooktheory - <a href="http://www.hooktheory.com/trends">Songs With The Same Chords</a></li>
 </ul>
 
 ]]></content>
@@ -675,31 +637,26 @@
     <id>http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music</id>
     <content type="html"><![CDATA[<p>音乐可能被穷尽吗？Youtube 著名科普频道 <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Vsauce</a> 就这一话题展开了讨论，先听听他怎么说吧：</p>
 
-<div><object id="ssss" width="640" height="480" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101800112_1804531244_Z060S3E8CWLK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SHWAM5D83oLHcwydP4n3x0taata/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="640" height="480"></embed></object></div>
-
+<div><object id="ssss" width="640" height="480"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101800112_1804531244_Z060S3E8CWLK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SHWAM5D83oLHcwydP4n3x0taata/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="640" height="480" /></object></div>
 
 <p>我将该视频也投稿到了<a href="http://www.acfun.tv/v/ac627074">Acfun</a>和<a href="http://www.bilibili.tv/video/av537642/">BiliBili</a>，你也可以在那边看到人们是怎么看待这一话题的。</p>
 
 <!-- more -->
 
-
-<h2>Where to start?</h2>
-
+<h2 id="where-to-start">Where to start?</h2>
 <p>让我们回到话题本身——音乐是否可能被穷尽？咋一听这个问题有些无厘头，又或者毫无意义。但是探索一切看起来无意义的问题是作为一个 geek 的本能兴趣——因为我想知道它有什么意义，而很多人不想。更何况，探索未知本来就是最大的意义。</p>
 
 <p>在我看来，这一问题实际上可以引出更多有趣的命题：</p>
 
 <ul>
-<li>音乐有多少种可能性？随机写出的乐谱，是否恰好能成为好听的音乐？</li>
-<li>音乐是被<strong>创作</strong>出来的，还是一直存在，只是等待人<strong>发现</strong>出来？</li>
-<li>依照传统作曲模式，我们有多大概率得出相似的音乐？又应该如何解释那些极其相似的音乐？</li>
+  <li>音乐有多少种可能性？随机写出的乐谱，是否恰好能成为好听的音乐？</li>
+  <li>音乐是被<strong>创作</strong>出来的，还是一直存在，只是等待人<strong>发现</strong>出来？</li>
+  <li>依照传统作曲模式，我们有多大概率得出相似的音乐？又应该如何解释那些极其相似的音乐？</li>
 </ul>
-
 
 <p>让我们一条一条来看。</p>
 
-<h2>无限猴子定理</h2>
-
+<h2 id="section">无限猴子定理</h2>
 <p>在讨论音乐可能性之前，我们先介绍一个有趣的思想实验：无限猴子定理。</p>
 
 <p>无限猴子定理的表述为：让一只猴子在打字机上随机地按键，当按键时间达到<strong>无穷</strong>时，<strong>几乎必然</strong>能够打出任何给定的文字，比如莎士比亚的全套著作。这一定理论证了一个很大但<strong>有限</strong>的数绝不应该被视为<strong>无限</strong>，同时能够很好的帮助我们理解<strong>无限</strong>、<strong>概率</strong>和<strong>时间</strong>的概念——而这些概念往往是我们用实际经验和直观想象所无法理解的。</p>
@@ -722,8 +679,7 @@
 
 <p>如何计算这一有限的可能性是个难题。Vsauce 的视频只是提供一种思路，并不能作为答案。在 Acfun 的网友“要打飞机先”的回复里我看到了一种更有趣的思路，以后有机会打算写个程序来计算一下。如果你有什么更好的思路，欢迎指出。</p>
 
-<h2>创作还是发现？</h2>
-
+<h2 id="section-1">创作还是发现？</h2>
 <p>在提出“音乐有多少种可能性”这一问题的时候，其实就有一个假设条件：无论一段旋律有没有被写过，它一直就在那里，等待被人们发现。</p>
 
 <p>在 Everything2 上，我曾经读过一篇有意思的文章：“<a href="http://everything2.com/title/Is+music+written+or+discovered%253F">音乐是被创作出来的，还是被发现的？</a>”作者指出在他作曲时，会感觉他只不过是在从已有旋律中挖掘，因为他感受到了音符之间存在的内在逻辑，而他不过只是在遵照这一逻辑而已。这其实与“数学是被发明出来的，还是被发现的”命题类似，而一命题属于数学哲学里的重大分歧，是没有答案的。</p>
@@ -734,8 +690,7 @@
 
 <p>我会站在“发现”这一边。但这也是个没有标准答案的问题，选择权在于你自己。</p>
 
-<h2>音乐上的相似</h2>
-
+<h2 id="section-2">音乐上的相似</h2>
 <p>正如 Vsauce 在最后提到的研究，我们的大脑使我们无法享受数学上旋律的巨大可能性，而是让我们更倾向于固定的模式。</p>
 
 <p>Reuters 曾报道：<a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">流行音乐都太吵了，而且听起来都一样</a>。这不是信口开河，而是西班牙国家研究委员会旗下的一个项目组根据“百万歌曲集”（<a href="http://labrosa.ee.columbia.edu/millionsong/">the Million Song Dataset</a>） 得出的结论。</p>
@@ -744,33 +699,30 @@
 
 <p>这些都是科学方面的视角，至于从音乐本身开始分析，我将放到下一篇文章里来说。参见：<a href="http://magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/">为什么流行音乐听起来都一样？</a></p>
 
-<h2>结语</h2>
-
+<h2 id="section-3">结语</h2>
 <p>“音乐是否能穷尽”其实是个相当有趣的问题。我们大多数人在孩提时代都有过类似的想法，但很少有人将这一问题深入探究下去——因为别人告诉他们，这个问题毫无意义。事实上，我们可以发现从类似的想法可以引申出各种各样不同的问题，能够帮助你深入理解一些概念——无论是数学上的，还是乐理方面。它还可以开拓你的思维空间，甚至变成点子用在你的科幻作品中。这些都是相当有意义的。</p>
 
 <p>另外，虽然是讲音乐，但是这篇文章完全是以 Geek 的思维在写。下一篇，才是乐理。</p>
 
-<h2>相关链接及拓展阅读</h2>
-
+<h2 id="section-4">相关链接及拓展阅读</h2>
 <ul>
-<li>Vsauce - <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Will We Ever Run Out of New Music?</a></li>
-<li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Infinite_monkey">Infinite monkey theorem</a></li>
-<li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Loudness_war">Loudness war</a></li>
-<li>Everything2 - <a href="http://everything2.com/title/Is+music+written+or+discovered%253F">Is music written or discovered?</a></li>
-<li>Everything2 - <a href="http://www.everything2.com/title/How+many+melodies+are+there+in+the+universe%253F">How many melodies are there in the universe?</a></li>
-<li>greenwych - <a href="http://www.greenwych.ca/how-many.htm">How many melodies can be written?</a></li>
-<li>CoveredInBees - <a href="http://www.coveredinbees.org/node/264">How many songs are there?</a></li>
-<li>causafinitaest - <a href="http://causafinitaest.blogspot.com/2011/01/how-many-melodies-are-there.html">How many melodies are there?</a></li>
-<li>Staight Dope Message Board - <a href="http://boards.straightdope.com/sdmb/showthread.php?t=69966">Music:Invented or Discovered</a></li>
-<li>The Giraffs Board - <a href="http://www.giraffeboards.com/showthread.php?t=3528">Music:Created or Discovered?</a></li>
-<li>eNotes - <a href="http://www.enotes.com/homework-help/did-humans-discover-music-did-humans-invent-m-406668">Did humans discover music, or did humans invent music?</a></li>
-<li>Spider Robinson - <a href="http://www.spiderrobinson.com/melancholyelephants.html">Melancholy Elephants</a></li>
-<li>Reuters - <a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">Pop music too loud and all sounds the same</a></li>
-<li>Nature - <a href="http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html">Measuring the Evolution of Contemporary Western Popular Music</a></li>
-<li>Life&#8217;s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/2714-pop-music-trends.html">Pop Music All Sounds the Same Nowadays</a></li>
-<li>Life&#8217;s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/1122-what-makes-music-enjoyable.html">What Makes Music Enjoyable?</a></li>
+  <li>Vsauce - <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Will We Ever Run Out of New Music?</a></li>
+  <li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Infinite_monkey">Infinite monkey theorem</a></li>
+  <li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Loudness_war">Loudness war</a></li>
+  <li>Everything2 - <a href="http://everything2.com/title/Is+music+written+or+discovered%253F">Is music written or discovered?</a></li>
+  <li>Everything2 - <a href="http://www.everything2.com/title/How+many+melodies+are+there+in+the+universe%253F">How many melodies are there in the universe?</a></li>
+  <li>greenwych - <a href="http://www.greenwych.ca/how-many.htm">How many melodies can be written?</a></li>
+  <li>CoveredInBees - <a href="http://www.coveredinbees.org/node/264">How many songs are there?</a></li>
+  <li>causafinitaest - <a href="http://causafinitaest.blogspot.com/2011/01/how-many-melodies-are-there.html">How many melodies are there?</a></li>
+  <li>Staight Dope Message Board - <a href="http://boards.straightdope.com/sdmb/showthread.php?t=69966">Music:Invented or Discovered</a></li>
+  <li>The Giraffs Board - <a href="http://www.giraffeboards.com/showthread.php?t=3528">Music:Created or Discovered?</a></li>
+  <li>eNotes - <a href="http://www.enotes.com/homework-help/did-humans-discover-music-did-humans-invent-m-406668">Did humans discover music, or did humans invent music?</a></li>
+  <li>Spider Robinson - <a href="http://www.spiderrobinson.com/melancholyelephants.html">Melancholy Elephants</a></li>
+  <li>Reuters - <a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">Pop music too loud and all sounds the same</a></li>
+  <li>Nature - <a href="http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html">Measuring the Evolution of Contemporary Western Popular Music</a></li>
+  <li>Life’s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/2714-pop-music-trends.html">Pop Music All Sounds the Same Nowadays</a></li>
+  <li>Life’s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/1122-what-makes-music-enjoyable.html">What Makes Music Enjoyable?</a></li>
 </ul>
-
 ]]></content>
   </entry>
   
@@ -779,7 +731,7 @@
     <link href="http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix/"/>
     <updated>2013-04-14T14:42:00+08:00</updated>
     <id>http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix</id>
-    <content type="html"><![CDATA[<h2>前言</h2>
+    <content type="html"><![CDATA[<h2 id="section">前言</h2>
 
 <p><em>我们的创造力源于外部，而非内部。我们并非通过自身努力就能成功。我们需要相互依赖，并且承认这一点并不意味着拥抱平庸和模仿他人，而是能把我们从误解中解放出来。这还会促使我们不要从自己身上期望太多，鼓励我们轻装上阵。—— Kirby Ferguson</em></p>
 
@@ -793,7 +745,6 @@
 
 <!-- more -->
 
-
 <p>遗憾是，该纪录片只是提出了创造力的真相，对于知识产权的部分的探讨并不够深入，对此部分可以参考 Ted 上 Creative Common 创始人 Larry Lessig 的演讲——<a href="http://www.ted.com/talks/lang/zh-cn/larry_lessig_says_the_law_is_strangling_creativity.html">法律如何扼杀创造力</a>。国内观众如果缓冲太慢，请点击此处<a href="http://v.youku.com/v_show/id_XNDkwNTA5OTgw.html">优酷版</a>。</p>
 
 <p>为了避免被误解或是被滥用，需要特别申明的是，无论是视频原作者还是我，持这样的观点并不是彻头彻底的反版权人士，亦不是为盗版行为辩护——而是我们需要重新正视知识版权法的原本初衷，在创作的自由和法律的公平之间，寻求一个平衡点。</p>
@@ -801,25 +752,21 @@
 <p>正如 Larry Lessig 所说：<em>“我们看到的是比反抗（版权制度）更危险的东西，冲突双方都陷入了极端主义的怪圈。在这次争端中，法律和新兴技术互不相让……（中略）……一方的极端主义会使另一方效仿，这是我们早该认清不知道多少次的事实。这一冲突中的两个极端都是错误的，而我所要争取的一个平衡点。”</em></p>
 
 <p>视频开始：</p>
-
-<div><object id='sinaplayer' width='640' height='480' ><param name='allowScriptAccess' value='always' /><embed pluginspage='http://www.macromedia.com/go/getflashplayer' src='http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101599617_1804531244_PxixHCU5XmXK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SzfCclD9noLHcwydP4n0hQkbqtf/s.swf' type='application/x-shockwave-flash' name='sinaplayer' allowFullScreen='true' allowScriptAccess='always' width='640' height='480'></embed></object></div>
-
+<div><object id="sinaplayer" width="640" height="480"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101599617_1804531244_PxixHCU5XmXK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SzfCclD9noLHcwydP4n0hQkbqtf/s.swf" type="application/x-shockwave-flash" name="sinaplayer" allowfullscreen="true" allowscriptaccess="always" width="640" height="480" /></object></div>
 
 <p>为方便无法观看视频的读者，以下是经过重新润色后的文字整理版。</p>
 
-<h1>一切都是混搭</h1>
+<h1 id="section-1">一切都是混搭</h1>
 
 <p>作者：<a href="http://vimeo.com/kirbyferguson">Kirby Ferguson</a></p>
 
 <p>翻译：<a href="http://weibo.com/magnil">Magnil</a></p>
 
-<h2>第一部：旧调重弹</h2>
+<h2 id="section-2">第一部：旧调重弹</h2>
+<p>### 早期的 remix
+Remix，是指将现有的素材组合或编辑，创作出新的作品。这个说法始出于音乐界，并随着上世纪末的 hip-hop 浪潮而兴起。Remix 也是第一个从现有录音中采样的音乐形式。</p>
 
-<h3>早期的 remix</h3>
-
-<p>Remix，是指将现有的素材组合或编辑，创作出新的作品。这个说法始出于音乐界，并随着上世纪末的 hip-hop 浪潮而兴起。Remix 也是第一个从现有录音中采样的音乐形式。</p>
-
-<p>早期案例：糖山帮（the Sugarhill Gang）从 Chic 乐队的 Good Times 采样了贝斯 riff，并用在自己1979 年的热门单曲 Rapper&#8217;s Delight 中。之后这段贝斯被多次使用于各个作品中。（<em>注：Rapper&#8217;s Delight 被认为是将 hip-hop 概念推向大众的第一首歌。</em>）</p>
+<p>早期案例：糖山帮（the Sugarhill Gang）从 Chic 乐队的 Good Times 采样了贝斯 riff，并用在自己1979 年的热门单曲 Rapper’s Delight 中。之后这段贝斯被多次使用于各个作品中。（<em>注：Rapper’s Delight 被认为是将 hip-hop 概念推向大众的第一首歌。</em>）</p>
 
 <p>时至今日，任何人可以 remix 任何东西——音乐、视频、照片，随你高兴——并且瞬间散布到全世界。你不需要昂贵的工具，不需要批发商，甚至都不需要什么技巧。Remix 是平民艺术，任何人都能做到。</p>
 
@@ -829,34 +776,30 @@
 
 <p>William Burroughs 在他的小说 The Soft Machine 中首创了“重金属（heavy metal）”这一说法。这本书以剪纸的方式写成：把现有的文章剪散，然后重新排列为新的文章。所以 1961年 William Burroughs 不只发明了“重金属”一词——这种以齐柏林飞船等乐队为先锋的音乐风格，他同时也创作出早期的 remix 作品。</p>
 
-<h3>齐柏林飞船</h3>
-
+<h3 id="section-3">齐柏林飞船</h3>
 <p>回到齐柏林。70年代中期，齐柏林飞船是全美最大的巡回摇滚乐团，然而乐评人和对手却称他们为“山寨乐队（rip-offs）”。事情是这样的：</p>
 
 <ul>
-<li>Bring it on Home 开头和结尾部分旋律是从 Willie Dixon 那里偷来的。被借用的歌名也是 Bring it on Home，这当然不是巧合；</li>
-<li>The Lemon Song 从 Howlin&#8217; Wolf 的 Killing Floor 中抄来了大量的歌词；</li>
-<li>Black Mountain Side 的旋律使用了 Bert Jansch 改编版的传统民谣曲 Blackwaterside；</li>
-<li>虽然改了歌词，但 Dazed and Confused 这首歌显然是未授权的 Jake Holmes 同名歌曲改编。奇怪的是直到 40 多年后，Holmes 才于 2010 年提起诉讼；</li>
-<li>最有名的是，Stairway to Heaven 从 Spirit 乐队的 Taurus 借用了开头。齐柏林和 Spirit 曾于1968 年同台演出。三年后，Stairway to Heaven 问世。</li>
+  <li>Bring it on Home 开头和结尾部分旋律是从 Willie Dixon 那里偷来的。被借用的歌名也是 Bring it on Home，这当然不是巧合；</li>
+  <li>The Lemon Song 从 Howlin’ Wolf 的 Killing Floor 中抄来了大量的歌词；</li>
+  <li>Black Mountain Side 的旋律使用了 Bert Jansch 改编版的传统民谣曲 Blackwaterside；</li>
+  <li>虽然改了歌词，但 Dazed and Confused 这首歌显然是未授权的 Jake Holmes 同名歌曲改编。奇怪的是直到 40 多年后，Holmes 才于 2010 年提起诉讼；</li>
+  <li>最有名的是，Stairway to Heaven 从 Spirit 乐队的 Taurus 借用了开头。齐柏林和 Spirit 曾于1968 年同台演出。三年后，Stairway to Heaven 问世。</li>
 </ul>
-
 
 <p>显然齐柏林挪用了大量的他人素材，但这种行为本身其实并不少见。他们只有两点和其他人不一样：</p>
 
 <ol>
-<li>首先，齐柏林在用了他人素材后，他们并不把歌曲归功于原作者。大多数英式蓝调乐团虽然录制了许多翻唱，但不会像齐柏林一样直接宣称是自己写的。</li>
-<li>其次，齐柏林对作品修改的并不算彻底，也就是说其作品并不足以称为原创。许多乐队模仿前人的表演，但他们倾向于仿效歌曲的大致基调，而非特定歌词或旋律。而齐柏林的模仿，并没有作出根本性的改变。</li>
+  <li>首先，齐柏林在用了他人素材后，他们并不把歌曲归功于原作者。大多数英式蓝调乐团虽然录制了许多翻唱，但不会像齐柏林一样直接宣称是自己写的。</li>
+  <li>其次，齐柏林对作品修改的并不算彻底，也就是说其作品并不足以称为原创。许多乐队模仿前人的表演，但他们倾向于仿效歌曲的大致基调，而非特定歌词或旋律。而齐柏林的模仿，并没有作出根本性的改变。</li>
 </ol>
-
 
 <p>因此，这两点：</p>
 
 <ol>
-<li>改编：演奏他人的素材</li>
-<li>挪用：在合法范围内抄袭</li>
+  <li>改编：演奏他人的素材</li>
+  <li>挪用：在合法范围内抄袭</li>
 </ol>
-
 
 <p>这些是合法 remix 的经典范例，也几乎涵盖了娱乐产业的所有产品。这就是我们要在第二部里讨论的。</p>
 
@@ -864,8 +807,7 @@
 
 <p>齐柏林飞船 When the Levee Breaks 里的节拍，被他人多次采样并 remix。而齐柏林的回应是——<strong>他们没有因此起诉任何人</strong>。</p>
 
-<h2>第二部：混搭公司</h2>
-
+<h2 id="section-4">第二部：混搭公司</h2>
 <p>或许是因为拍电影太烧钱，或许因为漫画、电视、游戏还有小说等等有着如此丰富的素材来源，又或许仅仅因为观众偏好熟悉的事物，不管理由为何，大多数票房大卖的影片非常依赖既有的素材。</p>
 
 <p>对近十年来年度前十票房的影片做个统计，100 部里有 74 部要么是续集或重拍，要么是改编自漫画，游戏，小说等等。旧酒装新瓶可是好莱坞的拿手好戏。</p>
@@ -878,16 +820,14 @@
 
 <p>我们看过的吸血鬼从丑陋的怪物，变成披斗篷的夜袭男，变成荒谬滑稽的笑料（campy jokes），变成性感美男，再变成更性感的美男子。</p>
 
-<h3>类型影片</h3>
-
+<h3 id="section-5">类型影片</h3>
 <p>至于那些不是续集或改编但同样卖座的影片，我也不太想用“原创”这个词来形容它们。这些是类型影片，它们依据非常标准化的模版制作而成。电影类型可以再分成有着更具体模式的子类型。在恐怖电影这个分类里，我们有这些子类型：杀人狂片，僵尸片，怪兽片，当然，还有血浆片。所有这些都是将标准元素挪用、转化或是颠覆。</p>
 
 <p>我们以数十年来最成功的影片《阿凡达》为例。它不是续集、重拍或改编，但它是一部类型电影，一部科幻类型电影，最为突出的是，它属于“有同情心的白人对自身的杀戮、掠夺与灭绝行径感到愧疚”这样一个小小的子类型之中。我称这个子类型为“对殖民主义愧疚”片——同样还有《与狼共舞》、《最后的武士》、《最后一个莫西干人》、《沙丘》、《阿拉伯的劳伦斯》、《太阳盟》，甚至《芬格林》和《风中奇缘》。</p>
 
 <p>电影从其他电影或者书、电视、真实事件等处汲取灵感，从类型电影到独立电影都是如此，即便是重塑了流行文化、拥有时代影响力的大片也不例外。例如，<strong>星球大战</strong>。</p>
 
-<h3>乔治·鲁卡斯与《星球大战》</h3>
-
+<h3 id="section-6">乔治·鲁卡斯与《星球大战》</h3>
 <p>即使放到现在，《星球大战》依然是极富想象力的作品。但它的许多元素如 remix 中的采样一般清晰可辨：</p>
 
 <p>星战的根基来自于约瑟夫·坎贝尔，他在《千面英雄》一书中普及了神话体系。星战的大纲使用的就是该书中的“单一神话”模式。这个模式包含了很多阶段，如历险的召唤、超自然的助力、鲸鱼之腹、试炼之路、与女神相会等等，还有很多。（<em>注：Monomyth（单一神话），指神话中英雄冒险故事具有相似的圆环结构。最基本的三部分为“启程—启蒙—回归”。</em>）</p>
@@ -899,14 +839,13 @@
 <p>还有很多明显是从其他电影中提取的元素：</p>
 
 <ul>
-<li>有个机器人类似《大都会》中的机器女人；</li>
-<li>一些受《2001 太空漫游》启发的镜头；</li>
-<li>抱着妹子荡秋千的场景像是《辛巴达七航妖岛》；</li>
-<li>全息投影一幕和《原子铁金刚 》中类似；</li>
-<li>阅兵场景仿效了《意志的胜利》；</li>
-<li>可爱的小机器人很像《宇宙静悄悄》里的……</li>
+  <li>有个机器人类似《大都会》中的机器女人；</li>
+  <li>一些受《2001 太空漫游》启发的镜头；</li>
+  <li>抱着妹子荡秋千的场景像是《辛巴达七航妖岛》；</li>
+  <li>全息投影一幕和《原子铁金刚 》中类似；</li>
+  <li>阅兵场景仿效了《意志的胜利》；</li>
+  <li>可爱的小机器人很像《宇宙静悄悄》里的……</li>
 </ul>
-
 
 <p>乔治·鲁卡斯收集了这些素材，并将它们组合、转化。没有这些影片在先，就不会有《星球大战》。创造需要先被影响。我们创造的一切，都是既有创造物、我们的生活以及其他人的生活的 remix。</p>
 
@@ -914,8 +853,7 @@
 
 <p>在第三部里，我们将深入讨论这个概念，并在原创与非原创之间画下模糊的界线。</p>
 
-<h3>昆汀·塔伦蒂诺与《杀死比尔》</h3>
-
+<h3 id="section-7">昆汀·塔伦蒂诺与《杀死比尔》</h3>
 <p>最后一件事，乔治·鲁卡斯是他那个时代最会借用他人影片的人，后来接力棒传给了——<strong>昆汀·塔伦蒂诺</strong>。</p>
 
 <p>昆汀·塔伦蒂诺的大师级 remix 作品是《杀死比尔》，大概也是好莱坞最经典的混搭影片。</p>
@@ -925,61 +863,52 @@
 <p>护士杀手那幕几乎完全由其他电影重组而来。基本框架和《黑色星期天》里一样，都是一位女人乔装成护士，企图通过注射红色液体来谋杀病人。黛瑞·汉娜的眼罩参考了《独眼女枪手》里的女主角，而她吹的口哨旋律来自1968年的惊悚片《魔鬼天使》。屏幕切分手法是向布莱恩·德·帕尔玛致敬，帕尔玛在很多片中用到了这种手法，比如《魔女嘉丽》。</p>
 
 <p>想要知道《杀死比尔》还参考了哪些影片？请查看以下视频。</p>
+<div><object id="ssss" width="640" height="480"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=74755807_1628893803_bhq1TyU7Bm7K+l1lHz2stqlF+6xCpv2xhGuyuVqsLA1RVQ+YJMXNb9oD5yzTCM9F5yoUEJU4cfkj0hUtbw/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="640" height="480" /></object></div>
 
-<div><object id="ssss" width="640" height="480" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=74755807_1628893803_bhq1TyU7Bm7K+l1lHz2stqlF+6xCpv2xhGuyuVqsLA1RVQ+YJMXNb9oD5yzTCM9F5yoUEJU4cfkj0hUtbw/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="640" height="480"></embed></object></div>
-
-
-<h2>第三部：创造之元</h2>
+<h2 id="section-8">第三部：创造之元</h2>
 
 <p>创造领域被一层迷思所笼罩。比如说<em>“创造来自灵感”</em>，或是<em>“原创就是打破常规”</em>，或是<em>“创造是天才的专属，迸发于电光火石之间”</em>。</p>
 
 <p>但创造力绝不是魔法。当日常思考被应用于既有素材中，创造力就会诞生。而我们孕育创造力的温床，却常常被我们轻视和误解，即使它给予我们许多养分——它就是<strong>复制</strong>。</p>
 
-<h3>复制</h3>
-
+<h3 id="section-9">复制</h3>
 <p>简单来说，我们靠<strong>复制</strong>来学习。直到熟练掌握自己的领域之前，我们没办法创造新的东西。而这个过程通过复制来完成。</p>
 
 <p>比方说，所有艺术家都靠模仿前人来渡过成长期：</p>
 
 <ul>
-<li>鲍勃·迪伦的首张专辑里有 11 首翻唱歌曲；</li>
-<li>理查德·普赖尔刚开始表演单口喜剧时靠的是对比尔·科斯比的拙劣模仿；</li>
-<li>亨特·S·汤普森将《了不起的盖茨比》这本小说手打了一遍，只为了体验写一部伟大小说的感受……</li>
+  <li>鲍勃·迪伦的首张专辑里有 11 首翻唱歌曲；</li>
+  <li>理查德·普赖尔刚开始表演单口喜剧时靠的是对比尔·科斯比的拙劣模仿；</li>
+  <li>亨特·S·汤普森将《了不起的盖茨比》这本小说手打了一遍，只为了体验写一部伟大小说的感受……</li>
 </ul>
-
 
 <p>没人能一开始就无中生有，我们靠着复制来建立知识和理解的根基。然后……事情才变得有趣。</p>
 
-<h3>转化</h3>
-
+<h3 id="section-10">转化</h3>
 <p>我们靠<strong>复制</strong>来打下根基之后，然后才有可能靠<strong>转化</strong>来创造新东西——得到个想法，创造出变体。其间修修补补会花掉很多时间，不过最终你将得到突破。</p>
 
 <ul>
-<li>詹姆斯·瓦特极大推动了蒸汽机的发展，是因为他被派去维修一台纽科门蒸气机，然后他花了12年来发展自己的版本；</li>
-<li>克里斯托夫·拉森·授斯仿造钢琴制作了他的打字机模型。这个设计在5年里逐渐演化，成为我们现今仍在使用的 QWERTY 键盘布局；</li>
-<li>托马斯·爱迪生并没有发明灯泡。他的第一个专利是“电灯的改进”，但他的确生产了第一个商用灯泡，而该灯泡尝试了 6000 种不同的灯丝材质……</li>
+  <li>詹姆斯·瓦特极大推动了蒸汽机的发展，是因为他被派去维修一台纽科门蒸气机，然后他花了12年来发展自己的版本；</li>
+  <li>克里斯托夫·拉森·授斯仿造钢琴制作了他的打字机模型。这个设计在5年里逐渐演化，成为我们现今仍在使用的 QWERTY 键盘布局；</li>
+  <li>托马斯·爱迪生并没有发明灯泡。他的第一个专利是“电灯的改进”，但他的确生产了第一个商用灯泡，而该灯泡尝试了 6000 种不同的灯丝材质……</li>
 </ul>
-
 
 <p>这些都是重大的突破，但它们都不是原创的点子，而是不断在前人的发明基础上积累，直到到达临界点。</p>
 
-<h3>结合</h3>
-
+<h3 id="section-11">结合</h3>
 <p>在创意融会贯通之时，最戏剧化的结果就出现了。只有这样通过<strong>结合</strong>各种创意，才会产生创造性的飞跃，创造出历史上的重大突破。</p>
 
 <ul>
-<li>约翰内斯·谷登堡的印刷术于1440年左右发明，但它的所有组件其实早在数个世纪前被发明；</li>
-<li>福特汽车公司并没有发明流水线模式、可替换的零件或者汽车本身。不过1908年福特公司将这些要素整合起来，生产了第一部量产型汽车“T型车”；</li>
-<li>因特网经历了几十年的缓慢成长，才将网络与传送协议慢慢整合。直到1991年蒂姆·伯纳斯·李提出“万维网”，终于到达了临界点……</li>
+  <li>约翰内斯·谷登堡的印刷术于1440年左右发明，但它的所有组件其实早在数个世纪前被发明；</li>
+  <li>福特汽车公司并没有发明流水线模式、可替换的零件或者汽车本身。不过1908年福特公司将这些要素整合起来，生产了第一部量产型汽车“T型车”；</li>
+  <li>因特网经历了几十年的缓慢成长，才将网络与传送协议慢慢整合。直到1991年蒂姆·伯纳斯·李提出“万维网”，终于到达了临界点……</li>
 </ul>
-
 
 <p>这些是创造力的基本元素：<strong>复制</strong>，<strong>转化</strong>，<strong>结合</strong>。</p>
 
 <p>我们现今所使用的设备背后的故事，就是这一观点的绝佳证明。让我们回到个人电脑诞生之初，看看这一切的开始——施乐（Xerox）。</p>
 
-<h3>施乐与苹果</h3>
-
+<h3 id="section-12">施乐与苹果</h3>
 <p>施乐在70年代早期发明了现代个人电脑。Alto 的操作系统使用鼠标驱动的图形用户界面技术。别忘了，当时流行的个人电脑是用开关操作的。如果拨动开关的顺序正确，你就会看到灯闪。Alto 的技术远遥遥领先于时代。</p>
 
 <p>苹果公司弄到一堆 Alto 电脑后，研究发布了两款使用图形界面的电脑：Lisa 以及随后更成功的 Macintosh。</p>
@@ -991,12 +920,11 @@
 <p>苹果的目标是将家用电器和电脑整合起来，所以 Mac 设计得像是电视或是音响那样简单，这和面向专业人士的 Star 不同，与当时主流的复杂命令行系统更是天差地别。Mac 是设计给家用的，因此做了一系列改变：</p>
 
 <ul>
-<li>首先，苹果去掉了鼠标上的一个按键，以避免混淆，然后增加双击功能来打开文件；Star 则是使用另一个按键来打开文件。</li>
-<li>Mac 允许你拖曳图标，移动窗口或改变窗口大小；Star 没有拖拽功能，要移动或复制文件，你得先选取图标，选择按键，然后点击目的地，你也只能使用菜单来改变窗口大小。</li>
-<li>Star 与 Alto 有弹出菜单，但这些菜单在窗口中的位置是移动的，用户必须一直重新定位；Mac 引入了顶部菜单，不管你做什么，它的位置是不变的。</li>
-<li>Mac 也增加了回收站，让删除文件更直观也不再伤脑筋……</li>
+  <li>首先，苹果去掉了鼠标上的一个按键，以避免混淆，然后增加双击功能来打开文件；Star 则是使用另一个按键来打开文件。</li>
+  <li>Mac 允许你拖曳图标，移动窗口或改变窗口大小；Star 没有拖拽功能，要移动或复制文件，你得先选取图标，选择按键，然后点击目的地，你也只能使用菜单来改变窗口大小。</li>
+  <li>Star 与 Alto 有弹出菜单，但这些菜单在窗口中的位置是移动的，用户必须一直重新定位；Mac 引入了顶部菜单，不管你做什么，它的位置是不变的。</li>
+  <li>Mac 也增加了回收站，让删除文件更直观也不再伤脑筋……</li>
 </ul>
-
 
 <p>最终，通过功能取舍和巧妙的工程设计，苹果设法将 Mac 的售价减少到 2500 美元。依然很贵，但和 1 万美元的 Lisa 或 1 万 7 千美元 的 Star 相比就便宜多了。</p>
 
@@ -1004,18 +932,16 @@
 
 <p>强势的文化观掩盖了创造力相互依存的事实，而现在科技揭露了创意的连通性。为了应对这些难题，我们在法律、道德和艺术之间的纠缠中挣扎，这就是我们最终将在第四部里探讨的。</p>
 
-<h3>多重发现</h3>
-
+<h3 id="section-13">多重发现</h3>
 <p>如果施乐没有发展图形界面，如果托马斯·爱迪生从事了别的行业，如果蒂姆·伯纳斯·李没拿到万维网项目的研究经费，我们的世界会有所不同吗？我们会远远落后吗？</p>
 
 <p>历史告诉我们，结果或许不会相去太远。不管有什么重大突破，总有其他人走在同样的道路上，也许落后一点点，也许一点儿也不会落后。</p>
 
 <ul>
-<li>艾萨克·牛顿与戈特弗里德·莱布尼兹，两人都在 1684 年左右创立微积分；</li>
-<li>查尔斯·罗伯特·达尔文提出基于自然选择的进化论，而阿尔弗雷德·拉塞尔·华莱士几乎在同时，抱有几乎一样的观点；</li>
-<li>亚历山大·格拉汉姆·贝尔和伊莱沙·格雷在同一天申请电话的专利……</li>
+  <li>艾萨克·牛顿与戈特弗里德·莱布尼兹，两人都在 1684 年左右创立微积分；</li>
+  <li>查尔斯·罗伯特·达尔文提出基于自然选择的进化论，而阿尔弗雷德·拉塞尔·华莱士几乎在同时，抱有几乎一样的观点；</li>
+  <li>亚历山大·格拉汉姆·贝尔和伊莱沙·格雷在同一天申请电话的专利……</li>
 </ul>
-
 
 <p>我们管这种现象叫<strong>多重发现</strong>——同一发明从不同的地方涌现。在科学和发明界，这种例子层出不穷，同样艺术界也常常发生。</p>
 
@@ -1025,13 +951,13 @@
 
 <p>我们都是用相同的素材来搭建，有时就会恰巧得到相似的结果，而有时，创新就不可避免的产生了。</p>
 
-<blockquote><p>“我并没有发明什么新东西。我仅仅是把别人发明的东西组装起来，而那些发明者背后也都经历了数个世纪的研究。要是我早五十年、十年、甚至五年来做这个事，我都会失败。所以说，它依靠的是每一样新事物。只有在所有客观因素齐备的情况下，我们才会取得进步。这是不因个人意志而改变的。那些教育人们历史进步是由极个别人带来的说法，简直是无稽之谈。” —— 亨利·福特</p></blockquote>
+<blockquote>
+  <p>“我并没有发明什么新东西。我仅仅是把别人发明的东西组装起来，而那些发明者背后也都经历了数个世纪的研究。要是我早五十年、十年、甚至五年来做这个事，我都会失败。所以说，它依靠的是每一样新事物。只有在所有客观因素齐备的情况下，我们才会取得进步。这是不因个人意志而改变的。那些教育人们历史进步是由极个别人带来的说法，简直是无稽之谈。” —— 亨利·福特</p>
+</blockquote>
 
-<h2>第四部：系统失灵</h2>
-
-<h3>基因和模因</h3>
-
-<p>我们身体里的基因，可以追溯到三十五亿年前的一个生命体：LUCA，<strong>最后的共同祖先</strong>（the Last Universal Common Ancestor）。（<em>注：LUCA是一个定义在逻辑上的生物，是现存所有生物的共同祖先。该术语来自于生命起源的问题中，使用反演法提出的假说。</em>）</p>
+<h2 id="section-14">第四部：系统失灵</h2>
+<p>### 基因和模因
+我们身体里的基因，可以追溯到三十五亿年前的一个生命体：LUCA，<strong>最后的共同祖先</strong>（the Last Universal Common Ancestor）。（<em>注：LUCA是一个定义在逻辑上的生物，是现存所有生物的共同祖先。该术语来自于生命起源的问题中，使用反演法提出的假说。</em>）</p>
 
 <p>当 LUCA 繁衍的时候，它的基因一直不断地被<strong>复制</strong>，偶尔会出现差错，于是得到<strong>转化</strong>。久而久之便演变成今日地球上数十亿种的生物类型。其中有些物种进行有性生殖，<strong>结合</strong>了不同个体的基因。总而言之，适者生存。这就是进化的过程，<strong>复制</strong>、<strong>转化</strong>、<strong>结合</strong>。</p>
 
@@ -1043,8 +969,7 @@
 
 <p>但是创意可没有那么简单。它们相互重叠，它们彼此交织，它们混杂交错。当制度和现实起了冲突……系统就开始失灵。</p>
 
-<h3>知识产权与公有领域</h3>
-
+<h3 id="section-15">知识产权与公有领域</h3>
 <p>综观人类整个历史，想法与概念都是免费的。莎士比亚、古豋堡或是伦布兰特的创作，都可以公开地被复制，并在此基础上发展出更多东西。不过市场经济慢慢主导一切后，我们脑袋创造出来的东西开始被购买或是贩售。这产生一个不幸的副作用。</p>
 
 <p>假设今天一位仁兄发明了一颗更好的灯泡。这个价钱需要涵盖的不光只有单纯制造成本，还要包括发明的费用——这一开始就会产生的开销。今天要是有一个竞争者也开始制造这样的灯泡，该竞争商品的价格不需要包括发明的成本，所以他可以以较低价格贩售。</p>
@@ -1055,8 +980,7 @@
 
 <p>而这就是原本知识产权的目标：建立一个强健的公有领域，让每个人都可以使用这些想法、产品、艺术与娱乐。这一概念的核心价值在于为大众着想，希望能使所有人受益。不过随着时间过去，市场经济的影响让这个初衷面目全非。有影响力的人鼓吹<em>“想法也是一种财产”</em>，而这个信念最终产生一个新名词：<strong>知识产权</strong>。</p>
 
-<h3>损失厌恶理论</h3>
-
+<h3 id="section-16">损失厌恶理论</h3>
 <p>这是一个被广泛散布的<strong>模因</strong>。一部份要归咎于人类的心理，也就是大家熟知的<strong>损失厌恶（Loss Aversion）</strong>理论。简单地说，就是我们讨厌损失拥有的东西，与<strong>获取物</strong>相比，人们通常比较看重<strong>损失物</strong>的价值。</p>
 
 <p>所以，我们从复制或是其他人的创作获得的东西。总是不会产生很深刻的印象。不过要是我们的想法被复制，我们就会感觉到损失，然后开始产生领域性。</p>
@@ -1065,13 +989,13 @@
 
 <p>涂鸦艺术师 Shepard Fairey 大量地在自己作品中使用既有创作当作素材，这个做法受到了美联社的控告。因为他在有名的 Obama Hope 海报中，使用了美联社拍摄的奥巴马照片。尽管如此，当他的海报被 Baxter Orr 使用时，他却威胁要控告 Baxter Orr。</p>
 
-<p>另外像是乔布斯，他曾经对苹果电脑复制别人发明的这段历史沾沾自喜：<em>“对于窃取别人的好创意这点，我们从不感到羞愧。”</em>但他内心其实对胆敢窃取苹果的人却深怀恨意：<em>“我要毁灭安卓系统，因为它是偷来的。为此我不惜发动核战。”</em></p>
+<p>另外像是乔布斯，他曾经对苹果电脑复制别人发明的这段历史沾沾自喜：<em>“对于窃取别人的好创意这点，我们从不感到羞愧。”_但他内心其实对胆敢窃取苹果的人却深怀恨意：</em>“我要毁灭安卓系统，因为它是偷来的。为此我不惜发动核战。”_</p>
 
 <p><strong>当我们复制别人，我们给自己找理由；当别人复制我们，我们则丑化别人。</strong>我们大部份的人都觉得复制没有什么问题，只因为我们也一直这么做。</p>
 
 <p>由于我们自身对自己模仿的天性漠视，然后又被市场与拥有权这些概念鼓吹之下，知识产权这个概念便无限上纲，甚至超过一开始设计的范畴，这体现在以下方面：利用既有法条却涵盖更广的知识产权诠释、新的立法、新的涵盖范围以及更诱人的奖赏来处罚。</p>
 
-<p>1981 年英国歌手乔治·哈里森因为<strong>潜意识地</strong>在他民谣歌曲 My Sweet Lord 中抄袭 doo-wop 热门歌曲 He&#8217;s so Fine，而输掉了 150 万美元的官司。在这个案例之前，一堆歌其实听起来都很接近，也没有闹到要上法院。雷·查尔斯在 I Got a Woman 这首歌中创造了早期灵魂乐的雏形，而这首歌是根据福音歌曲 It Must be Jesus 而来。</p>
+<p>1981 年英国歌手乔治·哈里森因为<strong>潜意识地</strong>在他民谣歌曲 My Sweet Lord 中抄袭 doo-wop 热门歌曲 He’s so Fine，而输掉了 150 万美元的官司。在这个案例之前，一堆歌其实听起来都很接近，也没有闹到要上法院。雷·查尔斯在 I Got a Woman 这首歌中创造了早期灵魂乐的雏形，而这首歌是根据福音歌曲 It Must be Jesus 而来。</p>
 
 <p>90年代晚期一连串新的版权法条以及规则开始被引进，而且更多还在酝酿当中，其中最骇人的是贸易协定。因为这些是条约，而非法律，他们可以秘密地制定这些内容，完全不管大众意见或是国会同意。2011 年时奥巴马签署的ACTA（反仿冒贸易协定），以及目前正在谈判的<strong>跨太平洋战略经济伙伴关系协定</strong>，目的是向全世界散布一个更强悍的<strong>美式知识产权保护机制</strong>。</p>
 
@@ -1081,11 +1005,10 @@
 
 <p>软件专利界限的模糊，让智能手机界变成一个巨大而混乱的地盘抢夺战。62% 的专利权诉讼都跟软件有关，这些诉讼造成的损失估计达半兆美元之多。</p>
 
-<h3>样本鬼和专利鬼</h3>
-
+<h3 id="section-17">样本鬼和专利鬼</h3>
 <p>因为知识产权的无限上纲，许多机会主义者找到了更多机会——借诉讼赚钱。两种专靠诉讼赚钱的新工作因此诞生：<strong>样本鬼</strong>和<strong>专利鬼</strong>。这些公司基本上都不实际生产什么有益的东西，他们买下一堆专利，然后靠着告别人来发财。而且因为这些跟版权有关的官司都牵扯上一大堆钱，跟专利有关的则都是百万美金计，所以他们的目标通常都会希望在庭外和解。</p>
 
-<p>最有名的样本鬼就是 Bridgeport Music 音乐公司，他们提告的官司超过几百件。2005年他们在法庭上起诉 N.W.A 在 100 Miles and Runnin&#8217; 中使用了2秒的采样，获得胜利。仅仅就两2秒，不光采样很短，而且还很难辨识。这个判决基本上使得任何种类的取样，不管多小，都侵犯了著作权。Hip-hop黄金时代使用大量采样的音乐拼贴，而这种行为放到现在，就变得异常昂贵。</p>
+<p>最有名的样本鬼就是 Bridgeport Music 音乐公司，他们提告的官司超过几百件。2005年他们在法庭上起诉 N.W.A 在 100 Miles and Runnin’ 中使用了2秒的采样，获得胜利。仅仅就两2秒，不光采样很短，而且还很难辨识。这个判决基本上使得任何种类的取样，不管多小，都侵犯了著作权。Hip-hop黄金时代使用大量采样的音乐拼贴，而这种行为放到现在，就变得异常昂贵。</p>
 
 <p>现在专利鬼在软件界随处可见，而最让人无法理解的是 Paul Allen 的案例。他是微软的创办人之一，是位亿万富翁，是位受人尊敬的慈善家，发誓要将大部份的财产捐献出来；而他宣称一些基本的网络功能像是相关链接、警告以及建议等等，是由他早已废弃的公司所发明。所以这位自称“点子王”的人，在 2010 年时几乎控告了所有硅谷的公司。尽管他不缺钱也不缺名声，他还是这么干了。</p>
 
@@ -1093,8 +1016,7 @@
 
 <p>这引出了一个问题：<strong>我们现在该怎么办？</strong></p>
 
-<h3>What now?</h3>
-
+<h3 id="what-now">What now?</h3>
 <p>对知识产权的信仰变地如此强势，以致于它将版权以及专利权原本的目的推出公众意识之外。但起初的目的仍然就近在眼前。</p>
 
 <p>1790 年版权法的标题上写着<em>“一个鼓励学习的法案”</em>，而专利法案的标题是<em>“鼓励有用技术的发展”</em>。这些法案提供的专属权力，是为了一个更好的目标而不得不作的妥协，目的在让所有人的生活更好，借着提供创新的诱因，并且建立一个富饶的公共领域，一个开放给大众分享的知识之泉。</p>
@@ -1107,8 +1029,7 @@
 
 <p><strong>责任在于我们自己。</strong></p>
 
-<h2>后记</h2>
-
+<h2 id="section-18">后记</h2>
 <p>前三部分由于没有官方翻译，而 Amara 上的繁体版字幕无论是时间轴还是翻译质量都不尽如人意，于是我重新翻译了。第四部分有官方繁体字幕，我在此基础上进行了一些修订，修改了一些错误，部分外来词汇改为大陆的习惯用语，以及统一了整个系列的说法。时间仓促加上水平有限，如有遗漏请见谅。</p>
 
 <p>你或许会奇怪，为什么视频里有几段有明显剪切的痕迹。好吧，这是因为原片是 4 段短片，我将其中 3 部的致谢名单（Credits）剪掉了，仅保留了最后一段，然后合并，这样看上去更像一部完整的影片。如果你想查看未剪切过的视频，请查阅：<a href="http://you.video.sina.com.cn/b/101548314-1804531244.html">第一部</a>，<a href="http://you.video.sina.com.cn/b/101547750-1804531244.html">第二部</a>，<a href="http://you.video.sina.com.cn/b/101551178-1804531244.html">第三部</a>，<a href="http://you.video.sina.com.cn/b/101555994-1804531244.html">第四部</a>。</p>
@@ -1117,18 +1038,17 @@
 
 <p>你可以随意传播我翻译/压制的视频，也请随意分享此文章。我并不拥有它们。当然，前提是你不声称这是你自己的作品。</p>
 
-<h2>相关链接及拓展阅读</h2>
-
+<h2 id="section-19">相关链接及拓展阅读</h2>
 <ul>
-<li>作者 <a href="http://vimeo.com/kirbyferguson">Kirby Ferguson@vimeo</a></li>
-<li><a href="http://EverythingisaRemix.info">影片官网</a></li>
-<li><a href="http://video.sina.com.cn/v/b/74758503-1628893803.html">Everything is a Remix:the Matrix</a></li>
-<li><a href="http://video.sina.com.cn/v/b/74755807-1628893803.html">Everything is a Remix:Kill Bill</a></li>
-<li>Ted - <a href="http://www.ted.com/talks/lang/zh-cn/kirby_ferguson_embrace_the_remix.html">拥抱混搭</a></li>
-<li>Ted - <a href="http://www.ted.com/talks/lang/zh-cn/larry_lessig_says_the_law_is_strangling_creativity.html">法律如何扼杀创造力</a></li>
-<li><a href="http://zh.wikipedia.org/zh-cn/%E6%A8%A1%E5%9B%A0">模因</a>（meme）学的概念</li>
-<li><a href="http://zh.wikipedia.org/wiki/%E5%88%9B%E4%BD%9C%E5%85%B1%E7%94%A8">Creative Common</a></li>
-<li><a href="http://site.douban.com/dryfish/widget/notes/3141885/note/155784863/">采样，嘻哈与法律</a></li>
+  <li>作者 <a href="http://vimeo.com/kirbyferguson">Kirby Ferguson@vimeo</a></li>
+  <li><a href="http://EverythingisaRemix.info">影片官网</a></li>
+  <li><a href="http://video.sina.com.cn/v/b/74758503-1628893803.html">Everything is a Remix:the Matrix</a></li>
+  <li><a href="http://video.sina.com.cn/v/b/74755807-1628893803.html">Everything is a Remix:Kill Bill</a></li>
+  <li>Ted - <a href="http://www.ted.com/talks/lang/zh-cn/kirby_ferguson_embrace_the_remix.html">拥抱混搭</a></li>
+  <li>Ted - <a href="http://www.ted.com/talks/lang/zh-cn/larry_lessig_says_the_law_is_strangling_creativity.html">法律如何扼杀创造力</a></li>
+  <li><a href="http://zh.wikipedia.org/zh-cn/%E6%A8%A1%E5%9B%A0">模因</a>（meme）学的概念</li>
+  <li><a href="http://zh.wikipedia.org/wiki/%E5%88%9B%E4%BD%9C%E5%85%B1%E7%94%A8">Creative Common</a></li>
+  <li><a href="http://site.douban.com/dryfish/widget/notes/3141885/note/155784863/">采样，嘻哈与法律</a></li>
 </ul>
 
 ]]></content>
@@ -1144,7 +1064,6 @@
 <p>This is my first blog. 点击阅读更多。</p>
 
 <!-- more -->
-
 
 <p>你被骗了，这篇没有任何东西。</p>
 
@@ -1162,7 +1081,6 @@
 <p>这个播放器的官网叫“<a href="http://www.fengyunzhibo.com/">风云直播</a>”，逛了一圈，发现他的直播源似乎是来自于 uusee 的转播？目前该网站还在测试中，先让我们来一睹为快吧。</p>
 
 <!-- more -->
-
 
 <p><img src="http://img170.poco.cn/mypoco/myphoto/20120722/18/5611156020120722185756031.jpg" alt="Alt text" /></p>
 
@@ -1189,6 +1107,7 @@
 <p>其实我觉得这应该是小众向 acg 弹幕网站的一个好出路。解决了盗版、盗链的法律问题，也进一步降低服务器压力，投稿也方便许多。弹幕网站并不需要那么多的社区功能，提供一个排行榜就足以满足像我这种弹幕爱好者的需求了。未来有时间的话，我可能会考虑研究一下这个插件，看能不能做个优酷的弹幕插件出来。</p>
 
 <p>文章的最后，也说一下我理想中的弹幕网站是什么样的：以插件形式提供优酷、新浪、奇艺等视频门户网站的外挂弹幕系统，同时提供自定义加载 XML，服务器端整理弹幕数以排名形式提供列表；直播弹幕按聊天室房间划分，限制房间人数上限，可选择指定房间的弹幕加载。更多的设想也不说了，说多了也不过是空想，毕竟弹幕在国内终究还是小众，未来的发展前途如何，谁也说不准。</p>
+
 ]]></content>
   </entry>
   
