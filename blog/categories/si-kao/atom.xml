@@ -1,98 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>为什么流行音乐听起来都一样？ - Magnil的博客</title>
-  <meta name="author" content="Magnil">
-
-  
-  <meta name="description" content="前言 在上一篇，我们聊到了“音乐是否会被穷尽”的话题，不过留下了一个小尾巴没有解决。那就是，为什么有那么多流行音乐听起来都一样？ 就“音乐相似”这一问题来说，包含如何定义“相似”，这些“相似”属于哪个方面，它们为什么会存在“相似”。 一、公有领域 首先明确概念。公有领域指属于公有文化遗产、 &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><![CDATA[分类：思考 | Magnil的博客]]></title>
+  <link href="http://Magnil.github.io/blog/categories/si-kao/atom.xml" rel="self"/>
+  <link href="http://Magnil.github.io/"/>
+  <updated>2013-05-06T20:01:06+08:00</updated>
+  <id>http://Magnil.github.io/</id>
+  <author>
+    <name><![CDATA[Magnil]]></name>
+    <email><![CDATA[lovcrimson@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Magnil的博客" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Magnil的博客</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:Magnil.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">首页</a></li>
-  <li><a href="/blog/archives">归档</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
-    
-      <h1 class="entry-title">为什么流行音乐听起来都一样？</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-19T20:28:00+08:00" pubdate data-updated="true">Apr 19<span>th</span>, 2013</time>
-        
-     
-      | <a href="#comments">评论</a>
-     
-      </p>
-    
-  </header>
-
-
-<div class="entry-content"><h2>前言</h2>
+  <entry>
+    <title type="html"><![CDATA[为什么流行音乐听起来都一样？]]></title>
+    <link href="http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/"/>
+    <updated>2013-04-19T20:28:00+08:00</updated>
+    <id>http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same</id>
+    <content type="html"><![CDATA[<h2>前言</h2>
 
 <p>在上一篇，我们聊到了“<a href="http://magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/">音乐是否会被穷尽</a>”的话题，不过留下了一个小尾巴没有解决。那就是，为什么有那么多流行音乐听起来都一样？</p>
 
@@ -118,7 +44,7 @@
 
 
 <ul>
-<li>平井坚《古老的大钟》源自 Henry Clay Work 的《My Grandfather&#8217;s Clock》。</li>
+<li>平井坚《古老的大钟》源自 Henry Clay Work 的《My Grandfather's Clock》。</li>
 </ul>
 
 
@@ -172,7 +98,7 @@
 
 <p>需要特别说明的是，上面这些引用也好、改编也好，通通没有注明。这带来一个问题，当你回顾那些老歌的时候，你很难得知他们到底从哪里借来的素材/灵感。</p>
 
-<p>这种状况直到 1976 年 George Harrison 被判<strong>潜意识抄袭</strong>了 Ronnie Mack 的《He&#8217;s So Fine》赔付 160 万美元，这一判决对整个音乐产业的影响非常大。哦，顺便说一下，“潜意识抄袭”的心理学名叫 Cryptomnesia，案件里叫 Subconscious copying。国内在音乐侵权控诉中是不承认“潜意识抄袭”的。</p>
+<p>这种状况直到 1976 年 George Harrison 被判<strong>潜意识抄袭</strong>了 Ronnie Mack 的《He's So Fine》赔付 160 万美元，这一判决对整个音乐产业的影响非常大。哦，顺便说一下，“潜意识抄袭”的心理学名叫 Cryptomnesia，案件里叫 Subconscious copying。国内在音乐侵权控诉中是不承认“潜意识抄袭”的。</p>
 
 <div><embed src="http://www.xiami.com/widget/0_1037168/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769066459/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
 
@@ -183,24 +109,24 @@
 
 <h2>三、采样和混编</h2>
 
-<p>MC Hammer 的《U Can&#8217;t Touch This》采样了《Super Freak》，在这首歌刚发布的时候，Rick James 因此起诉了 MC Hammer。两人庭外和解，MC Hammer 赔偿并将 Rick James 的名字一并写入作曲栏。</p>
+<p>MC Hammer 的《U Can't Touch This》采样了《Super Freak》，在这首歌刚发布的时候，Rick James 因此起诉了 MC Hammer。两人庭外和解，MC Hammer 赔偿并将 Rick James 的名字一并写入作曲栏。</p>
 
 <div><embed src="http://www.xiami.com/widget/0_1598992/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1440117/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
 
 
-<p>采样是指将现有音乐唱片里部分片段剪切，拼贴到自己的作品中。Hip-hop 正是伴随着采样和混编技术崛起的。普遍认知中的第一首 Hip-hop，1979 年的《Rapper&#8217;s Delight》从 Chic 乐队的《Good Times》中采样了贝斯部分，当然，没有授权。这段相同的贝斯随后出现在十几首不同的歌曲中，在那个时代，大多数都是没经过授权的。Hip-hop 黄金时代的代表作，《Fear of a Black Planet》、《Paul&#8217;s Boutique》等等，都是随意采样拼贴的大拼盘，这种行为在当今简直无法想象。现在，采样都会标注&#8221;sample from&#8230;&#8221;，支付大量金额以获得授权。以下的例子，你将听到同一段贝斯在不同歌曲中反复出现，请留意<strong>贝斯</strong>部分。</p>
+<p>采样是指将现有音乐唱片里部分片段剪切，拼贴到自己的作品中。Hip-hop 正是伴随着采样和混编技术崛起的。普遍认知中的第一首 Hip-hop，1979 年的《Rapper's Delight》从 Chic 乐队的《Good Times》中采样了贝斯部分，当然，没有授权。这段相同的贝斯随后出现在十几首不同的歌曲中，在那个时代，大多数都是没经过授权的。Hip-hop 黄金时代的代表作，《Fear of a Black Planet》、《Paul's Boutique》等等，都是随意采样拼贴的大拼盘，这种行为在当今简直无法想象。现在，采样都会标注"sample from..."，支付大量金额以获得授权。以下的例子，你将听到同一段贝斯在不同歌曲中反复出现，请留意<strong>贝斯</strong>部分。</p>
 
 <div><embed src="http://www.xiami.com/widget/0_1771120276/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769039948/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_3502723/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1556896/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_2012978/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1768960579/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
 
 
-<p>从90 年代初开始，事情有些不一样了。91 年 De La Soul 因为一段 12 秒的采样被判 170 万，这是首个侵权而大额赔偿的案例。此后一系列大金额赔偿案例，直接导致 Hip-hop 走向另一个方向。去年 Beastie Boys 因为《Paul&#8217;s Boutique》被起诉，之前他们曾经说过，那个年代太混乱了，大家都在用，谁都不知道采样的原始出处。&#8221;Fair Use&#8221;目前实际上大多数时候都保护不了 Hip-hop 歌手了。</p>
+<p>从90 年代初开始，事情有些不一样了。91 年 De La Soul 因为一段 12 秒的采样被判 170 万，这是首个侵权而大额赔偿的案例。此后一系列大金额赔偿案例，直接导致 Hip-hop 走向另一个方向。去年 Beastie Boys 因为《Paul's Boutique》被起诉，之前他们曾经说过，那个年代太混乱了，大家都在用，谁都不知道采样的原始出处。"Fair Use"目前实际上大多数时候都保护不了 Hip-hop 歌手了。</p>
 
 <div><embed src="http://www.xiami.com/widget/0_1236494/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1101950/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
 
 
-<p>允许我发一点牢骚。90 年代后期版权法的严苛，不仅对 Hip-hop 产业的打击非常巨大，同时带来的是大量的投机分子——购买已经不再发售的唱片版权，靠着告人发财，在音乐界被称为<strong>样本鬼</strong>。2005 年著名的采样鬼 Bridgeport Music 公司起诉 N.W.A 的《100 Miles and Runnin&#8217;》获胜，而只是因为 2 秒的吉他和声。无论是过度自由还是过度严苛都不是我希望看到的，不过两者若只能选其一，我宁可选择过度自由:)</p>
+<p>允许我发一点牢骚。90 年代后期版权法的严苛，不仅对 Hip-hop 产业的打击非常巨大，同时带来的是大量的投机分子——购买已经不再发售的唱片版权，靠着告人发财，在音乐界被称为<strong>样本鬼</strong>。2005 年著名的采样鬼 Bridgeport Music 公司起诉 N.W.A 的《100 Miles and Runnin'》获胜，而只是因为 2 秒的吉他和声。无论是过度自由还是过度严苛都不是我希望看到的，不过两者若只能选其一，我宁可选择过度自由:)</p>
 
-<p>所以，在两首歌相似的时候，通常我的第一反应，是否来自公有领域？是否是采样？然后是否存在被影响的可能性——无论是借鉴还是抄袭。70 年代以前的原词曲作者、90 年代以前的采样出处，有些可能是你在词曲作者栏或者&#8221;sample from&#8221;里看不到的，因为谁都不知道。不过这些显然都不是“巧合性”的相似，尽管有些不知道具体出处，但是你能清晰的感受到歌曲之间存在的脉络。</p>
+<p>所以，在两首歌相似的时候，通常我的第一反应，是否来自公有领域？是否是采样？然后是否存在被影响的可能性——无论是借鉴还是抄袭。70 年代以前的原词曲作者、90 年代以前的采样出处，有些可能是你在词曲作者栏或者"sample from"里看不到的，因为谁都不知道。不过这些显然都不是“巧合性”的相似，尽管有些不知道具体出处，但是你能清晰的感受到歌曲之间存在的脉络。</p>
 
 <p>下面聊聊“巧合性”的，好吧，其实也不是那么巧合，只是概率问题了。</p>
 
@@ -239,7 +165,7 @@
 
 <p>我在这里再详细解释一下。所谓普通律，是指音节呈 8-6-8-6 分布，两个长句结尾押韵，两个短句也要押韵，即隔行交互押韵（a-b-a-b）。民谣律类似，但要求没这么严格，只要求短句押韵，即 x-a-x-a（x 为随意韵脚）。此外，长句要求为抑扬格四音步，短句要求为抑扬格三音步，这个意思是，长句 8 个音节分为 4 个音步，每个音步由一个非重读音节和一个重读音节构成，简单来说就是“轻重轻重轻重轻重”，如：Be-<strong>cause</strong> I <strong>could</strong> not <strong>stop</strong> for <strong>Death</strong>, / He <strong>kind</strong>-ly <strong>stopped</strong> for <strong>me</strong>（著名诗人 Emily Dickinson 的诗）。</p>
 
-<p>著名网漫 <a href="http://xkcd.com/788/">xkcd</a> 有一篇讲这个的。他说“自从我用 Gilligan&#8217;s Island 的调子试着唱过这首 Emily Dickinson 的诗，我再也没办法正常的读出来了。”</p>
+<p>著名网漫 <a href="http://xkcd.com/788/">xkcd</a> 有一篇讲这个的。他说“自从我用 Gilligan's Island 的调子试着唱过这首 Emily Dickinson 的诗，我再也没办法正常的读出来了。”</p>
 
 <p><img src="http://imgs.xkcd.com/comics/the_carriage.png" title="I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally." alt="Alt text" /></p>
 
@@ -264,7 +190,7 @@
 
 
 <ul>
-<li>Smash Mouth 的《Then the morning comes》和 The Animals 的《It&#8217;s my life》；</li>
+<li>Smash Mouth 的《Then the morning comes》和 The Animals 的《It's my life》；</li>
 </ul>
 
 
@@ -279,7 +205,7 @@
 <div><embed src="http://www.xiami.com/widget/0_3350652/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1104493/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1035315/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
 
 
-<p>再来个极端点的例子，Riot 的《Swords and Tequila》、Accept 的《Flash Rockin&#8217; Man》、Iron Maiden《2 Minutes to Midnight》、Mercyful Fate 的《Curse of the Pharoahs》、Raven 的《Seek And Destroy》、White Spirit 的《Midnight Chaser》、Rory Gallagher 的《Moonchild》……我不想在列下去了。你只需要听他们的 intro 部里的 riff 就足够了。</p>
+<p>再来个极端点的例子，Riot 的《Swords and Tequila》、Accept 的《Flash Rockin' Man》、Iron Maiden《2 Minutes to Midnight》、Mercyful Fate 的《Curse of the Pharoahs》、Raven 的《Seek And Destroy》、White Spirit 的《Midnight Chaser》、Rory Gallagher 的《Moonchild》……我不想在列下去了。你只需要听他们的 intro 部里的 riff 就足够了。</p>
 
 <div><embed src="http://www.xiami.com/widget/0_1661110/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1504014/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1041769/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769071279/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1846374/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1770900644/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
 
@@ -294,7 +220,7 @@
 
 <p>我这里并不想在乐理上做过多解释，也无意指点抄袭判断标准。用一个最有趣的例子来说明：</p>
 
-<p>08 年，美国吉他大师级人物 Joe Satrani 起诉 Coldplay 在《Viva La Vida》中抄袭了他的作品《If I Could Fly》，这事在国外乐迷里掀起的风波挺大的。比较有趣的事情是从英国民谣摇滚大师 Cat Stevens 站出来也指责 Coldpay “抄袭”他的《Foreigner Suite》开始，涉及的居然是同一段旋律，然后说不打算起诉他们。很显然，这是在英国的老家伙在搅混水护犊子。此外，还有一支不知名乐队 Creaky Boards 也站出来说《Viva La Vida》的那段旋律和自己的《The Songs I Didn&#8217;t Write》。这就是此事与一般相似/抄袭案例不同所在。好事者收集了 12 首有着这段相似旋律的例子，称其为“<a href="http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj">流行音乐中最常用的旋律</a>”。下面的回复中，数量还在不断增加，其实里面很几个例子对于我来说并不算太相似，不过这取决于你的耳朵。如果你有空，不妨挨个听听看:</p>
+<p>08 年，美国吉他大师级人物 Joe Satrani 起诉 Coldplay 在《Viva La Vida》中抄袭了他的作品《If I Could Fly》，这事在国外乐迷里掀起的风波挺大的。比较有趣的事情是从英国民谣摇滚大师 Cat Stevens 站出来也指责 Coldpay “抄袭”他的《Foreigner Suite》开始，涉及的居然是同一段旋律，然后说不打算起诉他们。很显然，这是在英国的老家伙在搅混水护犊子。此外，还有一支不知名乐队 Creaky Boards 也站出来说《Viva La Vida》的那段旋律和自己的《The Songs I Didn't Write》。这就是此事与一般相似/抄袭案例不同所在。好事者收集了 12 首有着这段相似旋律的例子，称其为“<a href="http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj">流行音乐中最常用的旋律</a>”。下面的回复中，数量还在不断增加，其实里面很几个例子对于我来说并不算太相似，不过这取决于你的耳朵。如果你有空，不妨挨个听听看:</p>
 
 <p><embed src="http://player.youku.com/player.php/sid/XNTQ1OTcyMzgw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></p>
 
@@ -346,154 +272,113 @@
 <li>Hooktheory - <a href="http://www.hooktheory.com/trends">Songs With The Same Chords</a></li>
 </ul>
 
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+]]></content>
+  </entry>
   
+  <entry>
+    <title type="html"><![CDATA[音乐可能被穷尽吗？]]></title>
+    <link href="http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/"/>
+    <updated>2013-04-15T10:34:00+08:00</updated>
+    <id>http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music</id>
+    <content type="html"><![CDATA[<p>音乐可能被穷尽吗？Youtube 著名科普频道 <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Vsauce</a> 就这一话题展开了讨论，先听听他怎么说吧：</p>
 
-<span class="byline author vcard"><span class="fn">Magnil</span> 发表于</span>
-
-      
-
-
-
-
-
-
+<div><object id="ssss" width="640" height="480" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101800112_1804531244_Z060S3E8CWLK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SHWAM5D83oLHcwydP4n3x0taata/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="640" height="480"></embed></object></div>
 
 
+<p>我将该视频也投稿到了<a href="http://www.acfun.tv/v/ac627074">Acfun</a>和<a href="http://www.bilibili.tv/video/av537642/">BiliBili</a>，你也可以在那边看到人们是怎么看待这一话题的。</p>
+
+<!-- more -->
+
+
+<h2>Where to start?</h2>
+
+<p>让我们回到话题本身——音乐是否可能被穷尽？咋一听这个问题有些无厘头，又或者毫无意义。但是探索一切看起来无意义的问题是作为一个 geek 的本能兴趣——因为我想知道它有什么意义，而很多人不想。更何况，探索未知本来就是最大的意义。</p>
+
+<p>在我看来，这一问题实际上可以引出更多有趣的命题：</p>
+
+<ul>
+<li>音乐有多少种可能性？随机写出的乐谱，是否恰好能成为好听的音乐？</li>
+<li>音乐是被<strong>创作</strong>出来的，还是一直存在，只是等待人<strong>发现</strong>出来？</li>
+<li>依照传统作曲模式，我们有多大概率得出相似的音乐？又应该如何解释那些极其相似的音乐？</li>
+</ul>
+
+
+<p>让我们一条一条来看。</p>
+
+<h2>无限猴子定理</h2>
+
+<p>在讨论音乐可能性之前，我们先介绍一个有趣的思想实验：无限猴子定理。</p>
+
+<p>无限猴子定理的表述为：让一只猴子在打字机上随机地按键，当按键时间达到<strong>无穷</strong>时，<strong>几乎必然</strong>能够打出任何给定的文字，比如莎士比亚的全套著作。这一定理论证了一个很大但<strong>有限</strong>的数绝不应该被视为<strong>无限</strong>，同时能够很好的帮助我们理解<strong>无限</strong>、<strong>概率</strong>和<strong>时间</strong>的概念——而这些概念往往是我们用实际经验和直观想象所无法理解的。</p>
+
+<p>这一思想在流行文化中占据了相当大的重量，频繁出现在各个影视剧、漫画、绘图小说中。国内著名的科幻小说《诗云》就是这一概念的引申。《银河系搭车客指南》也提到了该定理，并且对概率开了一个小玩笑：</p>
+
+<p><em>“阿瑟！”他说，“这太神奇了！我们居然被一艘无限非概率驱动的飞船救了起来！真是不可思议！我以前听说过这样的传闻！但所有传闻都遭到了官方否认，现在他们肯定是完成了！他们实现了非概率驱动！阿瑟，这是……阿瑟？发生什么了？”</em></p>
+
+<p><em>阿瑟正全力顶在卧室的舱门上，试图把它关严，但总是做不到。一大堆细长的小手从门缝中拼命挤进来，手指都沾着墨水；细微的声音在外面疯狂地喋喋不休。</em></p>
+
+<p><em>阿瑟抬起头。</em></p>
+
+<p><em>“福特！”他说，“外面有无数只猴子想要进来和咱们讨论他们创作的剧本《哈姆雷特》。”</em></p>
+
+<p><em>——《银河系漫游指南》第 9 章，道格拉斯·亚当斯著，徐百柯译</em></p>
+
+<p>之所以要在开始提到这个概念，是因为我们必须要澄清：无论音乐的可能性是多么大的一个数字，哪怕它已经大到超过我们人类的想象范围，但它决不是<strong>无限</strong>的。</p>
+
+<p>听起来好像我是在玩弄数学或者文字游戏，但这其实是一个非常实际的问题。因为音符的数量要远远少于文字，这样排列组合出来的可能性，旋律要远少于句子——在这里，我们先不考虑构成的旋律或是句子能否拥有具体的涵义。于是，音乐的可能性和文学的可能性，尽管看上去都是天文级的数字，但前者和后者完全不在同一个数量级之上——当然，还是<strong>有限</strong>的。</p>
+
+<p>如何计算这一有限的可能性是个难题。Vsauce 的视频只是提供一种思路，并不能作为答案。在 Acfun 的网友“要打飞机先”的回复里我看到了一种更有趣的思路，以后有机会打算写个程序来计算一下。如果你有什么更好的思路，欢迎指出。</p>
+
+<h2>创作还是发现？</h2>
+
+<p>在提出“音乐有多少种可能性”这一问题的时候，其实就有一个假设条件：无论一段旋律有没有被写过，它一直就在那里，等待被人们发现。</p>
+
+<p>在 Everything2 上，我曾经读过一篇有意思的文章：“<a href="http://everything2.com/title/Is+music+written+or+discovered%253F">音乐是被创作出来的，还是被发现的？</a>”作者指出在他作曲时，会感觉他只不过是在从已有旋律中挖掘，因为他感受到了音符之间存在的内在逻辑，而他不过只是在遵照这一逻辑而已。这其实与“数学是被发明出来的，还是被发现的”命题类似，而一命题属于数学哲学里的重大分歧，是没有答案的。</p>
+
+<p>对于抽象意义上的音乐整体，我们一般认为“音乐是被发现的”，我们从大自然的声音中发掘出了音乐；但是具体到某一首的音乐，一般还是认为“音乐是被创作的”。在使用“创作”这个词的时候，我们倾向把自身当作创世主，随意支配自己的作品；如果换成“发现”，似乎成就感就少了一大半。是啊，如果这首歌一直就存在，你只不过碰巧发现了它，那又有什么好得意的？换做是我，我也不太愿意自己写的代码或是文章，被人认为只不过是从庞大可能性中发掘出的一种。</p>
+
+<p>不过有人不这么认为。Spider Robinson 有一篇著名的短篇科幻《忧郁的大象》（Melancholy Elephants），获得了 1983 年雨果奖。文中的主角，是站在“发现”这一边的。在作者设想的未来社会里，有待发现的音乐已经越来越少——瓦格纳写出的所有音乐，连续播放的话将超过六十小时，而他们时代最流行的作曲人，穷其一生不过写出 12 小时的音乐。当然，作者也认为，从心理角度来看，“创作”这个说法会让人觉得更舒服。</p>
+
+<p>我会站在“发现”这一边。但这也是个没有标准答案的问题，选择权在于你自己。</p>
+
+<h2>音乐上的相似</h2>
+
+<p>正如 Vsauce 在最后提到的研究，我们的大脑使我们无法享受数学上旋律的巨大可能性，而是让我们更倾向于固定的模式。</p>
+
+<p>Reuters 曾报道：<a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">流行音乐都太吵了，而且听起来都一样</a>。这不是信口开河，而是西班牙国家研究委员会旗下的一个项目组根据“百万歌曲集”（<a href="http://labrosa.ee.columbia.edu/millionsong/">the Million Song Dataset</a>） 得出的结论。</p>
+
+<p>百万歌曲集是一个可供任何人自由研究使用的、收集当代流行音乐特征和元数据的数据库。简单来说，这个数据库将音乐分解成数据以供科学研究。他们发现了音乐表达日渐趋于同质化的证据，即在过去的 50 年里，音符组合之间衔接的多样性——包括和声和旋律——在不停的减少。此外，音量竞赛在流行音乐界越发严重，虽然我们一直在说这个事，但这是第一次由大数据分析得到的证据。如果你有兴趣，请查看他们在 Nature 上发表的论文：<a href="http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html">Measuring the Evolution of Contemporary Western Popular Music</a>。</p>
+
+<p>这些都是科学方面的视角，至于从音乐本身开始分析，我将放到下一篇文章里来说。参见：<a href="http://magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/">为什么流行音乐听起来都一样？</a></p>
+
+<h2>结语</h2>
+
+<p>“音乐是否能穷尽”其实是个相当有趣的问题。我们大多数人在孩提时代都有过类似的想法，但很少有人将这一问题深入探究下去——因为别人告诉他们，这个问题毫无意义。事实上，我们可以发现从类似的想法可以引申出各种各样不同的问题，能够帮助你深入理解一些概念——无论是数学上的，还是乐理方面。它还可以开拓你的思维空间，甚至变成点子用在你的科幻作品中。这些都是相当有意义的。</p>
+
+<p>另外，虽然是讲音乐，但是这篇文章完全是以 Geek 的思维在写。下一篇，才是乐理。</p>
+
+<h2>相关链接及拓展阅读</h2>
+
+<ul>
+<li>Vsauce - <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Will We Ever Run Out of New Music?</a></li>
+<li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Infinite_monkey">Infinite monkey theorem</a></li>
+<li>Wikipedia - <a href="http://en.wikipedia.org/wiki/Loudness_war">Loudness war</a></li>
+<li>Everything2 - <a href="http://everything2.com/title/Is+music+written+or+discovered%253F">Is music written or discovered?</a></li>
+<li>Everything2 - <a href="http://www.everything2.com/title/How+many+melodies+are+there+in+the+universe%253F">How many melodies are there in the universe?</a></li>
+<li>greenwych - <a href="http://www.greenwych.ca/how-many.htm">How many melodies can be written?</a></li>
+<li>CoveredInBees - <a href="http://www.coveredinbees.org/node/264">How many songs are there?</a></li>
+<li>causafinitaest - <a href="http://causafinitaest.blogspot.com/2011/01/how-many-melodies-are-there.html">How many melodies are there?</a></li>
+<li>Staight Dope Message Board - <a href="http://boards.straightdope.com/sdmb/showthread.php?t=69966">Music:Invented or Discovered</a></li>
+<li>The Giraffs Board - <a href="http://www.giraffeboards.com/showthread.php?t=3528">Music:Created or Discovered?</a></li>
+<li>eNotes - <a href="http://www.enotes.com/homework-help/did-humans-discover-music-did-humans-invent-m-406668">Did humans discover music, or did humans invent music?</a></li>
+<li>Spider Robinson - <a href="http://www.spiderrobinson.com/melancholyelephants.html">Melancholy Elephants</a></li>
+<li>Reuters - <a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">Pop music too loud and all sounds the same</a></li>
+<li>Nature - <a href="http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html">Measuring the Evolution of Contemporary Western Popular Music</a></li>
+<li>Life's Little Mysteries - <a href="http://www.lifeslittlemysteries.com/2714-pop-music-trends.html">Pop Music All Sounds the Same Nowadays</a></li>
+<li>Life's Little Mysteries - <a href="http://www.lifeslittlemysteries.com/1122-what-makes-music-enjoyable.html">What Makes Music Enjoyable?</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
-
-
-<time datetime="2013-04-19T20:28:00+08:00" pubdate data-updated="true">Apr 19<span>th</span>, 2013</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/si-kao/'>思考</a>
-  
-</span>
-
-
-      
-
-<span class="categories">
-  
-    <a class='tag' href='/blog/tags/le-li/'>乐理</a>, <a class='tag' href='/blog/tags/liu-xing-yin-le/'>流行音乐</a>, <a class='tag' href='/blog/tags/xiang-si/'>相似</a>, <a class='tag' href='/blog/tags/yin-le/'>音乐</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <span>
-  <iframe
-    width="86"
-    scrolling="no"
-    height="16"
-    frameborder="0"
-    src=
-      "http://hits.sinajs.cn/A1/weiboshare.html?url=http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/&amp;type=6&amp;ralateUid=1804531244&amp;language=zh_cn" allowtransparency="true">
-  </iframe>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/blog/2013/04/15/will-we-ever-run-out-of-new-music/" title="Previous Post: 音乐可能被穷尽吗？">&laquo; 音乐可能被穷尽吗？</a>
-      
-      
-        <a class="basic-alignment right" href="/blog/2013/04/28/melancholy-elephants/" title="Next Post: 忧郁的大象">忧郁的大象 &raquo;</a>
-      
-    </p>
-  </footer>
-</article>
-
-
-  <section>
-    <h1>评论</h1>
-    <div id="comments" aria-live="polite"><!-- Duoshuo Comment BEGIN -->
-<div class="ds-thread"></div>
-<script type="text/javascript">
-  var duoshuoQuery = {short_name:"magnil"};
-  (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = 'http://static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
-    || document.getElementsByTagName('body')[0]).appendChild(ds);
-  })();
-</script>
-<!-- Duoshuo Comment END -->
-</div>
-  </section>
-
-</div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>授权协议</h1>
-  <p>
-   <img class="center" alt="License" src="/images/cn-by-nc-sa.png" />
-  除非另有声明，本网站所有作品均采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>授权。
-  </p>
-</section>
-<div class="post-index"></div>
-
-<script type="text/javascript">
-  tmp = '<div><a href="#">目录</a></div>';
-  $('.post-index').append(tmp);
-  $.each($('h2, h3'), function(index, item){
-      item.id = 'menuindex'+index;
-      tmpText = $(item).text();
-      if(item.tagName.toLowerCase() == 'h2'){
-        tmpClass = 'menuindexh2';
-      }else{
-        tmpClass = 'menuindexh3';
-      }
-      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
-            '">' + tmpText + '</a></div>';
-      $('.post-index').append(tmp);
-  });
-</script>
-
-
-  
-</aside>
-
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Magnil -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>

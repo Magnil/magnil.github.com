@@ -1,98 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>一切都是混搭 - Magnil的博客</title>
-  <meta name="author" content="Magnil">
-
-  
-  <meta name="description" content="前言 我们的创造力源于外部，而非内部。我们并非通过自身努力就能成功。我们需要相互依赖，并且承认这一点并不意味着拥抱平庸和模仿他人，而是能把我们从误解中解放出来。这还会促使我们不要从自己身上期望太多，鼓励我们轻装上阵。—— Kirby Ferguson &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><![CDATA[标签：纪录片 | Magnil的博客]]></title>
+  <link href="http://Magnil.github.io/blog/tags/ji-lu-pian/atom.xml" rel="self"/>
+  <link href="http://Magnil.github.io/"/>
+  <updated>2013-05-06T20:01:06+08:00</updated>
+  <id>http://Magnil.github.io/</id>
+  <author>
+    <name><![CDATA[Magnil]]></name>
+    <email><![CDATA[lovcrimson@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Magnil的博客" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Magnil的博客</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:Magnil.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">首页</a></li>
-  <li><a href="/blog/archives">归档</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
-    
-      <h1 class="entry-title">一切都是混搭</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-14T14:42:00+08:00" pubdate data-updated="true">Apr 14<span>th</span>, 2013</time>
-        
-     
-      | <a href="#comments">评论</a>
-     
-      </p>
-    
-  </header>
-
-
-<div class="entry-content"><h2>前言</h2>
+  <entry>
+    <title type="html"><![CDATA[一切都是混搭]]></title>
+    <link href="http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix/"/>
+    <updated>2013-04-14T14:42:00+08:00</updated>
+    <id>http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix</id>
+    <content type="html"><![CDATA[<h2>前言</h2>
 
 <p><em>我们的创造力源于外部，而非内部。我们并非通过自身努力就能成功。我们需要相互依赖，并且承认这一点并不意味着拥抱平庸和模仿他人，而是能把我们从误解中解放出来。这还会促使我们不要从自己身上期望太多，鼓励我们轻装上阵。—— Kirby Ferguson</em></p>
 
@@ -132,7 +58,7 @@
 
 <p>Remix，是指将现有的素材组合或编辑，创作出新的作品。这个说法始出于音乐界，并随着上世纪末的 hip-hop 浪潮而兴起。Remix 也是第一个从现有录音中采样的音乐形式。</p>
 
-<p>早期案例：糖山帮（the Sugarhill Gang）从 Chic 乐队的 Good Times 采样了贝斯 riff，并用在自己1979 年的热门单曲 Rapper&#8217;s Delight 中。之后这段贝斯被多次使用于各个作品中。（<em>注：Rapper&#8217;s Delight 被认为是将 hip-hop 概念推向大众的第一首歌。</em>）</p>
+<p>早期案例：糖山帮（the Sugarhill Gang）从 Chic 乐队的 Good Times 采样了贝斯 riff，并用在自己1979 年的热门单曲 Rapper's Delight 中。之后这段贝斯被多次使用于各个作品中。（<em>注：Rapper's Delight 被认为是将 hip-hop 概念推向大众的第一首歌。</em>）</p>
 
 <p>时至今日，任何人可以 remix 任何东西——音乐、视频、照片，随你高兴——并且瞬间散布到全世界。你不需要昂贵的工具，不需要批发商，甚至都不需要什么技巧。Remix 是平民艺术，任何人都能做到。</p>
 
@@ -148,7 +74,7 @@
 
 <ul>
 <li>Bring it on Home 开头和结尾部分旋律是从 Willie Dixon 那里偷来的。被借用的歌名也是 Bring it on Home，这当然不是巧合；</li>
-<li>The Lemon Song 从 Howlin&#8217; Wolf 的 Killing Floor 中抄来了大量的歌词；</li>
+<li>The Lemon Song 从 Howlin' Wolf 的 Killing Floor 中抄来了大量的歌词；</li>
 <li>Black Mountain Side 的旋律使用了 Bert Jansch 改编版的传统民谣曲 Blackwaterside；</li>
 <li>虽然改了歌词，但 Dazed and Confused 这首歌显然是未授权的 Jake Holmes 同名歌曲改编。奇怪的是直到 40 多年后，Holmes 才于 2010 年提起诉讼；</li>
 <li>最有名的是，Stairway to Heaven 从 Spirit 乐队的 Taurus 借用了开头。齐柏林和 Spirit 曾于1968 年同台演出。三年后，Stairway to Heaven 问世。</li>
@@ -384,7 +310,7 @@
 
 <p>由于我们自身对自己模仿的天性漠视，然后又被市场与拥有权这些概念鼓吹之下，知识产权这个概念便无限上纲，甚至超过一开始设计的范畴，这体现在以下方面：利用既有法条却涵盖更广的知识产权诠释、新的立法、新的涵盖范围以及更诱人的奖赏来处罚。</p>
 
-<p>1981 年英国歌手乔治·哈里森因为<strong>潜意识地</strong>在他民谣歌曲 My Sweet Lord 中抄袭 doo-wop 热门歌曲 He&#8217;s so Fine，而输掉了 150 万美元的官司。在这个案例之前，一堆歌其实听起来都很接近，也没有闹到要上法院。雷·查尔斯在 I Got a Woman 这首歌中创造了早期灵魂乐的雏形，而这首歌是根据福音歌曲 It Must be Jesus 而来。</p>
+<p>1981 年英国歌手乔治·哈里森因为<strong>潜意识地</strong>在他民谣歌曲 My Sweet Lord 中抄袭 doo-wop 热门歌曲 He's so Fine，而输掉了 150 万美元的官司。在这个案例之前，一堆歌其实听起来都很接近，也没有闹到要上法院。雷·查尔斯在 I Got a Woman 这首歌中创造了早期灵魂乐的雏形，而这首歌是根据福音歌曲 It Must be Jesus 而来。</p>
 
 <p>90年代晚期一连串新的版权法条以及规则开始被引进，而且更多还在酝酿当中，其中最骇人的是贸易协定。因为这些是条约，而非法律，他们可以秘密地制定这些内容，完全不管大众意见或是国会同意。2011 年时奥巴马签署的ACTA（反仿冒贸易协定），以及目前正在谈判的<strong>跨太平洋战略经济伙伴关系协定</strong>，目的是向全世界散布一个更强悍的<strong>美式知识产权保护机制</strong>。</p>
 
@@ -398,7 +324,7 @@
 
 <p>因为知识产权的无限上纲，许多机会主义者找到了更多机会——借诉讼赚钱。两种专靠诉讼赚钱的新工作因此诞生：<strong>样本鬼</strong>和<strong>专利鬼</strong>。这些公司基本上都不实际生产什么有益的东西，他们买下一堆专利，然后靠着告别人来发财。而且因为这些跟版权有关的官司都牵扯上一大堆钱，跟专利有关的则都是百万美金计，所以他们的目标通常都会希望在庭外和解。</p>
 
-<p>最有名的样本鬼就是 Bridgeport Music 音乐公司，他们提告的官司超过几百件。2005年他们在法庭上起诉 N.W.A 在 100 Miles and Runnin&#8217; 中使用了2秒的采样，获得胜利。仅仅就两2秒，不光采样很短，而且还很难辨识。这个判决基本上使得任何种类的取样，不管多小，都侵犯了著作权。Hip-hop黄金时代使用大量采样的音乐拼贴，而这种行为放到现在，就变得异常昂贵。</p>
+<p>最有名的样本鬼就是 Bridgeport Music 音乐公司，他们提告的官司超过几百件。2005年他们在法庭上起诉 N.W.A 在 100 Miles and Runnin' 中使用了2秒的采样，获得胜利。仅仅就两2秒，不光采样很短，而且还很难辨识。这个判决基本上使得任何种类的取样，不管多小，都侵犯了著作权。Hip-hop黄金时代使用大量采样的音乐拼贴，而这种行为放到现在，就变得异常昂贵。</p>
 
 <p>现在专利鬼在软件界随处可见，而最让人无法理解的是 Paul Allen 的案例。他是微软的创办人之一，是位亿万富翁，是位受人尊敬的慈善家，发誓要将大部份的财产捐献出来；而他宣称一些基本的网络功能像是相关链接、警告以及建议等等，是由他早已废弃的公司所发明。所以这位自称“点子王”的人，在 2010 年时几乎控告了所有硅谷的公司。尽管他不缺钱也不缺名声，他还是这么干了。</p>
 
@@ -444,154 +370,7 @@
 <li><a href="http://site.douban.com/dryfish/widget/notes/3141885/note/155784863/">采样，嘻哈与法律</a></li>
 </ul>
 
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+]]></content>
+  </entry>
   
-
-<span class="byline author vcard"><span class="fn">Magnil</span> 发表于</span>
-
-      
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-14T14:42:00+08:00" pubdate data-updated="true">Apr 14<span>th</span>, 2013</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/fan-yi/'>翻译</a>
-  
-</span>
-
-
-      
-
-<span class="categories">
-  
-    <a class='tag' href='/blog/tags/remix/'>remix</a>, <a class='tag' href='/blog/tags/zhuan-li-quan/'>专利权</a>, <a class='tag' href='/blog/tags/chuang-zuo/'>创作</a>, <a class='tag' href='/blog/tags/ban-quan/'>版权</a>, <a class='tag' href='/blog/tags/zhi-shi-chan-quan/'>知识产权</a>, <a class='tag' href='/blog/tags/ji-lu-pian/'>纪录片</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <span>
-  <iframe
-    width="86"
-    scrolling="no"
-    height="16"
-    frameborder="0"
-    src=
-      "http://hits.sinajs.cn/A1/weiboshare.html?url=http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix/&amp;type=6&amp;ralateUid=1804531244&amp;language=zh_cn" allowtransparency="true">
-  </iframe>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/blog/2013/03/29/hello-world/" title="Previous Post: Hello World">&laquo; Hello World</a>
-      
-      
-        <a class="basic-alignment right" href="/blog/2013/04/15/will-we-ever-run-out-of-new-music/" title="Next Post: 音乐可能被穷尽吗？">音乐可能被穷尽吗？ &raquo;</a>
-      
-    </p>
-  </footer>
-</article>
-
-
-  <section>
-    <h1>评论</h1>
-    <div id="comments" aria-live="polite"><!-- Duoshuo Comment BEGIN -->
-<div class="ds-thread"></div>
-<script type="text/javascript">
-  var duoshuoQuery = {short_name:"magnil"};
-  (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = 'http://static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
-    || document.getElementsByTagName('body')[0]).appendChild(ds);
-  })();
-</script>
-<!-- Duoshuo Comment END -->
-</div>
-  </section>
-
-</div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>授权协议</h1>
-  <p>
-   <img class="center" alt="License" src="/images/cn-by-nc-sa.png" />
-  除非另有声明，本网站所有作品均采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>授权。
-  </p>
-</section>
-<div class="post-index"></div>
-
-<script type="text/javascript">
-  tmp = '<div><a href="#">目录</a></div>';
-  $('.post-index').append(tmp);
-  $.each($('h2, h3'), function(index, item){
-      item.id = 'menuindex'+index;
-      tmpText = $(item).text();
-      if(item.tagName.toLowerCase() == 'h2'){
-        tmpClass = 'menuindexh2';
-      }else{
-        tmpClass = 'menuindexh3';
-      }
-      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
-            '">' + tmpText + '</a></div>';
-      $('.post-index').append(tmp);
-  });
-</script>
-
-
-  
-</aside>
-
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Magnil -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>

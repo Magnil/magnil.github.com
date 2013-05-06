@@ -1,98 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
 
-<!DOCTYPE html>
-<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
-<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
-<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
-<head>
-  <meta charset="utf-8">
-  <title>音乐可能被穷尽吗？ - Magnil的博客</title>
-  <meta name="author" content="Magnil">
-
-  
-  <meta name="description" content="音乐可能被穷尽吗？Youtube 著名科普频道 Vsauce 就这一话题展开了讨论，先听听他怎么说吧： 我将该视频也投稿到了Acfun和BiliBili，你也可以在那边看到人们是怎么看待这一话题的。 Where to start? 让我们回到话题本身——音乐是否可能被穷尽？咋一听这个问题有些无厘头 &hellip;">
-  
-
-  <!-- http://t.co/dKP3o1e -->
-  <meta name="HandheldFriendly" content="True">
-  <meta name="MobileOptimized" content="320">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title><![CDATA[标签：Vsauce | Magnil的博客]]></title>
+  <link href="http://Magnil.github.io/blog/tags/vsauce/atom.xml" rel="self"/>
+  <link href="http://Magnil.github.io/"/>
+  <updated>2013-05-06T20:01:06+08:00</updated>
+  <id>http://Magnil.github.io/</id>
+  <author>
+    <name><![CDATA[Magnil]]></name>
+    <email><![CDATA[lovcrimson@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <link rel="canonical" href="http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music">
-  <link href="/favicon.png" rel="icon">
-  <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
-  <link href="/atom.xml" rel="alternate" title="Magnil的博客" type="application/atom+xml">
-  <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
-  <script src="/javascripts/octopress.js" type="text/javascript"></script>
-  <!--Fonts from Google"s Web font directory at http://google.com/webfonts -->
-<link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
-
-  
-
-</head>
-
-<body   >
-  <header role="banner"><hgroup>
-  <h1><a href="/">Magnil的博客</a></h1>
-  
-</hgroup>
-
-</header>
-  <nav role="navigation"><ul class="subscription" data-subscription="rss">
-  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-  
-</ul>
-  
-<form action="http://google.com/search" method="get">
-  <fieldset role="search">
-    <input type="hidden" name="q" value="site:Magnil.github.io" />
-    <input class="search" type="text" name="q" results="0" placeholder="Search"/>
-  </fieldset>
-</form>
-  
-<ul class="main-navigation">
-  <li><a href="/">首页</a></li>
-  <li><a href="/blog/archives">归档</a></li>
-</ul>
-
-</nav>
-  <div id="main">
-    <div id="content">
-      <div>
-<article class="hentry" role="article">
-  
-  <header>
-    
-      <h1 class="entry-title">音乐可能被穷尽吗？</h1>
-    
-    
-      <p class="meta">
-        
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-15T10:34:00+08:00" pubdate data-updated="true">Apr 15<span>th</span>, 2013</time>
-        
-     
-      | <a href="#comments">评论</a>
-     
-      </p>
-    
-  </header>
-
-
-<div class="entry-content"><p>音乐可能被穷尽吗？Youtube 著名科普频道 <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Vsauce</a> 就这一话题展开了讨论，先听听他怎么说吧：</p>
+  <entry>
+    <title type="html"><![CDATA[音乐可能被穷尽吗？]]></title>
+    <link href="http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/"/>
+    <updated>2013-04-15T10:34:00+08:00</updated>
+    <id>http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music</id>
+    <content type="html"><![CDATA[<p>音乐可能被穷尽吗？Youtube 著名科普频道 <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Vsauce</a> 就这一话题展开了讨论，先听听他怎么说吧：</p>
 
 <div><object id="ssss" width="640" height="480" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101800112_1804531244_Z060S3E8CWLK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SHWAM5D83oLHcwydP4n3x0taata/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="640" height="480"></embed></object></div>
 
@@ -186,158 +112,11 @@
 <li>Spider Robinson - <a href="http://www.spiderrobinson.com/melancholyelephants.html">Melancholy Elephants</a></li>
 <li>Reuters - <a href="http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726">Pop music too loud and all sounds the same</a></li>
 <li>Nature - <a href="http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html">Measuring the Evolution of Contemporary Western Popular Music</a></li>
-<li>Life&#8217;s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/2714-pop-music-trends.html">Pop Music All Sounds the Same Nowadays</a></li>
-<li>Life&#8217;s Little Mysteries - <a href="http://www.lifeslittlemysteries.com/1122-what-makes-music-enjoyable.html">What Makes Music Enjoyable?</a></li>
+<li>Life's Little Mysteries - <a href="http://www.lifeslittlemysteries.com/2714-pop-music-trends.html">Pop Music All Sounds the Same Nowadays</a></li>
+<li>Life's Little Mysteries - <a href="http://www.lifeslittlemysteries.com/1122-what-makes-music-enjoyable.html">What Makes Music Enjoyable?</a></li>
 </ul>
 
-</div>
-
-
-  <footer>
-    <p class="meta">
-      
+]]></content>
+  </entry>
   
-
-<span class="byline author vcard"><span class="fn">Magnil</span> 发表于</span>
-
-      
-
-
-
-
-
-
-
-
-  
-
-
-<time datetime="2013-04-15T10:34:00+08:00" pubdate data-updated="true">Apr 15<span>th</span>, 2013</time>
-      
-
-<span class="categories">
-  
-    <a class='category' href='/blog/categories/si-kao/'>思考</a>
-  
-</span>
-
-
-      
-
-<span class="categories">
-  
-    <a class='tag' href='/blog/tags/vsauce/'>Vsauce</a>, <a class='tag' href='/blog/tags/wu-xian-hou-zi/'>无限猴子</a>, <a class='tag' href='/blog/tags/ke-pu/'>科普</a>, <a class='tag' href='/blog/tags/yin-le/'>音乐</a>
-  
-</span>
-
-
-    </p>
-    
-      <div class="sharing">
-  
-  <span>
-  <iframe
-    width="86"
-    scrolling="no"
-    height="16"
-    frameborder="0"
-    src=
-      "http://hits.sinajs.cn/A1/weiboshare.html?url=http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/&amp;type=6&amp;ralateUid=1804531244&amp;language=zh_cn" allowtransparency="true">
-  </iframe>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-    
-    <p class="meta">
-      
-        <a class="basic-alignment left" href="/blog/2013/04/14/everything-is-a-remix/" title="Previous Post: 一切都是混搭">&laquo; 一切都是混搭</a>
-      
-      
-        <a class="basic-alignment right" href="/blog/2013/04/19/pop-music-all-sounds-the-same/" title="Next Post: 为什么流行音乐听起来都一样？">为什么流行音乐听起来都一样？ &raquo;</a>
-      
-    </p>
-  </footer>
-</article>
-
-
-  <section>
-    <h1>评论</h1>
-    <div id="comments" aria-live="polite"><!-- Duoshuo Comment BEGIN -->
-<div class="ds-thread"></div>
-<script type="text/javascript">
-  var duoshuoQuery = {short_name:"magnil"};
-  (function() {
-    var ds = document.createElement('script');
-    ds.type = 'text/javascript';ds.async = true;
-    ds.src = 'http://static.duoshuo.com/embed.js';
-    ds.charset = 'UTF-8';
-    (document.getElementsByTagName('head')[0] 
-    || document.getElementsByTagName('body')[0]).appendChild(ds);
-  })();
-</script>
-<!-- Duoshuo Comment END -->
-</div>
-  </section>
-
-</div>
-
-<aside class="sidebar">
-  
-    <section>
-  <h1>授权协议</h1>
-  <p>
-   <img class="center" alt="License" src="/images/cn-by-nc-sa.png" />
-  除非另有声明，本网站所有作品均采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>授权。
-  </p>
-</section>
-<div class="post-index"></div>
-
-<script type="text/javascript">
-  tmp = '<div><a href="#">目录</a></div>';
-  $('.post-index').append(tmp);
-  $.each($('h2, h3'), function(index, item){
-      item.id = 'menuindex'+index;
-      tmpText = $(item).text();
-      if(item.tagName.toLowerCase() == 'h2'){
-        tmpClass = 'menuindexh2';
-      }else{
-        tmpClass = 'menuindexh3';
-      }
-      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
-            '">' + tmpText + '</a></div>';
-      $('.post-index').append(tmp);
-  });
-</script>
-
-
-  
-</aside>
-
-
-    </div>
-  </div>
-  <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Magnil -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
-</p>
-
-</footer>
-  
-
-
-
-
-
-
-
-
-
-
-
-</body>
-</html>
+</feed>
