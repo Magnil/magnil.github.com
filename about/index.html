@@ -9,7 +9,7 @@
   <meta name="author" content="Magnil">
 
   
-  <meta name="description" content="关于 May 6th, 2013 关于本站 关于我 May 6th, 2013 <iframe width="86" scrolling="no" height="16" frameborder="0" src= "http://hits.sinajs.cn/A1/weiboshare.html &hellip;">
+  <meta name="description" content="关于 May 6th, 2013 关于本站 关于我 May 6th, 2013 Print $(".print").on("click", function(event) { html2canvas($('body'), { onrendered: function(canvas) { var &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -107,6 +107,21 @@
       </p>
       
         <div class="sharing">
+  <script src="/javascripts/html2canvas.js" type="text/javascript"></script>
+  <button class="print">Print</button>
+  <!-- Important : Button event must after button element, it is not run insert ready() -->
+  <script>
+    $(".print").on("click", function(event) {
+      html2canvas($('body'), {
+        onrendered: function(canvas) {
+          var newWind=window.open('', "Print");
+          <!-- Must use html5 -->
+          newWind.document.write("<!doctype html><html><body><img src='"+canvas.toDataURL()+"'/></body></html>");
+          //newWind.close();
+        }
+      });
+    });
+  </script>
   
   <span>
   <iframe
