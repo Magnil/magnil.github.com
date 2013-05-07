@@ -577,14 +577,11 @@
   <!-- Important : Button event must after button element, it is not run insert ready() -->
   <script>
     $(".print").on("click", function(event) {
-      html2canvas($('body'), {
-        onrendered: function(canvas) {
-          var newWind=window.open('', "Print");
-          <!-- Must use html5 -->
-          newWind.document.write("<!doctype html><html><body><img src='"+canvas.toDataURL()+"'/></body></html>");
-          //newWind.close();
-        }
-      });
+    html2canvas($('body'), {
+    onrendered: function(canvas) {
+    document.body.appendChild(canvas);
+    },
+    });
     });
   </script>
   
