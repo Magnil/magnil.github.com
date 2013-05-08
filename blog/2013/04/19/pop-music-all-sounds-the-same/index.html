@@ -354,12 +354,14 @@
 
 </head>
 <body>
-
+<!--
 <button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">打开新窗口</button>
-
-  <button class="print">生成Base64图片</button>
+-->
+  <button class="print">生成长微博</button>
   <script>
     $(".print").on("click", function(event) {
+    myWindow=window.open('index.html','','width=440');
+    myWindow.focus();
     html2canvas($('body'), {
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
@@ -368,58 +370,7 @@
     });
   </script>
 
-  <button class="transfer">转为长微博</button>
-  <script>
-    $(".transfer").on("click", function() {if (!('sendAsBinary' in XMLHttpRequest.prototype)) {
-  XMLHttpRequest.prototype.sendAsBinary = function(string) {
-    var bytes = Array.prototype.map.call(string, function(c) {
-      return c.charCodeAt(0) & 0xff;
-    });
-    this.send(new Uint8Array(bytes).buffer);
-  };
-}
-
-/*
- * @description        Uploads a file via multipart/form-data, via a Canvas elt
- * @param url  String: Url to post the data
- * @param name String: name of form element
- * @param fn   String: Name of file
- * @param canvas HTMLCanvasElement: The canvas element.
- * @param type String: Content-Type, eg image/png
- ***/
-function postCanvasToURL(url, name, fn, canvas, type) {
-  var data = canvas.toDataURL(type);
-  data = data.replace('data:' + type + ';base64,', '');
-
-  var xhr = new XMLHttpRequest();
-  xhr.open('POST', url, true);
-  var boundary = 'ohaiimaboundary';
-  xhr.setRequestHeader(
-    'Content-Type', 'multipart/form-data; boundary=' + boundary);
-  xhr.sendAsBinary([
-    '--' + boundary,
-    'Content-Disposition: form-data; name="' + name + '"; filename="' + fn + '"',
-    'Content-Type: ' + type,
-    '',
-    atob(data),
-    '--' + boundary + '--'
-  ].join('\r\n'));
-}
-    });
-  </script>
   
-  <!-- JiaThis Button BEGIN -->
-<div class="jiathis_style_32x32">
-	<a class="jiathis_button_qzone"></a>
-	<a class="jiathis_button_tsina"></a>
-	<a class="jiathis_button_tqq"></a>
-	<a class="jiathis_button_weixin"></a>
-	<a class="jiathis_button_renren"></a>
-	<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jtico jtico_jiathis" target="_blank"></a>
-	<a class="jiathis_counter_style"></a>
-</div>
-<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=1362749265069810" charset="utf-8"></script>
-<!-- JiaThis Button END -->
   <span>
   <iframe
     width="86"
