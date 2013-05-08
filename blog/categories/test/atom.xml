@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：test | Magnil的博客]]></title>
-  <link href="http://Magnil.github.io/blog/categories/test/atom.xml" rel="self"/>
-  <link href="http://Magnil.github.io/"/>
-  <updated>2013-05-08T21:29:25+08:00</updated>
-  <id>http://Magnil.github.io/</id>
+  <link href="http://isMag.net/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://isMag.net/"/>
+  <updated>2013-05-08T21:45:30+08:00</updated>
+  <id>http://isMag.net/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
     <email><![CDATA[lovcrimson@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
-    <link href="http://Magnil.github.io/blog/2013/03/29/hello-world/"/>
+    <link href="http://isMag.net/blog/2013/03/29/hello-world/"/>
     <updated>2013-03-29T00:56:00+08:00</updated>
-    <id>http://Magnil.github.io/blog/2013/03/29/hello-world</id>
+    <id>http://isMag.net/blog/2013/03/29/hello-world</id>
     <content type="html"><![CDATA[<p>Hello World!</p>
 
 <p>This is my first blog. 点击阅读更多。</p>

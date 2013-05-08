@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[标签：弹幕 | Magnil的博客]]></title>
-  <link href="http://Magnil.github.io/blog/tags/dan-mu/atom.xml" rel="self"/>
-  <link href="http://Magnil.github.io/"/>
-  <updated>2013-05-08T21:29:25+08:00</updated>
-  <id>http://Magnil.github.io/</id>
+  <link href="http://isMag.net/blog/tags/dan-mu/atom.xml" rel="self"/>
+  <link href="http://isMag.net/"/>
+  <updated>2013-05-08T21:45:30+08:00</updated>
+  <id>http://isMag.net/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
     <email><![CDATA[lovcrimson@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[一些有趣的弹幕视频网站新模式]]></title>
-    <link href="http://Magnil.github.io/blog/2012/07/22/live-commentary-for-anime-sites/"/>
+    <link href="http://isMag.net/blog/2012/07/22/live-commentary-for-anime-sites/"/>
     <updated>2012-07-22T18:01:00+08:00</updated>
-    <id>http://Magnil.github.io/blog/2012/07/22/live-commentary-for-anime-sites</id>
+    <id>http://isMag.net/blog/2012/07/22/live-commentary-for-anime-sites</id>
     <content type="html"><![CDATA[<p>最近好久没有看星际直播，心血来潮之下上 plu 看了看，结果发现播放器居然更换了，还是带弹幕的直播。带弹幕的直播一直以来都是我所想要的，类似的功能其实早有 Nico 的生放送。ab 站一直在传统弹幕视频领域里转来转去，终于国内也有人开始尝试新的弹幕视频模式了。</p>
 
 <p>这个播放器的官网叫“<a href="http://www.fengyunzhibo.com/">风云直播</a>”，逛了一圈，发现他的直播源似乎是来自于 uusee 的转播？目前该网站还在测试中，先让我们来一睹为快吧。</p>

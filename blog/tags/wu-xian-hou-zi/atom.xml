@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[标签：无限猴子 | Magnil的博客]]></title>
-  <link href="http://Magnil.github.io/blog/tags/wu-xian-hou-zi/atom.xml" rel="self"/>
-  <link href="http://Magnil.github.io/"/>
-  <updated>2013-05-08T21:29:25+08:00</updated>
-  <id>http://Magnil.github.io/</id>
+  <link href="http://isMag.net/blog/tags/wu-xian-hou-zi/atom.xml" rel="self"/>
+  <link href="http://isMag.net/"/>
+  <updated>2013-05-08T21:45:30+08:00</updated>
+  <id>http://isMag.net/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
     <email><![CDATA[lovcrimson@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[忧郁的大象]]></title>
-    <link href="http://Magnil.github.io/blog/2013/04/28/melancholy-elephants/"/>
+    <link href="http://isMag.net/blog/2013/04/28/melancholy-elephants/"/>
     <updated>2013-04-28T20:00:00+08:00</updated>
-    <id>http://Magnil.github.io/blog/2013/04/28/melancholy-elephants</id>
+    <id>http://isMag.net/blog/2013/04/28/melancholy-elephants</id>
     <content type="html"><![CDATA[<p><a href="http://www.spiderrobinson.com/melancholyelephants.html">忧郁的大象</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 
 <p>1983 年短篇雨果奖作品</p>
@@ -453,9 +453,9 @@
   
   <entry>
     <title type="html"><![CDATA[音乐可能被穷尽吗？]]></title>
-    <link href="http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/"/>
+    <link href="http://isMag.net/blog/2013/04/15/will-we-ever-run-out-of-new-music/"/>
     <updated>2013-04-15T10:34:00+08:00</updated>
-    <id>http://Magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music</id>
+    <id>http://isMag.net/blog/2013/04/15/will-we-ever-run-out-of-new-music</id>
     <content type="html"><![CDATA[<p>音乐可能被穷尽吗？Youtube 著名科普频道 <a href="http://www.youtube.com/watch?v=DAcjV60RnRw">Vsauce</a> 就这一话题展开了讨论，先听听他怎么说吧：</p>
 
 <div><object id="ssss" width="640" height="480"><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101800112_1804531244_Z060S3E8CWLK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SHWAM5D83oLHcwydP4n3x0taata/s.swf" type="application/x-shockwave-flash" name="ssss" allowfullscreen="true" allowscriptaccess="always" width="640" height="480" /></object></div>

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[标签：流行音乐 | Magnil的博客]]></title>
-  <link href="http://Magnil.github.io/blog/tags/liu-xing-yin-le/atom.xml" rel="self"/>
-  <link href="http://Magnil.github.io/"/>
-  <updated>2013-05-08T21:29:25+08:00</updated>
-  <id>http://Magnil.github.io/</id>
+  <link href="http://isMag.net/blog/tags/liu-xing-yin-le/atom.xml" rel="self"/>
+  <link href="http://isMag.net/"/>
+  <updated>2013-05-08T21:45:30+08:00</updated>
+  <id>http://isMag.net/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
     <email><![CDATA[lovcrimson@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[为什么流行音乐听起来都一样？]]></title>
-    <link href="http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same/"/>
+    <link href="http://isMag.net/blog/2013/04/19/pop-music-all-sounds-the-same/"/>
     <updated>2013-04-19T20:28:00+08:00</updated>
-    <id>http://Magnil.github.io/blog/2013/04/19/pop-music-all-sounds-the-same</id>
+    <id>http://isMag.net/blog/2013/04/19/pop-music-all-sounds-the-same</id>
     <content type="html"><![CDATA[<h2 id="section">前言</h2>
 <p>在上一篇，我们聊到了“<a href="http://magnil.github.io/blog/2013/04/15/will-we-ever-run-out-of-new-music/">音乐是否会被穷尽</a>”的话题，不过留下了一个小尾巴没有解决。那就是，为什么有那么多流行音乐听起来都一样？</p>
 

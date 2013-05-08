@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[分类：翻译 | Magnil的博客]]></title>
-  <link href="http://Magnil.github.io/blog/categories/fan-yi/atom.xml" rel="self"/>
-  <link href="http://Magnil.github.io/"/>
-  <updated>2013-05-08T21:29:25+08:00</updated>
-  <id>http://Magnil.github.io/</id>
+  <link href="http://isMag.net/blog/categories/fan-yi/atom.xml" rel="self"/>
+  <link href="http://isMag.net/"/>
+  <updated>2013-05-08T21:45:30+08:00</updated>
+  <id>http://isMag.net/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
     <email><![CDATA[lovcrimson@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[忧郁的大象]]></title>
-    <link href="http://Magnil.github.io/blog/2013/04/28/melancholy-elephants/"/>
+    <link href="http://isMag.net/blog/2013/04/28/melancholy-elephants/"/>
     <updated>2013-04-28T20:00:00+08:00</updated>
-    <id>http://Magnil.github.io/blog/2013/04/28/melancholy-elephants</id>
+    <id>http://isMag.net/blog/2013/04/28/melancholy-elephants</id>
     <content type="html"><![CDATA[<p><a href="http://www.spiderrobinson.com/melancholyelephants.html">忧郁的大象</a><sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup></p>
 
 <p>1983 年短篇雨果奖作品</p>
@@ -453,9 +453,9 @@
   
   <entry>
     <title type="html"><![CDATA[一切都是混搭]]></title>
-    <link href="http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix/"/>
+    <link href="http://isMag.net/blog/2013/04/14/everything-is-a-remix/"/>
     <updated>2013-04-14T14:42:00+08:00</updated>
-    <id>http://Magnil.github.io/blog/2013/04/14/everything-is-a-remix</id>
+    <id>http://isMag.net/blog/2013/04/14/everything-is-a-remix</id>
     <content type="html"><![CDATA[<h2 id="section">前言</h2>
 
 <p><em>我们的创造力源于外部，而非内部。我们并非通过自身努力就能成功。我们需要相互依赖，并且承认这一点并不意味着拥抱平庸和模仿他人，而是能把我们从误解中解放出来。这还会促使我们不要从自己身上期望太多，鼓励我们轻装上阵。—— Kirby Ferguson</em></p>
