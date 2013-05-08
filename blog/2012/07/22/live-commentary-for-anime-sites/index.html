@@ -173,10 +173,11 @@
 </head>
 <body>
 
-  <button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">I'm a leaf on the wind.</button>
+<button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">I'm a leaf on the wind.</button>
 
   <button class="print">Watch how I soar.</button>
   <script>
+    $(".print").on("click", function(event) {
     html2canvas($('body'), {
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
@@ -184,7 +185,7 @@
     });
     });
   </script>
-  </br>
+-->
   
   <span>
   <iframe
