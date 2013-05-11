@@ -4,7 +4,7 @@
   <title><![CDATA[分类：test | Magnil的博客]]></title>
   <link href="http://isMag.net/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://isMag.net/"/>
-  <updated>2013-05-08T21:49:43+08:00</updated>
+  <updated>2013-05-11T16:15:28+08:00</updated>
   <id>http://isMag.net/</id>
   <author>
     <name><![CDATA[Magnil]]></name>
@@ -24,7 +24,28 @@
 
 <!-- more -->
 
-<p>你被骗了，这篇没有任何东西。</p>
+<h2 id="test-1">Test 1</h2>
+
+<ol>
+  <li>li1</li>
+  <li>li2</li>
+  <li>li3</li>
+</ol>
+
+<h2 id="test-2">Test 2</h2>
+
+<p><strong>粗体</strong>
+<em>斜体</em></p>
+
+<h2 id="test-3">Test 3</h2>
+
+<blockquote>
+  <p>This is a blockquote.</p>
+</blockquote>
+
+<h2 id="test-4">Test 4</h2>
+
+<p><img src="http://imgs.xkcd.com/comics/the_carriage.png" alt="Alt text" title="I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally." /></p>
 
 <p>刚搬家到 Octopress，以前博客的东西有时间再搬过来吧。</p>
 ]]></content>

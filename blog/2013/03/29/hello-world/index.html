@@ -9,7 +9,8 @@
   <meta name="author" content="Magnil">
 
   
-  <meta name="description" content="Hello World! This is my first blog. 点击阅读更多。 你被骗了，这篇没有任何东西。 刚搬家到 Octopress，以前博客的东西有时间再搬过来吧。
+  <meta name="description" content="Hello World! This is my first blog. 点击阅读更多。 Test 1 li1 li2 li3 Test 2 粗体
+斜体 Test 3 This is a blockquote. Test 4 刚搬家到 Octopress，以前博客的东西有时间再搬过来吧。
 ">
   
 
@@ -99,7 +100,28 @@
 
 <!-- more -->
 
-<p>你被骗了，这篇没有任何东西。</p>
+<h2 id="test-1">Test 1</h2>
+
+<ol>
+  <li>li1</li>
+  <li>li2</li>
+  <li>li3</li>
+</ol>
+
+<h2 id="test-2">Test 2</h2>
+
+<p><strong>粗体</strong>
+<em>斜体</em></p>
+
+<h2 id="test-3">Test 3</h2>
+
+<blockquote>
+  <p>This is a blockquote.</p>
+</blockquote>
+
+<h2 id="test-4">Test 4</h2>
+
+<p><img src="http://imgs.xkcd.com/comics/the_carriage.png" alt="Alt text" title="I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally." /></p>
 
 <p>刚搬家到 Octopress，以前博客的东西有时间再搬过来吧。</p>
 </div>
@@ -158,6 +180,43 @@
     });
   </script>
 
+<script>
+function share(){
+    try {
+        var img = canvas.toDataURL('image/jpeg', 0.9).split(',')[1];
+    } catch(e) {
+        var img = canvas.toDataURL().split(',')[1];
+    }
+    // open the popup in the click handler so it will not be blocked
+    var w = window.open();
+    w.document.write('Uploading...');
+    // upload to imgur using jquery/CORS
+    // https://developer.mozilla.org/En/HTTP_access_control
+    $.ajax({
+        url: 'http://api.imgur.com/2/upload.json',
+        type: 'POST',
+        data: {
+            type: 'base64',
+            // get your key here, quick and fast http://imgur.com/register/api_anon
+            key: '6528448c258cff474ca9701c5bab6927',
+            name: 'neon.jpg',
+            title: 'test title',
+            caption: 'test caption',
+            image: img
+        },
+        dataType: 'json'
+    }).success(function(data) {
+        w.location.href = data['upload']['links']['imgur_page'];
+    }).error(function() {
+        alert('Could not reach api.imgur.com. Sorry :(');
+        w.close();
+    });
+}
+</script>
+
+
+
+<button type="upload" onclick="share()">Upload to imgur.</button> 
   
   <span>
   <iframe
