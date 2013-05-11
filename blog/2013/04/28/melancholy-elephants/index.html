@@ -579,15 +579,7 @@
     html2canvas($('body'), {
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
-    },
-    });
-    });
-  </script>
-
-<button class="upload" >Upload to imgur.</button> 
-<script>
-    $(".upload").on("click", function(event) {
-    try {
+        try {
         var img = canvas.toDataURL('image/jpeg', 0.9).split(',')[1];
     } catch(e) {
         var img = canvas.toDataURL().split(',')[1];
@@ -616,6 +608,15 @@
         alert('Could not reach api.imgur.com. Sorry :(');
         w.close();
     });
+    },
+    });
+    });
+  </script>
+
+<button class="upload" >Upload to imgur.</button> 
+<script>
+    $(".upload").on("click", function(event) {
+
 }
 </script>
 
