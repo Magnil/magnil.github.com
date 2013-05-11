@@ -123,13 +123,9 @@
     });
   </script>
 
+<button class="upload" >Upload to imgur.</button> 
 <script>
-function share(){
-    html2canvas($('body'), {
-    onrendered: function(canvas) {
-    document.body.appendChild(canvas);
-    },
-    });
+    $(".upload").on("click", function(event) {
     try {
         var img = canvas.toDataURL('image/jpeg', 0.9).split(',')[1];
     } catch(e) {
@@ -162,9 +158,6 @@ function share(){
 }
 </script>
 
-
-
-<button type="upload" onclick="share()">Upload to imgur.</button> 
   
   <span>
   <iframe
