@@ -118,7 +118,8 @@
   <script>
     $(".print").on("click", function(event) {
     html2canvas($('body'), {
-    proxy: 'http://html-to-canvas-proxy.appspot.com/'
+    logging: true,
+    proxy: 'http://html-to-canvas-proxy.appspot.com/',
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
     },
