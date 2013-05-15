@@ -121,8 +121,9 @@
 
   <button class="print">Watch how I soar.</button>
   <script>
-    $(".print").on("click", function(event) {
+    $(".print").on("click", function(event) {    
     html2canvas($('body'), {
+    proxy: "http://xiaoxiaoyue.cn/html2canvas/proxy.php",
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
     },
