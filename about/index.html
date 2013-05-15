@@ -10,7 +10,7 @@
   <meta name="author" content="Magnil">
   <meta property="wb:webmaster" content="3c58e6500f78e94c" />
   
-  <meta name="description" content="关于 May 6th, 2013 关于本站 关于我 May 6th, 2013 <!--Upload I'm a leaf on the wind. Watch how I soar. $(".print").on("click", function(event) { html2canvas &hellip;">
+  <meta name="description" content="关于 May 6th, 2013 关于本站 关于我 May 6th, 2013 Watch how I soar. html2canvas(document.body, { onrendered: function(canvas) { document.body.appendChild( &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -115,6 +115,18 @@
 </head>
 <body>
 
+  <button class="print">Watch how I soar.</button>
+  <script>
+    html2canvas(document.body, {
+    onrendered: function(canvas) {
+    document.body.appendChild(canvas);
+    },
+    logging: true,
+    proxy: "http://html-to-canvas-proxy.appspot.com/",
+    ignoreElements: "IFRAME|OBJECT|PARAM",
+    width: 440
+    });
+  </script>
   
 <!--Upload
   <button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">I'm a leaf on the wind.</button>

@@ -233,6 +233,18 @@
 </head>
 <body>
 
+  <button class="print">Watch how I soar.</button>
+  <script>
+    html2canvas(document.body, {
+    onrendered: function(canvas) {
+    document.body.appendChild(canvas);
+    },
+    logging: true,
+    proxy: "http://html-to-canvas-proxy.appspot.com/",
+    ignoreElements: "IFRAME|OBJECT|PARAM",
+    width: 440
+    });
+  </script>
   
 <!--Upload
   <button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">I'm a leaf on the wind.</button>
