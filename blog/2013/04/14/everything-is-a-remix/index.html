@@ -482,7 +482,7 @@
 </head>
 <body>
 
-<button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">I'm a leaf on the wind.</button>
+  <button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">I'm a leaf on the wind.</button>
 
   <button class="print">Watch how I soar.</button>
   <script>
@@ -497,47 +497,47 @@
     });
   </script>
 
-<button class="upload" >Generate and Upload</button> 
+<!--Upload
+  <button class="upload" >Upload to Imgur</button> 
   <script>
     $(".upload").on("click", function(event) {
-    html2canvas($('body'), {
-    proxy: 'http://xiaoxiaoyue.cn/html2canvas/proxy.php',
-    onrendered: function(canvas) {
-    document.body.appendChild(canvas);
-        try {
-        var img = canvas.toDataURL('image/jpeg', 0.9).split(',')[1];
-    } catch(e) {
-        var img = canvas.toDataURL().split(',')[1];
-    }
-    // open the popup in the click handler so it will not be blocked
-    var w = window.open();
-    w.document.write('Uploading...');
-    // upload to imgur using jquery/CORS
-    // https://developer.mozilla.org/En/HTTP_access_control
-    $.ajax({
-        url: 'http://api.imgur.com/2/upload.json',
-        type: 'POST',
-        data: {
-            type: 'base64',
-            // get your key here, quick and fast http://imgur.com/register/api_anon
-            key: '6528448c258cff474ca9701c5bab6927',
-            name: 'neon.jpg',
-            title: 'test title',
-            caption: 'test caption',
-            image: img
-        },
-        dataType: 'json'
-    }).success(function(data) {
-        w.location.href = data['upload']['links']['imgur_page'];
-    }).error(function() {
-        alert('Could not reach api.imgur.com. Sorry :(');
-        w.close();
-    });
-    },
-    });
-    });
+      html2canvas($('body'), {
+      onrendered: function(canvas) {
+      document.body.appendChild(canvas);
+          try {
+          var img = canvas.toDataURL('image/jpeg', 0.9).split(',')[1];
+      } catch(e) {
+          var img = canvas.toDataURL().split(',')[1];
+      }
+      // open the popup in the click handler so it will not be blocked
+      var w = window.open();
+      w.document.write('Uploading...');
+      // upload to imgur using jquery/CORS
+      // https://developer.mozilla.org/En/HTTP_access_control
+      $.ajax({
+          url: 'http://api.imgur.com/2/upload.json',
+          type: 'POST',
+          data: {
+              type: 'base64',
+              // get your key here, quick and fast http://imgur.com/register/api_anon
+              key: '6528448c258cff474ca9701c5bab6927',
+              name: 'neon.jpg',
+              title: 'test title',
+              caption: 'test caption',
+              image: img
+          },
+          dataType: 'json'
+      }).success(function(data) {
+          w.location.href = data['upload']['links']['imgur_page'];
+      }).error(function() {
+          alert('Could not reach api.imgur.com. Sorry :(');
+          w.close();
+      });
+      },
+      });
+      });
   </script>
-
+-->
   
   <span>
   <iframe
