@@ -36,7 +36,7 @@
 
 </head>
 
-<body   class="no-sidebar"  >
+<body   >
   <header role="banner"><hgroup>
   <h1><a href="/">Magnil的博客</a></h1>
   
@@ -274,6 +274,37 @@
   </section>
 
 </div>
+
+<aside class="sidebar">
+  
+    <section>
+  <h1>授权协议</h1>
+  <p>
+   <img class="center" alt="License" src="/images/cn-by-nc-sa.png" />
+  除非另有声明，本网站所有作品均采用<a href="http://creativecommons.org/licenses/by-nc-sa/3.0/cn/">知识共享署名-非商业性使用-相同方式共享 3.0 中国大陆许可协议</a>授权。
+  </p>
+</section>
+
+<script type="text/javascript">
+  tmp = '<div><a href="#">目录</a></div>';
+  $('.post-index').append(tmp);
+  $.each($('h2, h3'), function(index, item){
+      item.id = 'menuindex'+index;
+      tmpText = $(item).text();
+      if(item.tagName.toLowerCase() == 'h2'){
+        tmpClass = 'menuindexh2';
+      }else{
+        tmpClass = 'menuindexh3';
+      }
+      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
+            '">' + tmpText + '</a></div>';
+      $('.post-index').append(tmp);
+  });
+</script>
+
+
+  
+</aside>
 
 
     </div>

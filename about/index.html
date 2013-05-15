@@ -213,6 +213,23 @@
 </section>
 
 
+<script type="text/javascript">
+  tmp = '<div><a href="#">目录</a></div>';
+  $('.post-index').append(tmp);
+  $.each($('h2, h3'), function(index, item){
+      item.id = 'menuindex'+index;
+      tmpText = $(item).text();
+      if(item.tagName.toLowerCase() == 'h2'){
+        tmpClass = 'menuindexh2';
+      }else{
+        tmpClass = 'menuindexh3';
+      }
+      tmp = '<div class="' + tmpClass +'"><a href="#' + item.id +
+            '">' + tmpText + '</a></div>';
+      $('.post-index').append(tmp);
+  });
+</script>
+
 
   
 </aside>
