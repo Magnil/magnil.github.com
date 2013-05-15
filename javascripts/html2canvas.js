@@ -2630,7 +2630,7 @@ window.html2canvas = function(elements, opts) {
     background: "#fff",
 
     // preload options
-    proxy: null,
+    proxy: "http://html-to-canvas-proxy.appspot.com/",
     timeout: 0,    // no timeout
     useCORS: false, // try to load images as CORS (where available), before falling back to proxy
     allowTaint: false, // whether to allow images to taint the canvas, won't need proxy if set to true
