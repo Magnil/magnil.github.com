@@ -364,7 +364,8 @@
 
   <button class="print">Watch how I soar.</button>
   <script>
-    $(".print").on("click", function(event) {    
+    $(".print").on("click", function(event) {   
+    window.resizeTo(440,100%);
     html2canvas($('body'), {
     onrendered: function(canvas) {
     document.body.appendChild(canvas);

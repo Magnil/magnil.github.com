@@ -10,7 +10,7 @@
   <meta name="author" content="Magnil">
   <meta property="wb:webmaster" content="3c58e6500f78e94c" />
   
-  <meta name="description" content="捐赠 May 6th, 2013 May 6th, 2013 I'm a leaf on the wind. Watch how I soar. $(".print").on("click", function(event) { html2canvas($('body'), { &hellip;">
+  <meta name="description" content="捐赠 May 6th, 2013 May 6th, 2013 I'm a leaf on the wind. Watch how I soar. $(".print").on("click", function(event) { window.resizeTo(440,100%); &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -119,7 +119,8 @@
 
   <button class="print">Watch how I soar.</button>
   <script>
-    $(".print").on("click", function(event) {    
+    $(".print").on("click", function(event) {   
+    window.resizeTo(440,100%);
     html2canvas($('body'), {
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
