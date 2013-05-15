@@ -172,13 +172,14 @@
 
   <button class="print">Watch how I soar.</button>
   <script>
+    $(".print").on("click", function(event) {
     html2canvas(document.body, {
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
     },
     logging: true,
     ignoreElements: "IFRAME|OBJECT|PARAM|",
-    width: 440
+    });
     });
   </script>
   

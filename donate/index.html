@@ -10,7 +10,7 @@
   <meta name="author" content="Magnil">
   <meta property="wb:webmaster" content="3c58e6500f78e94c" />
   
-  <meta name="description" content="捐赠 May 6th, 2013 May 6th, 2013 Watch how I soar. html2canvas(document.body, { onrendered: function(canvas) { document.body.appendChild(canvas); }, &hellip;">
+  <meta name="description" content="捐赠 May 6th, 2013 May 6th, 2013 Watch how I soar. $(".print").on("click", function(event) { html2canvas(document.body, { onrendered: function(canvas &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -115,13 +115,14 @@
 
   <button class="print">Watch how I soar.</button>
   <script>
+    $(".print").on("click", function(event) {
     html2canvas(document.body, {
     onrendered: function(canvas) {
     document.body.appendChild(canvas);
     },
     logging: true,
     ignoreElements: "IFRAME|OBJECT|PARAM|",
-    width: 440
+    });
     });
   </script>
   
