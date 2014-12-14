@@ -1,15 +1,113 @@
-<div class="share">
-	<div class="addthis_toolbox addthis_default_style ">
-	{% if site.facebook_like %}
-	<a class="addthis_button_facebook_like" fb:like:layout="button_count"></a>
-	{% endif %}
-	{% if site.twitter_tweet_button %}
-	<a class="addthis_button_tweet"></a>
-	{% endif %}
-	{% if site.google_plus_one %}
-	<a class="addthis_button_google_plusone" g:plusone:size="{{ site.google_plus_one_size }}"></a>
-	{% endif %}
-	<a class="addthis_counter addthis_pill_style"></a>
-	</div>
-  <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid={{ site.addthis_profile_id }}"></script>
+<div class="sharing">
+
+</head>
+<body>
+
+
+<!--Upload  
+
+  <button class="button" onClick="window.open('index.html', '_blank', 'toolbar=no, location=yes, directories=no, status=no, menubar=no, scrollbars=yes, resizable=no, copyhistory=no, width=440');">I'm a leaf on the wind.</button>
+
+  <button class="print">Watch how I soar.</button>
+  <script>
+    $(".print").on("click", function(event) {   
+    html2canvas($('body'), {
+    onrendered: function(canvas) {
+    document.body.appendChild(canvas);
+    },
+    });
+    });
+  </script>
+
+  <button class="upload" >Upload to Imgur</button> 
+  <script>
+    $(".upload").on("click", function(event) {
+      html2canvas($('body'), {
+      onrendered: function(canvas) {
+      document.body.appendChild(canvas);
+          try {
+          var img = canvas.toDataURL('image/jpeg', 0.9).split(',')[1];
+      } catch(e) {
+          var img = canvas.toDataURL().split(',')[1];
+      }
+      // open the popup in the click handler so it will not be blocked
+      var w = window.open();
+      w.document.write('Uploading...');
+      // upload to imgur using jquery/CORS
+      // https://developer.mozilla.org/En/HTTP_access_control
+      $.ajax({
+          url: 'http://api.imgur.com/2/upload.json',
+          type: 'POST',
+          data: {
+              type: 'base64',
+              // get your key here, quick and fast http://imgur.com/register/api_anon
+              key: '6528448c258cff474ca9701c5bab6927',
+              name: 'neon.jpg',
+              title: 'test title',
+              caption: 'test caption',
+              image: img
+          },
+          dataType: 'json'
+      }).success(function(data) {
+          w.location.href = data['upload']['links']['imgur_page'];
+      }).error(function() {
+          alert('Could not reach api.imgur.com. Sorry :(');
+          w.close();
+      });
+      },
+      });
+      });
+  </script>
+
+  {% if site.weibo_share %}
+  <span>
+  <iframe
+    width="86"
+    scrolling="no"
+    height="16"
+    frameborder="0"
+    src=
+      "http://hits.sinajs.cn/A1/weiboshare.html?url={{ site.url }}{{ page.url }}&amp;type=6&amp;{% if site.weibo_uid %}ralateUid={{ site.weibo_uid }}&amp;{% endif %}language=zh_cn" allowtransparency="true">
+  </iframe>
+  </span>
+  {% endif %}
+  
+-->
+
+<wb:follow-button uid="1804531244" type="gray_4" width="100%" height="64" ></wb:follow-button>
+
+<script type="text/javascript" charset="utf-8">
+(function(){
+  var _w = 72 , _h = 16;
+  var param = {
+    url:location.href,
+    type:'3',
+    count:'1', /**是否显示分享数，1显示(可选)*/
+    appkey:'', /**您申请的应用appkey,显示分享来源(可选)*/
+    title:'', /**分享的文字内容(可选，默认为所在页面的title)*/
+    pic:'', /**分享图片的路径(可选)*/
+    ralateUid:'1804531244', /**关联用户的UID，分享微博会@该用户(可选)*/
+	language:'zh_cn', /**设置语言，zh_cn|zh_tw(可选)*/
+    rnd:new Date().valueOf()
+  }
+  var temp = [];
+  for( var p in param ){
+    temp.push(p + '=' + encodeURIComponent( param[p] || '' ) )
+  }
+  document.write('<iframe allowTransparency="true" frameborder="0" scrolling="no" src="http://hits.sinajs.cn/A1/weiboshare.html?' + temp.join('&') + '" width="'+ _w+'" height="'+_h+'"></iframe>')
+})()
+</script>
+
+<wb:like skin="silver"></wb:like>
+
+  {% if site.twitter_tweet_button %}
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}" data-via="{{ site.twitter_user }}" data-counturl="{{ site.url }}{{ page.url }}" >Tweet</a>
+  {% endif %}
+  {% if site.google_plus_one %}
+  <div class="g-plusone" data-size="{{ site.google_plus_one_size }}"></div>
+  {% endif %}
+  {% if site.facebook_like %}
+    <div class="fb-like" data-send="true" data-width="450" data-show-faces="false"></div>
+  {% endif %}
 </div>
+

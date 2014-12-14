@@ -1,0 +1,211 @@
+---
+layout: post
+title: "为什么流行音乐听起来都一样？"
+date: 2013-04-19 20:28
+comments: true
+categories: 思考
+tags: 音乐 流行音乐 相似 乐理
+---
+
+## 前言
+在上一篇，我们聊到了“[音乐是否会被穷尽](http://ismag.net/blog/2013/04/15/will-we-ever-run-out-of-new-music/)”的话题，不过留下了一个小尾巴没有解决。那就是，为什么有那么多流行音乐听起来都一样？
+
+就“音乐相似”这一问题来说，包含如何定义“相似”，这些“相似”属于哪个方面，它们为什么会存在“相似”。
+
+<!-- more -->
+
+## 一、公有领域
+首先明确概念。公有领域指属于公有文化遗产、任何人可以不受限制地使用和加工的全体人类智慧结晶的集合。
+
+因为公有领域的存在，你可以在自己的音乐作品中使用民间流传了几百年的民谣、使用巴赫或是贝多芬的古典名曲（注意是曲谱，可以自己演奏改编，因为有些录制的版本是没过期的）、使用超过版权期限而进入公有领域的音乐作品（类似的，同上）。这个词伴随着版权制度的建立应运而生，在此之前，所有的作品均属于公有领域。
+
+OK，明确了这个概念以后，我们来举例子：
+
+*   《一闪一闪亮晶晶》和《字母表》，都源自于18世纪中期的法国民歌《妈妈请听我说》，莫扎特根据此曲改编了《 C 大调变奏曲 K.265》。
+
+<div><embed src="http://www.xiami.com/widget/0_2715706/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+*   平井坚《古老的大钟》源自 Henry Clay Work 的《My Grandfather's Clock》。
+
+<div><embed src="http://www.xiami.com/widget/0_3352612/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769629605/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+*   S.H.E 的《不想长大》火过一段时间，其中副歌部分借用的是莫扎特的《 g 小调第 40 号交响曲 K.550》。
+
+<div><embed src="http://www.xiami.com/widget/0_373604/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1770385747/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+
+## 二、借鉴 or 抄袭？
+音乐的流派是互相影响的，音乐创意互相交织在一起。所以早期留下了大量非常相似的作品，民谣、蓝调、R&R。人们从乡间听到什么小调、从教堂听到什么福音歌曲、从酒吧听到的演奏，只要觉得好听，就会用到自己的曲子里。
+
+而且整个二十世纪上半叶，无论是从公有领域的改编，还是对版权作品的借鉴，有相当多数量的歌曲是不署名的。举例如下：
+
+*   猫王《Love Me Tender》改自公有领域的内战老歌《Aura Lee》。
+
+<div><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=84153383_2397059874_ah21SyZtCjXK+l1lHz2stqlF+6xCpv2xhGi3slWkIAdRUgiYJMXNb9UD4SzVA8dB5yoUEJU3cf8j1B4law/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=2304026_1251054023_Z0jkH3E4B2PK+l1lHz2stqlF+6xCpv2xhGu2vlOkIApZVw+YJMXNb98E4C3WAslUtzUZSZo8dfom1Rs/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object></div>
+
+*   Ray Charles 的《I Got a Woman》被认为是最早的灵歌雏形，而这首是从福音歌曲《It Must Be Jesus》借来的。
+*   Bob Dylan 的歌里引用过很多爱尔兰-苏格兰地区民歌如《Nottamun Town》、《The Merry Month of May》、《The Parting Glass》，这些当然属于公有领域，但他同时也从不少版权作品如《The Patriot Game》借来素材。
+
+<div><embed src="http://www.xiami.com/widget/0_1024667/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1535481/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+70 年代还这么干的，最有名的是 Led Zeppelin。在许多主流音乐人已经开始接受知识产权概念，注意版权问题时，他们偏不，依然按照 40、50 年代的做法。他们借用素材之多令人瞠目结舌，以至于被称作“山寨乐队”（Rip-offs）。在音乐界，当我们用**山寨**一词时，其实已经确定两者必然是存在借用关系的，但是其属于**借鉴**还是**抄袭**，尚且存在争议。以下例子，左边是 Led Zep，右边是他们借用的素材——剧透注意，以下例子中甚至包含他们最著名的作品，《Stairway to Heaven》。
+
+<div><embed src="http://www.xiami.com/widget/0_1120399/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1289599/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+<div><embed src="http://www.xiami.com/widget/0_1119507/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1577492/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+<div><embed src="http://www.xiami.com/widget/0_1119912/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1771114772/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+<div><embed src="http://www.xiami.com/widget/0_1119918/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1439688/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+需要特别说明的是，上面这些引用也好、改编也好，通通没有注明。这带来一个问题，当你回顾那些老歌的时候，你很难得知他们到底从哪里借来的素材/灵感。
+
+这种状况直到 1976 年 George Harrison 被判**潜意识抄袭**了 Ronnie Mack 的《He's So Fine》赔付 160 万美元，这一判决对整个音乐产业的影响非常大。哦，顺便说一下，“潜意识抄袭”的心理学名叫 Cryptomnesia，案件里叫 Subconscious copying。国内在音乐侵权控诉中是不承认“潜意识抄袭”的。
+
+<div><embed src="http://www.xiami.com/widget/0_1037168/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769066459/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+可能会有些有洁癖的小朋友无法接受这一事实。但是，**音乐的发展历史没有很多人想的那么干净**，换句话，**许多人对于创造力存在着误解**。对此，我推荐你阅读我的博文：[一切都是混搭](http://ismag.net/blog/2013/04/14/everything-is-a-remix/)。
+
+历史总是惊人的相似，当我们来到 Hip-hop 的时代，同样的一幕再次上演了。
+
+
+## 三、采样和混编
+MC Hammer 的《U Can't Touch This》采样了《Super Freak》，在这首歌刚发布的时候，Rick James 因此起诉了 MC Hammer。两人庭外和解，MC Hammer 赔偿并将 Rick James 的名字一并写入作曲栏。
+
+<div><embed src="http://www.xiami.com/widget/0_1598992/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1440117/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+采样是指将现有音乐唱片里部分片段剪切，拼贴到自己的作品中。Hip-hop 正是伴随着采样和混编技术崛起的。普遍认知中的第一首 Hip-hop，1979 年的《Rapper's Delight》从 Chic 乐队的《Good Times》中采样了贝斯部分，当然，没有授权。这段相同的贝斯随后出现在十几首不同的歌曲中，在那个时代，大多数都是没经过授权的。Hip-hop 黄金时代的代表作，《Fear of a Black Planet》、《Paul's Boutique》等等，都是随意采样拼贴的大拼盘，这种行为在当今简直无法想象。现在，采样都会标注"sample from..."，支付大量金额以获得授权。以下的例子，你将听到同一段贝斯在不同歌曲中反复出现，请留意**贝斯**部分。
+
+<div><embed src="http://www.xiami.com/widget/0_1771120276/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769039948/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_3502723/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1556896/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_2012978/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1768960579/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+从90 年代初开始，事情有些不一样了。91 年 De La Soul 因为一段 12 秒的采样被判 170 万，这是首个侵权而大额赔偿的案例。此后一系列大金额赔偿案例，直接导致 Hip-hop 走向另一个方向。去年 Beastie Boys 因为《Paul's Boutique》被起诉，之前他们曾经说过，那个年代太混乱了，大家都在用，谁都不知道采样的原始出处。"Fair Use"目前实际上大多数时候都保护不了 Hip-hop 歌手了。
+
+<div><embed src="http://www.xiami.com/widget/0_1236494/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1101950/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+允许我发一点牢骚。90 年代后期版权法的严苛，不仅对 Hip-hop 产业的打击非常巨大，同时带来的是大量的投机分子——购买已经不再发售的唱片版权，靠着告人发财，在音乐界被称为**样本鬼**。2005 年著名的采样鬼 Bridgeport Music 公司起诉 N.W.A 的《100 Miles and Runnin'》获胜，而只是因为 2 秒的吉他和声。无论是过度自由还是过度严苛都不是我希望看到的，不过两者若只能选其一，我宁可选择过度自由:)
+
+
+所以，在两首歌相似的时候，通常我的第一反应，是否来自公有领域？是否是采样？然后是否存在被影响的可能性——无论是借鉴还是抄袭。70 年代以前的原词曲作者、90 年代以前的采样出处，有些可能是你在词曲作者栏或者"sample from"里看不到的，因为谁都不知道。不过这些显然都不是“巧合性”的相似，尽管有些不知道具体出处，但是你能清晰的感受到歌曲之间存在的脉络。
+
+下面聊聊“巧合性”的，好吧，其实也不是那么巧合，只是概率问题了。
+
+
+## 四、和弦进行
+有关和弦进行，Youtube 有个著名的视频——the Axis of Awesome 的 4 chords，用 4 和弦唱了 30 多首歌。有很多人做过类似的视频，国内最有名的应该是《玩死曲婉婷》：
+
+<div><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=64427693_1859415927_P0KyH3QwB2DK+l1lHz2stqlF+6xCpv2xhGu8vlugJAtQVwuYJMXNb9sD5CvRBsZB5yoUEJU5cfok0Bskaw/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object><object id="ssss" width="360" height="231" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=83117674_2789474211_ZkKyH3MwXm7K+l1lHz2stqlF+6xCpv2xhGizs1ugIgpbVA2YJMXNb9UE4SjRBshG5yoUEJU3dv8n0BsqbA/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="360" height="231"></embed></object></div>
+
+Axis of Awesome 用的和弦进行是 I-V-vi-IV，包括 C G Am F/G D Em C/D A Bm G 等等。虽然他演奏的是 C G Am F，不过原曲不一定都是 Key C，只是拥有相同的和弦进行（走向）。这一和弦进行有个专有名称，叫“[流行-朋克和弦进行](http://en.wikipedia.org/wiki/Pop-punk_chord_progression)”。
+ 
+这种现象不仅限于狭义上的流行歌曲，实际上广义上的近现代流行音乐，甚至包括古典音乐，同样的和弦进行是非常之常见的。
+
+*   爵士中最常见的ii-V-I：《Satin Doll》、《Autumn Leaves》、《Blue Bossa》。
+*   50 年代最常见的I-vi-IV-V：Ben E.King《Stand By Me》、the Police《Every Breath You Take》、一大堆 50 年代 doowop，甚至还为此有个专有名字叫“50年代和弦进行”（50s progression）。哦对了，Beatles 最喜欢玩这个。
+*   12 小节布鲁斯I-I-I-I-IV-IV-I-I-V-V-I-I，这是原始的，还有许多变化如最后变成V-IV-I-I，V-IV-I-V。这种实在太多。蓝调和早期R&R里一大堆。懒得举。
+*   如果这里碰巧有 Jpop 爱好者的话，我也顺带说一下 Jpop 最常用的，是 IV-V-iii-vi（尤其是 Fmaj7 G7 Em7 Am），日本人把这个叫“王道进行”，Jpop 的核心部分，也是被用烂了的存在。这一和弦进行其实来源于 80 年代的欧陆节拍（Eurobeat），日本继承了它并将其作为 Jpop 最重要的组成部分之一。正是这个东西，让 Jpop 听起来和欧美当代流行音乐大不相同。关于这个和弦进行可以引申出 Jpop 的发展过程，下次有机会单独拿出来讲。
+*   还有个好玩的，帕式卡农和弦进行，哦卡农，谁都听过，但是你绝对没想过你随时随地都在听卡农。有个调侃卡农进行的著名单口音乐喜剧：我恨帕式卡农！
+
+<div><object id="ssss" width="480" height="370" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=93857407_3040417422_ZkOzGituDmPK+l1lHz2stqlF+6xCpv2xhGm0v1KgJAldVw6YJMXNb9QE6CzRBM9F5yoUEJU2dvYj0Bktbw/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="480" height="370"></embed></object></div>
+
+我不在这里详细解释乐理问题。如果这部分让你觉得困惑的话，没关系，反正你只需要知道他们用着相似的和弦就够了。
+
+为什么会这样？简单来说，人耳习惯固定的、自然的模式。有个网站非常蛋疼的，在 2 年时间里对 Billboard 100 上的歌曲一首一首的进行人工分析，收集了 1300 首热门歌曲的和弦进行。你可以看他们的报告：[我分析了 1300 首流行歌曲的和弦模式](http://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/)。然后他们将统计结果放到[数据库](http://www.hooktheory.com/trends)，你可以用来找同样和弦的歌，也可以用来在自己写歌不知道下一个和弦接什么好的时候。让我们选定 Key C，从 C 开始，你会发现紧随其后的是G（30%）F（21%），让我们选 G，再往后是 Am（35%）F（24%），选 Am，最后，你发现就只有 F（77%）可选了——烂大街的 C G Am F 就这样出来了。
+
+和弦进行的相似是普遍存在的，大多数人在听流行音乐的时候感觉不出来，不过光听伴奏就会比较明显了，比如说在 KTV 的时候就会感觉到可以用一首歌的伴奏来唱另一首，或者将两首歌重叠在一起的时候。我们对歌曲相似的判断，主要还是来自于旋律和歌词。
+
+
+## 五、歌词的格律
+歌词也会存在相似？当然。如果你看了我前一篇文章里的翻译视频，就应该知道英文歌中普遍存在的普通律（common meter）和民谣律（ballad meter）。
+
+我在这里再详细解释一下。所谓普通律，是指音节呈 8-6-8-6 分布，两个长句结尾押韵，两个短句也要押韵，即隔行交互押韵（a-b-a-b）。民谣律类似，但要求没这么严格，只要求短句押韵，即 x-a-x-a（x 为随意韵脚）。此外，长句要求为抑扬格四音步，短句要求为抑扬格三音步，这个意思是，长句 8 个音节分为 4 个音步，每个音步由一个非重读音节和一个重读音节构成，简单来说就是“轻重轻重轻重轻重”，如：Be-**cause** I **could** not **stop** for **Death**, / He **kind**-ly **stopped** for **me**（著名诗人 Emily Dickinson 的诗）。
+
+著名网漫 [xkcd](http://xkcd.com/788/) 有一篇讲这个的。他说“自从我用 Gilligan's Island 的调子试着唱过这首 Emily Dickinson 的诗，我再也没办法正常的读出来了。”
+
+![Alt text](http://imgs.xkcd.com/comics/the_carriage.png "I learned from Achewood that since this poem is in ballad meter, it can be sung to the tune of Gilligan's Island.  Since then, try as I might, I haven't ONCE been able to read it normally.")
+
+因为普通律/民谣律的存在，有非常之多的乡村/福音/民谣摇滚可以完美的互换歌词来唱，这就是歌词中存在的相似。例子请参见我最前面那个翻译视频里提到的。
+
+在中文流行音乐中，歌词当然也存在着一定的格式，比如 3-3-5，3-3-7 或者全篇每句都是 7 字之类的句式，有那么几段可以互换，但是我很少会遇到整篇歌词都完美契合的例子。
+
+
+## 六、你最无法忽视的 Riff
+重头戏来了。绝大多数听众，对于和弦也好、采样也好（如果不是很长的话而且使用不频繁的情况下）、歌词韵律也好，都没有那么敏感，所以重中之重还是调子。允许我这里用不严谨的“调子”而不是旋律，因为要聊及歌曲中反复演奏的 riff 片段，大部分包含一小段旋律，但功能上有些又属于和声，取决于你如何用它，如吉他/贝斯 riff。而我们人在听歌时，留下印象最深刻的，往往就是主旋律和 riff。
+
+先说 riff 好了。一小段反复演奏的 riff 是最常被听出相似的，尤其是当它们出现在开头时。这种洗脑式的效果导致你在听到一段相似 riff 的时候，你会马上反应过来——咦，这不是那个啥歌里面的吗？
+
+这样的例子大多集中在 70-90 年代大量吉他/贝斯 riff 的摇滚音乐里。例如：
+
+*   Nirvana 的《Come as You Are》和 Killing Joke 的《Eighties》；
+
+<div><embed src="http://www.xiami.com/widget/0_1239162/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1768967814/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+*   Smash Mouth 的《Then the morning comes》和 The Animals 的《It's my life》；
+
+<div><embed src="http://www.xiami.com/widget/0_1762771/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1001833/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+*   Steriogram 的《Walkie Talkie Man》、The Kinks 的《Picture Book》、Green Day 的《Warning》这三首的开头 riff 段都很相似。
+
+<div><embed src="http://www.xiami.com/widget/0_3350652/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1104493/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1035315/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+再来个极端点的例子，Riot 的《Swords and Tequila》、Accept 的《Flash Rockin' Man》、Iron Maiden《2 Minutes to Midnight》、Mercyful Fate 的《Curse of the Pharoahs》、Raven 的《Seek And Destroy》、White Spirit 的《Midnight Chaser》、Rory Gallagher 的《Moonchild》……我不想在列下去了。你只需要听他们的 intro 部里的 riff 就足够了。
+
+<div><embed src="http://www.xiami.com/widget/0_1661110/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1504014/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1041769/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1769071279/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1846374/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed><embed src="http://www.xiami.com/widget/0_1770900644/singlePlayer.swf" type="application/x-shockwave-flash" width="257" height="33" wmode="transparent"></embed></div>
+
+这些歌的 riff 其实并不相同，但是都存在听觉上强烈的相似感——如果完全一样那肯定不是采样就是抄袭了。直观上，你可能会觉得这里存在我们在 2 里讲过的互相借鉴/影响的可能性，没错肯定是有的，但是也应该会存在一大批只是因为巧合。
+
+
+## 七、最巧的巧合，旋律
+抛开 riff 来说主旋律，主要是人声唱词部分的旋律。这方面，我主推荐两个网站收集的例子作为参考。欧美方面，[That Song Sounds Like](http://www.thatsongsoundslike.com/) 收集了不少，当然不全是旋律，也有各个方面的；国内方面，前几年有个[龙抄手博客](http://kaliumcat.ycool.com/)整理了华语乐坛里的，大概 500 多首，不过他将这些相似都简单归咎于抄袭，显然是不对的；Jpop 方面，有个在日娱圈子里不受欢迎的用户收集了相当多[相似的例子](http://i.youku.com/u/UMTI5Mzc4MTA0/playlists)，不受欢迎的原因和龙抄手一样——对乐理太过无知，甚至将常见“王道进行”当作剽窃，但是无论如何，他收集的这些资料相当有趣。
+
+如果你看了我最前面的视频，自然会有一个疑问——为什么我们有那么多的旋律可以写，但是写出来的旋律存在如此多的相似？抄袭，还是真的只是巧合？
+
+我这里并不想在乐理上做过多解释，也无意指点抄袭判断标准。用一个最有趣的例子来说明：
+
+08 年，美国吉他大师级人物 Joe Satrani 起诉 Coldplay 在《Viva La Vida》中抄袭了他的作品《If I Could Fly》，这事在国外乐迷里掀起的风波挺大的。比较有趣的事情是从英国民谣摇滚大师 Cat Stevens 站出来也指责 Coldpay “抄袭”他的《Foreigner Suite》开始，涉及的居然是同一段旋律，然后说不打算起诉他们。很显然，这是在英国的老家伙在搅混水护犊子。此外，还有一支不知名乐队 Creaky Boards 也站出来说《Viva La Vida》的那段旋律和自己的《The Songs I Didn't Write》。这就是此事与一般相似/抄袭案例不同所在。好事者收集了 12 首有着这段相似旋律的例子，称其为“[流行音乐中最常用的旋律](http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj)”。下面的回复中，数量还在不断增加，其实里面很几个例子对于我来说并不算太相似，不过这取决于你的耳朵。如果你有空，不妨挨个听听看:
+
+<div><embed src="http://player.youku.com/player.php/sid/XNTQ1OTcyMzgw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></div>
+
+问题出在哪？其实《Viva La Vida》和《If I Could Fly》甚至和弦进行都不相同，即使换成同样的 key，前者是 IV-V-I-vi，后者是 ii-V-I-vi，存在很大程度上的相似，但比起前面那些一样和弦进行的就差多了。
+
+主要问题还是旋律。当然还有别的，比如相同的 tempo，但是我们这里不是要为 Coldplay 辩护，而是讨论为什么会出现那么多相似的旋律。对此，Cat Stevens 的看法是：“因为和弦的逻辑所在，旋律自然会呈现出它应该有的走向。”
+
+这，或许能够解释旋律产生相似的原因。
+
+
+## 八、其他
+
+当我们说到其他，这里的其他指的是流行音乐中所有不太引人注意的元素。比如相同的风格，比如 key，比如 beat，比如 tempo，比如电流音效等等等等。任何一样单独拿出来，肯定不会有人觉得他们相似，但相似处构成一个整体，你就会发现，好像真的有点像？
+
+这方面的例子，比如 Katy Perry 的《California Gurls》和 Ke$ha 的《Tik Tok》，它们的风格一样，它们都是 Fmajor，它们的 tempo 几乎相同的（120 和 125），整体段落排列一致，而且到高潮处都还有类似的“哦哦哦哦”。尽管旋律上差别很大，但很多人依然觉得这两首太相似——听众可不管乐理，他们在乎的是感觉。与这两首风体风格类似的还有 Miley Cyrus 的《Permanent December》、Justice 的《The Party》，简直就是一条流水线上写出来的产品。
+
+为此，你可以调整 tempo 后将《California Gurls》和《Tik Tok》同时播放，你将发现简直是完美契合。不会没关系，已经有人做了，未剪辑过的，只调整tempo。还有人将两首 mashup 到一起，形成一首新歌。左为同步播放版，右为混音版：
+
+<div><embed src="http://player.youku.com/player.php/sid/XMzAzMTg4MDE2/v.swf" allowFullScreen="true" quality="high" width="360" height="300" align="center" allowScriptAccess="always" type="application/x-shockwave-flash"></embed><embed src="http://player.youku.com/player.php/sid/XMTc0MjM3NDUy/v.swf" allowFullScreen="true" quality="high" width="360" height="300" align="center" allowScriptAccess="always" type="application/x-shockwave-flash"></embed></div>
+
+类似的例子还有很多，同样是举不完的。
+
+
+## 结语
+到这里，我想我已经把存在相似的方面都已经讲完了。在最后，我说一下对歌曲相似的两种极端看法：一，粗暴的将歌曲相似归结于音乐产业的创意匮乏，例如前面提到的龙抄手博客；二，粗暴的将歌曲相似归结于抄袭，嗯，这种事太多我也不提了。无疑都是非常错误的认知。
+
+对于其一，我要指出无论何种音乐，都是一脉相承的，而人们大多数也都倾向于自己熟悉的模式，音乐产业固然存在模式化、流水线式的生产方式，但买单的是听众。如果你一定要埋怨这点，不如从改变自己的音乐习惯开始。少听一些 C G Am F 爱来爱去的流行口水歌，少听一些只知道琢磨什么摇滚精神卖弄歌词缺少技法上创新的乐队（猜猜我指的是谁？），多试着接触新的流派和新的领域，甚至包括微分音乐，都是很不错的选择。
+
+对于其二，我要说的是听众最好不要自己建立“心理法庭”，很容易会受到偏见的影响。音乐抄袭判定在任何国家都是一个技术性的难题，因为不像很多证据确凿的刑事案件，无法避免的是概率上确实存在的可能性——尽管很低。法律在这里只能维持音乐创作的自由和公平之间的平衡。日本的音乐抄袭判定就非常严格，在我国和美国算作抄袭的案例在日本或许结果就不一样了。如果你一定要为每一首歌“审判”，那么我建议你分析出所有存在相似的元素，然后再进行判断，不过即便到了这个时候，不同的人依然还是会有不同的判断。
+
+最后附上一个有意思的网站：[WhoSampled](http://www.whosampled.com/)。这个网站是寻找音乐脉络的好去处。不足的是网站并不是根据 credits 或是技术上判定，而是比较主观的方式，把所有的相似都简单粗暴的归为“采样”（sample）。我曾经看到有人把这个网站当作根据官方信息整理的采样数据库，这是不对的。
+
+
+## 相关链接及拓展阅读
+
+*   [Soundsjustlike.com](http://soundsjustlike.com/)
+*   [Thatsongsoundslike.com](http://thatsongsoundslike.com/)
+*   [WhoSampled](http://www.whosampled.com/)
+*   [龙抄手博客](http://kaliumcat.ycool.com/)
+*   estephenchan - [J-pop 盗作大全](http://i.youku.com/u/UMTI5Mzc4MTA0/playlists)
+*   BuzzFeed - [12 Songs That Sound The Same](http://www.buzzfeed.com/keithh3/12-songs-that-sound-the-same-25yj)
+*   BuzzFeed - [13 Songs That Sound Suspiciously Like Other Songs](http://www.buzzfeed.com/expresident/13-songs-that-sound-a-little-bit-too-much-like-oth)
+*   BuzzFeed - [15 songs that are blatant rip offs of other songs](http://www.buzzfeed.com/codydobie/15-songs-that-are-blatant-rip-offs-of-other-songs-3q4g)
+*   Complex - [57 Songs That Sound The Same](http://www.complex.com/music/2013/01/57-songs-that-sound-the-same/)
+*   Urlesque - [15 Plus Infinity Songs That Sound the Same](http://www.urlesque.com/2010/09/10/songs-sound-the-same/)
+*   ONTD - [Top 10 Songs That Sound Exactly The Same!](http://ohnotheydidnt.livejournal.com/49811102.html)
+*   PulseMusicBoard - [Songs That Sound Alike](http://pulsemusic.proboards.com/index.cgi?board=opinion&action=display&thread=28718)
+*   Hooktheory - [I analyzed the chords of 1300 popular songs for patterns.](http://www.hooktheory.com/blog/i-analyzed-the-chords-of-1300-popular-songs-for-patterns-this-is-what-i-found/)
+*   Hooktheory - [Songs With The Same Chords](http://www.hooktheory.com/trends)
+

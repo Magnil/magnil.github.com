@@ -1,0 +1,116 @@
+---
+layout: post
+title: "音乐可能被穷尽吗？"
+date: 2013-04-15 10:34
+comments: true
+categories: 思考
+tags: 音乐 科普 无限猴子 Vsauce
+---
+
+音乐可能被穷尽吗？Youtube 著名科普频道 [Vsauce](http://www.youtube.com/watch?v=DAcjV60RnRw) 就这一话题展开了讨论，先听听他怎么说吧：
+
+<div><object id="ssss" width="640" height="480" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=101800112_1804531244_Z060S3E8CWLK+l1lHz2stqlF+6xCpv2xhGu8u1ahJg9bUQiYJMXNb9wH4SHWAM5D83oLHcwydP4n3x0taata/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="640" height="480"></embed></object></div>
+
+我将该视频也投稿到了[Acfun](http://www.acfun.tv/v/ac627074)和[BiliBili](http://www.bilibili.tv/video/av537642/)，你也可以在那边看到人们是怎么看待这一话题的。
+
+视频提到的相关链接：
+
+*  Axis of Awesome - [4 Chords](http://v.youku.com/v_show/id_XMTY4MDk1MzA4.html)
+*  [一切都是混搭](http://ismag.net/blog/2013/04/14/everything-is-a-remix/)
+*  [Soundsjustlike.com](http://soundsjustlike.com)
+
+其他链接请参阅原视频里的视频详情。
+
+<!-- more -->
+
+
+## Where to start?
+让我们回到话题本身——音乐是否可能被穷尽？咋一听这个问题有些无厘头，又或者毫无意义。但是探索一切看起来无意义的问题是作为一个 geek 的本能兴趣——因为我想知道它有什么意义，而很多人不想。更何况，探索未知本来就是最大的意义。
+
+在我看来，这一问题实际上可以引出更多有趣的命题：
+
+*   音乐有多少种可能性？随机写出的乐谱，是否恰好能成为好听的音乐？
+*   音乐是被**创作**出来的，还是一直存在，只是等待人**发现**出来？
+*   依照传统作曲模式，我们有多大概率得出相似的音乐？
+*   两首歌要有多大程度上的区别，才可以称得上是不同的音乐？
+
+让我们一条一条来看。
+
+
+## 无限猴子定理
+在讨论音乐可能性之前，我们先介绍一个有趣的思想实验：无限猴子定理。
+
+无限猴子定理的表述为：让一只猴子在打字机上随机地按键，当按键时间达到**无穷**时，**几乎必然**能够打出任何给定的文字，比如莎士比亚的全套著作。这一定理论证了一个很大但**有限**的数绝不应该被视为**无限**，同时能够很好的帮助我们理解**无限**、**概率**和**时间**的概念——而这些概念往往是我们用实际经验和直观想象所无法理解的。
+
+这一思想在流行文化中占据了相当大的重量，频繁出现在各个影视剧、漫画、绘图小说中。国内著名的科幻小说《诗云》就是这一概念的引申。《银河系搭车客指南》也提到了该定理，并且对概率开了一个小玩笑：
+
+_“阿瑟！”他说，“这太神奇了！我们居然被一艘无限非概率驱动的飞船救了起来！真是不可思议！我以前听说过这样的传闻！但所有传闻都遭到了官方否认，现在他们肯定是完成了！他们实现了非概率驱动！阿瑟，这是……阿瑟？发生什么了？”_
+
+_阿瑟正全力顶在卧室的舱门上，试图把它关严，但总是做不到。一大堆细长的小手从门缝中拼命挤进来，手指都沾着墨水；细微的声音在外面疯狂地喋喋不休。_
+
+_阿瑟抬起头。_
+
+_“福特！”他说，“外面有无数只猴子想要进来和咱们讨论他们创作的剧本《哈姆雷特》。”_
+
+_——《银河系漫游指南》第 9 章，道格拉斯·亚当斯著，徐百柯译_
+
+之所以要在开始提到这个概念，是因为我们必须要澄清：无论音乐的可能性是多么大的一个数字，哪怕它已经大到超过我们人类的想象范围，但它决不是**无限**的。
+
+听起来好像我是在玩弄数学或者文字游戏，但这其实是一个非常实际的问题。因为音符的数量要远远少于文字，这样排列组合出来的可能性，旋律要远少于句子——在这里，我们先不考虑构成的旋律或是句子能否拥有具体的涵义。于是，音乐的可能性和文学的可能性，尽管看上去都是天文级的数字，但前者和后者完全不在同一个数量级之上——当然，还是**有限**的。
+
+如何计算这一有限的可能性是个难题。Vsauce 的视频只是提供一种思路，并不能作为答案。在 Acfun 的网友“要打飞机先”的回复里我看到了一种更有趣的思路，以后有机会打算写个程序来计算一下。如果你有什么更好的思路，欢迎指出。
+
+
+## 创作还是发现？
+在提出“音乐有多少种可能性”这一问题的时候，其实就有一个假设条件：无论一段旋律有没有被写过，它一直就在那里，等待被人们发现。
+
+在 Everything2 上，我曾经读过一篇有意思的文章：“[音乐是被创作出来的，还是被发现的？](http://everything2.com/title/Is+music+written+or+discovered%253F)”作者指出在他作曲时，会感觉他只不过是在从已有旋律中挖掘，因为他感受到了音符之间存在的内在逻辑，而他不过只是在遵照这一逻辑而已。这其实与“数学是被发明出来的，还是被发现的”命题类似，而一命题属于数学哲学里的重大分歧，是没有答案的。
+
+对于抽象意义上的音乐整体，我们一般认为“音乐是被发现的”，我们从大自然的声音中发掘出了音乐；但是具体到某一首的音乐，一般还是认为“音乐是被创作的”。在使用“创作”这个词的时候，我们倾向把自身当作创世主，随意支配自己的作品；如果换成“发现”，似乎成就感就少了一大半。是啊，如果这首歌一直就存在，你只不过碰巧发现了它，那又有什么好得意的？换做是我，我也不太愿意自己写的代码或是文章，被人认为只不过是从庞大可能性中发掘出的一种。
+
+不过有人不这么认为。Spider Robinson 有一篇著名的短篇科幻[《忧郁的大象》](http://ismag.net/blog/2013/04/28/melancholy-elephants/)(（Melancholy Elephants），获得了 1983 年雨果奖。文中的主角，是站在“发现”这一边的。在作者设想的未来社会里，有待发现的音乐已经越来越少——瓦格纳写出的所有音乐，连续播放的话将超过六十小时，而他们时代最流行的作曲人，穷其一生不过写出 12 小时的音乐。当然，作者也认为，从心理角度来看，“创作”这个说法会让人觉得更舒服。
+
+正如该小说中提到的，“创作”意味着无限，“发现”意味着有限。我会站在“发现”这一边。
+
+
+## 音乐上的相似
+正如 Vsauce 在最后提到的研究，我们的大脑使我们无法享受数学上旋律的巨大可能性，而是让我们更倾向于固定的模式。
+
+Reuters 曾报道：[流行音乐都太吵了，而且听起来都一样](http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726)。这不是信口开河，而是西班牙国家研究委员会旗下的一个项目组根据“百万歌曲集”（[the Million Song Dataset](http://labrosa.ee.columbia.edu/millionsong/)） 得出的结论。
+
+百万歌曲集是一个可供任何人自由研究使用的、收集当代流行音乐特征和元数据的数据库。简单来说，这个数据库将音乐分解成数据以供科学研究。他们发现了音乐表达日渐趋于同质化的证据，即在过去的 50 年里，音符组合之间衔接的多样性——包括和声和旋律——在不停的减少。此外，音量竞赛在流行音乐界越发严重，虽然我们一直在说这个事，但这是第一次由大数据分析得到的证据。如果你有兴趣，请查看他们在 Nature 上发表的论文：[《测量西方当代流行音乐的演化历程》](http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html)。
+
+这些都是科学方面的视角，至于从音乐本身开始分析，我将放到下一篇文章里来说。参见：[为什么流行音乐听起来都一样？](http://ismag.net/blog/2013/04/19/pop-music-all-sounds-the-same/)
+
+
+## 制度与听觉的限制
+在其他人的答案和评论中，我看到了一些不同的意见，例如“无限猴子不适用于该问题”、“无论排列出多少种组合，随意加上一个音符又是新的排列”、“虽然当前音符是有穷的，但是音调还可以划分的更为细致，更何况还有音量和音色”等等。我觉得争议在于**如何定义新音乐**，即：两首歌要有多大程度上的区别，才可以称得上是不同的音乐？在这一小节里统一回复一下。
+
+首先，我们将音符划分的如何细致，对于人耳来说其实是没有差别的，这一点本在 Vsauce 视频中已经提及，既然有人对此有异议，我这里再做下解释。人耳对于声音频率的感知范围是 20 ～ 20 kHz。如果你将其看作连续的集合，那自然是无限的，但是问题在于，人的大部分感官器官，都存在着一个名为**最小可觉差**的临界值，对于音高来说，这个值约为半音的百分之五。音量同理。因此，声音频率的划分无法无限的划分下去，即使我们有微分音乐，我们的音符仍然是有穷的，只是将穷尽音乐的时间往后延上一些数量级罢了。
+
+除却人耳的制约，我们依然还有版权制度来判定两首歌是否不同。在任何文艺作品的侵权判定中，“实质性相似”是非常重要的一条，而音乐中的“实质性相似”主要判断依据也是来源于旋律。以日本的四小节雷同制为例，在达到四小节雷同的基础上，无论之后再加几个音符，改变音量，又或是更换音色，改变演奏方式，法律不会认可这是**新的音乐作品**。即便没有版权制度，我们人耳也很难认可一段卡农的旋律，换一种乐器音色续上另外一段旋律再加上一些装饰音就是另外一首作品了，相反，这只是丰富了原作品，实质是**同一首作品的不同表达**。
+
+当然，我们一直是在传统和声学、十二平均律再到微分音的现有领域中晃荡，未来当然会有更多的音乐作曲形式，哪怕是有一天连噪音都会人当作音乐，但是鉴于人的感知器官并没有那么灵敏，那么，音乐依然还是有穷尽的，只是这个值已经超过宇宙中所有原子的数量，非要说它无限我也没太大意见。但是，音乐，或者说主流音乐真的会发展到那一步吗？我对此持保留意见，人类太倾向于固有模式了，这一天性是难以改变的。
+
+## 结语
+“音乐是否能穷尽”其实是个相当有趣的问题。我们大多数人在孩提时代都有过类似的想法，但很少有人将这一问题深入探究下去——因为别人告诉他们，这个问题毫无意义。事实上，我们可以发现从类似的想法可以引申出各种各样不同的问题，能够帮助你深入理解一些概念——无论是数学上的，还是乐理方面。它还可以开拓你的思维空间，甚至变成点子用在你的科幻作品中。这些都是相当有意义的。
+
+另外，虽然是讲音乐，但是这篇文章完全是以 Geek 的思维在写。下一篇，才是乐理。
+
+## 相关链接及拓展阅读
+*   Vsauce - [Will We Ever Run Out of New Music?](http://www.youtube.com/watch?v=DAcjV60RnRw)
+*   Wikipedia - [Infinite monkey theorem](http://en.wikipedia.org/wiki/Infinite_monkey)
+*   Wikipedia - [Loudness war](http://en.wikipedia.org/wiki/Loudness_war)
+*   Everything2 - [Is music written or discovered?](http://everything2.com/title/Is+music+written+or+discovered%253F)
+*   Everything2 - [How many melodies are there in the universe?](http://www.everything2.com/title/How+many+melodies+are+there+in+the+universe%253F)
+*   greenwych - [How many melodies can be written?](http://www.greenwych.ca/how-many.htm)
+*   CoveredInBees - [How many songs are there?](http://www.coveredinbees.org/node/264)
+*   causafinitaest - [How many melodies are there?](http://causafinitaest.blogspot.com/2011/01/how-many-melodies-are-there.html)
+*   Staight Dope Message Board - [Music:Invented or Discovered](http://boards.straightdope.com/sdmb/showthread.php?t=69966)
+*   The Giraffs Board - [Music:Created or Discovered?](http://www.giraffeboards.com/showthread.php?t=3528)
+*   eNotes - [Did humans discover music, or did humans invent music?](http://www.enotes.com/homework-help/did-humans-discover-music-did-humans-invent-m-406668)
+*   Spider Robinson - [Melancholy Elephants](http://www.spiderrobinson.com/melancholyelephants.html)
+*   Reuters - [Pop music too loud and all sounds the same](http://in.reuters.com/article/2012/07/26/us-science-music-idINBRE86P0R820120726)
+*   Nature - [Measuring the Evolution of Contemporary Western Popular Music](http://www.nature.com/srep/2012/120726/srep00521/full/srep00521.html)
+*   Life's Little Mysteries - [Pop Music All Sounds the Same Nowadays](http://www.lifeslittlemysteries.com/2714-pop-music-trends.html)
+*   Life's Little Mysteries - [What Makes Music Enjoyable?](http://www.lifeslittlemysteries.com/1122-what-makes-music-enjoyable.html)
